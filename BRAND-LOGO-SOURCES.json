@@ -1,0 +1,464 @@
+[
+  {
+    "slug": "peek-cloppenburg",
+    "page": "https://www.peek-cloppenburg.com/de/pressroom/pc-dusseldorf/mediadetail/logo",
+    "asset": "inline SVG on page",
+    "file": "peek-cloppenburg.svg",
+    "caveat": "Düsseldorf variant provisional; anniversary block excluded without reshaping the mark",
+    "name": "Peek & Cloppenburg Düsseldorf",
+    "monochrome": "assets/logos/peek-cloppenburg.png",
+    "dimensions": [
+      534,
+      76
+    ]
+  },
+  {
+    "slug": "wempe",
+    "page": "https://www.ph4.org/logo_logo.php?d=wempe&nvn=",
+    "asset": "https://www.ph4.org/_RU/DL/LOGO/w/wempe.gif",
+    "file": "wempe.gif",
+    "caveat": "Third-party raster; matched to identity studio https://www.loved.de/en/projects/wempe-branding",
+    "name": "Wempe",
+    "monochrome": "assets/logos/wempe.png",
+    "dimensions": [
+      214,
+      108
+    ]
+  },
+  {
+    "slug": "tommy",
+    "page": "https://iconlogovector.com/logo/tommy-hilfiger",
+    "asset": "https://iconlogovector.com/uploads/images/2024/04/lg-66111aa39958a-TOMMY-HILFIGER.webp",
+    "file": "tommy.png",
+    "caveat": "Third-party reproduction; official website timed out",
+    "name": "Tommy Hilfiger",
+    "monochrome": "assets/logos/tommy.png",
+    "dimensions": [
+      511,
+      30
+    ]
+  },
+  {
+    "slug": "roja",
+    "page": "https://rojalondon.com/",
+    "asset": "https://rojalondon.com/cdn/shop/files/roja-london-logo-gold.png?v=1747631605",
+    "file": "roja.png",
+    "name": "ROJA London",
+    "monochrome": "assets/logos/roja.png",
+    "dimensions": [
+      277,
+      123
+    ]
+  },
+  {
+    "slug": "nars",
+    "page": "https://www.narscosmetics.com/",
+    "asset": "https://www.narscosmetics.com/on/demandware.static/Sites-nars_us-Site/-/default/dw0da5ac7a/images/nars-logo-black.png",
+    "file": "nars.png",
+    "name": "NARS",
+    "monochrome": "assets/logos/nars.png",
+    "dimensions": [
+      362,
+      150
+    ]
+  },
+  {
+    "slug": "cerave",
+    "page": "https://www.cerave.com/?GeoRedirectOff=",
+    "asset": "https://www.cerave.com/-/media/project/loreal/brand-sites/cerave/shared/baseline/cerave-logo-top.svg?w=0&hash=239AA06EAC9D269F3D17D7645863F4C0",
+    "file": "cerave.svg",
+    "name": "CeraVe",
+    "monochrome": "assets/logos/cerave.png",
+    "dimensions": [
+      432,
+      150
+    ]
+  },
+  {
+    "slug": "laroche",
+    "page": "https://www.larocheposay.de/",
+    "asset": "https://www.larocheposay.de/-/media/project/loreal/brand-sites/lrp/shared/baseline/identity/lrp_logo/logo.png?h=51&w=200&la=de-DE&hash=C9A22CAE1B4101CDF0A1E8AA06E17561",
+    "file": "laroche.png",
+    "name": "La Roche-Posay",
+    "monochrome": "assets/logos/laroche.png",
+    "dimensions": [
+      540,
+      138
+    ]
+  },
+  {
+    "slug": "loreal",
+    "page": "https://www.lorealparisusa.com/",
+    "asset": "https://www.lorealparisusa.com/frontend/static/icons/loreal-paris-logo.svg",
+    "file": "loreal.svg",
+    "name": "L'Oréal Paris",
+    "monochrome": "assets/logos/loreal.png",
+    "dimensions": [
+      540,
+      144
+    ]
+  },
+  {
+    "slug": "karl",
+    "page": "https://www.karllagerfeld.com/en-us",
+    "asset": "inline SVG on page",
+    "file": "karl.svg",
+    "name": "Karl Lagerfeld",
+    "monochrome": "assets/logos/karl.png",
+    "dimensions": [
+      540,
+      46
+    ]
+  },
+  {
+    "slug": "canon",
+    "page": "https://global.canon/en/corporate/logo/",
+    "asset": "https://global.canon/en/corporate/logo/img/logo_01.png",
+    "file": "canon.png",
+    "name": "Canon",
+    "monochrome": "assets/logos/canon.png",
+    "dimensions": [
+      425,
+      90
+    ]
+  },
+  {
+    "slug": "exnihilo",
+    "page": "https://us.ex-nihilo-paris.com/",
+    "asset": "https://a.storyblok.com/f/299147/137x69/9c3c697b7a/logo-footer-svg.svg",
+    "file": "exnihilo.svg",
+    "name": "EX NIHILO Paris",
+    "monochrome": "assets/logos/exnihilo.png",
+    "dimensions": [
+      298,
+      150
+    ]
+  },
+  {
+    "slug": "amouage",
+    "page": "https://amouage.com/",
+    "asset": "https://amouage.com/cdn/shop/files/LOGO_2_2_1.svg?v=1700649625&width=600",
+    "file": "amouage.svg",
+    "name": "Amouage",
+    "monochrome": "assets/logos/amouage.png",
+    "dimensions": [
+      539,
+      72
+    ]
+  },
+  {
+    "slug": "marccain",
+    "page": "https://www.pressebox.de/anlagen/1105755",
+    "asset": "https://cdn.pressebox.de/r/c2e293efee1a1abf/attachments/11/05/75/thumbnail_1105755_746x466.jpg",
+    "file": "marccain.jpg",
+    "caveat": "Third-party press reproduction; not verified against current official mark",
+    "name": "Marc Cain",
+    "monochrome": "assets/logos/marccain.png",
+    "dimensions": [
+      240,
+      42
+    ]
+  },
+  {
+    "slug": "aylin",
+    "page": "https://byaylinkoenig.com/",
+    "asset": "https://byaylinkoenig.com/cdn/shop/files/Design_ohne_Titel_3.png?height=150&v=1777907795",
+    "file": "aylin.png",
+    "name": "by Aylin Koenig",
+    "monochrome": "assets/logos/aylin.png",
+    "dimensions": [
+      540,
+      78
+    ]
+  },
+  {
+    "slug": "kapten",
+    "page": "https://kapten-son.com/de",
+    "asset": "inline SVG on page",
+    "file": "kapten.svg",
+    "name": "Kapten & Son",
+    "monochrome": "assets/logos/kapten.png",
+    "dimensions": [
+      540,
+      42
+    ]
+  },
+  {
+    "slug": "heymarly",
+    "page": "https://www.heymarly.com/",
+    "asset": "https://www.heymarly.com/cdn/shop/files/HM_Logo_200px_schwarz_1605ee24-25fc-42c5-a817-68379e1782e7.png?v=1613627435&width=800",
+    "file": "heymarly.png",
+    "name": "HEY MARLY",
+    "monochrome": "assets/logos/heymarly.png",
+    "dimensions": [
+      449,
+      67
+    ]
+  },
+  {
+    "slug": "guerlain",
+    "page": "https://www.guerlain.com/us/en-us",
+    "asset": "inline SVG on page",
+    "file": "guerlain.svg",
+    "name": "Guerlain",
+    "monochrome": "assets/logos/guerlain.png",
+    "dimensions": [
+      540,
+      74
+    ]
+  },
+  {
+    "slug": "capolavoro",
+    "page": "https://www.capolavoro.com/",
+    "asset": "inline SVG on page",
+    "file": "capolavoro.svg",
+    "name": "CAPOLAVORO",
+    "monochrome": "assets/logos/capolavoro.png",
+    "dimensions": [
+      540,
+      51
+    ]
+  },
+  {
+    "slug": "grazia",
+    "page": "https://weat-studio.com/",
+    "asset": "https://weat-studio.com/cdn/shop/files/Grazia-Logo_svg_f4d28d94-f519-4ad3-b615-45bda5a33e6e.png?v=1755598640&width=1200",
+    "file": "grazia.png",
+    "name": "GRAZIA",
+    "monochrome": "assets/logos/grazia.png",
+    "dimensions": [
+      473,
+      148
+    ]
+  },
+  {
+    "slug": "acqua",
+    "page": "https://www.acquadiparma.com/en/us/",
+    "asset": "https://www.acquadiparma.com/on/demandware.static/Sites-acquadiparma_INT-Site/-/default/dwd93aec18/images/svg/logo.svg",
+    "file": "acqua.svg",
+    "caveat": "Classic mark from page metadata, not anniversary header version",
+    "name": "Acqua di Parma",
+    "monochrome": "assets/logos/acqua.png",
+    "dimensions": [
+      515,
+      56
+    ]
+  },
+  {
+    "slug": "apple",
+    "page": "https://www.apple.com/",
+    "asset": "inline SVG on page",
+    "file": "apple.svg",
+    "name": "Apple",
+    "monochrome": "assets/logos/apple.png",
+    "dimensions": [
+      116,
+      141
+    ]
+  },
+  {
+    "slug": "weat",
+    "page": "https://weat-studio.com/",
+    "asset": "https://weat-studio.com/cdn/shop/files/Design_ohne_Titel_2_f351e536-9fb1-4bb6-a4a0-73a74a84ecda.png?v=1760595899&width=315",
+    "file": "weat.png",
+    "name": "WEAT",
+    "monochrome": "assets/logos/weat.png",
+    "dimensions": [
+      450,
+      119
+    ]
+  },
+  {
+    "slug": "giacomelli",
+    "name": "Giacomelli Trachten",
+    "page": "https://giacomelli-trachten.com/",
+    "asset": "https://giacomelli-trachten.com/assets/giacomelli-script-logo-y9RNkH2o.jpeg",
+    "file": "giacomelli.jpeg",
+    "monochrome": "assets/logos/giacomelli.png",
+    "dimensions": [
+      720,
+      393
+    ]
+  },
+  {
+    "slug": "ariane",
+    "page": "https://arianeernst.com/en",
+    "asset": "https://arianeernst.com/cdn/shop/files/schriftzug_arianeernst_schwarz_360x.png?v=1679578234",
+    "file": "ariane.png",
+    "name": "ariane ernst",
+    "monochrome": "assets/logos/ariane.png",
+    "dimensions": [
+      540,
+      74
+    ]
+  },
+  {
+    "slug": "newsha",
+    "page": "https://www.newsha.de/",
+    "asset": "https://cdn.newsha.com/static/frontend/Bluro/newsha_hyva/de_DE/images/logo_newsha.svg",
+    "file": "newsha.svg",
+    "name": "NEWSHA",
+    "monochrome": "assets/logos/newsha.png",
+    "dimensions": [
+      540,
+      68
+    ]
+  },
+  {
+    "slug": "outletcity",
+    "page": "https://www.outletcity.com/en/metzingen/press/",
+    "asset": "inline SVG on page",
+    "file": "outletcity.svg",
+    "name": "Outletcity Metzingen",
+    "monochrome": "assets/logos/outletcity.png",
+    "dimensions": [
+      538,
+      126
+    ]
+  },
+  {
+    "slug": "fhcm",
+    "page": "https://www.fhcm.paris/en",
+    "asset": "https://www.fhcm.paris/themes/custom/fhcm/asset/fhcm.svg",
+    "file": "fhcm.svg",
+    "name": "Fédération de la Haute Couture et de la Mode",
+    "monochrome": "assets/logos/fhcm.png",
+    "dimensions": [
+      540,
+      98
+    ]
+  },
+  {
+    "slug": "visionnaires",
+    "page": "https://www.les-visionnaires.com/en",
+    "asset": "https://www.les-visionnaires.com/cdn/shop/files/LV_Logo_black_4e602a45-7170-41a9-92bc-6cd93534e34a.png?v=1614350899&width=5760",
+    "file": "visionnaires.png",
+    "name": "LES VISIONNAIRES",
+    "monochrome": "assets/logos/visionnaires.png",
+    "dimensions": [
+      540,
+      54
+    ]
+  },
+  {
+    "slug": "inuikii",
+    "page": "https://www.inuikii.com/",
+    "asset": "https://www.inuikii.com/cdn/shop/files/Ebene_1_1.svg?v=1771944396&width=152",
+    "file": "inuikii.svg",
+    "name": "INUIKII",
+    "monochrome": "assets/logos/inuikii.png",
+    "dimensions": [
+      540,
+      56
+    ]
+  },
+  {
+    "slug": "calzedonia",
+    "page": "https://www.calzedonia.com/de/",
+    "asset": "https://www.calzedonia.com/on/demandware.static/-/Library-Sites-CalzedoniaContentLibrary/de_DE/Calzedonia_logo.svg",
+    "file": "calzedonia.svg",
+    "name": "Calzedonia",
+    "monochrome": "assets/logos/calzedonia.png",
+    "dimensions": [
+      458,
+      50
+    ]
+  },
+  {
+    "slug": "frankie",
+    "page": "https://thefrankieshop.com/",
+    "asset": "inline SVG on page",
+    "file": "frankie.svg",
+    "name": "The Frankie Shop",
+    "monochrome": "assets/logos/frankie.png",
+    "dimensions": [
+      530,
+      64
+    ]
+  },
+  {
+    "slug": "comma",
+    "page": "https://www.comma-store.eu/",
+    "asset": "inline SVG on page",
+    "file": "comma.svg",
+    "name": "COMMA",
+    "monochrome": "assets/logos/comma.png",
+    "dimensions": [
+      540,
+      77
+    ]
+  },
+  {
+    "slug": "vogue",
+    "page": "https://www.vogue.com/",
+    "asset": "https://www.vogue.com/verso/static/vogue-global/assets/us/logo-reverse.svg",
+    "file": "vogue.svg",
+    "name": "VOGUE",
+    "monochrome": "assets/logos/vogue.png",
+    "dimensions": [
+      460,
+      118
+    ]
+  },
+  {
+    "slug": "drykorn",
+    "page": "https://drykorn.com/",
+    "asset": "https://drykorn.com/theme/019091e48f3c71f1855c242d2fd7e1c6/assets/media/logo.svg?1791643953",
+    "file": "drykorn.svg",
+    "name": "DRYKORN",
+    "monochrome": "assets/logos/drykorn.png",
+    "dimensions": [
+      390,
+      140
+    ]
+  },
+  {
+    "slug": "snocks",
+    "page": "https://snocks.com/",
+    "asset": "inline SVG on page",
+    "file": "snocks.svg",
+    "name": "SNOCKS",
+    "monochrome": "assets/logos/snocks.png",
+    "dimensions": [
+      540,
+      98
+    ]
+  },
+  {
+    "slug": "purelei",
+    "page": "https://purelei.com/",
+    "asset": "https://purelei.com/cdn/shop/t/1026/assets/layout.svg?v=81269570975788670241785858153#logo-purelei",
+    "file": "purelei.svg",
+    "name": "PURELEI",
+    "monochrome": "assets/logos/purelei.png",
+    "dimensions": [
+      540,
+      135
+    ]
+  },
+  {
+    "slug": "dyson",
+    "page": "https://mma.prnewswire.com/media/2406078/Dyson_Logo.html",
+    "asset": "https://mma.prnewswire.com/media/2406078/5921875/Dyson_Logo.jpg?p=publish",
+    "file": "dyson.jpg",
+    "caveat": "Press-distribution source; official Dyson website blocked",
+    "name": "Dyson",
+    "monochrome": "assets/logos/dyson.png",
+    "dimensions": [
+      540,
+      227
+    ]
+  },
+  {
+    "slug": "breuninger",
+    "page": "https://www.breuninger.com/de/",
+    "asset": "inline SVG wordmark in official page footer",
+    "file": "breuninger.svg",
+    "name": "Breuninger",
+    "monochrome": "assets/logos/breuninger.png",
+    "dimensions": [
+      539,
+      106
+    ]
+  }
+]
