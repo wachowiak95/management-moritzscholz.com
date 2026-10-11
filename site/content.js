@@ -6,415 +6,487 @@ window.portfolioContent = {
   "email": "contact@management-moritzscholz.com",
   "categories": [
     {
-      "slug": "street-style",
-      "title": "Street Style / Getty Images",
-      "cover": "assets/street-style/15YV94my2Jyl-XjzvgnLcz8gZtM996uEi-thumb.webp",
+      "slug": "events",
+      "title": "Events",
+      "cover": "assets/events/19XjJiKGk2SxpZyXNOXfxGCtltqs6ZtLg-thumb.webp",
       "media": [
         {
-          "src": "assets/street-style/1h6TUKiJv3S2a_RpaBwCwfr5XlslEV0iT.webp",
-          "thumb": "assets/street-style/1h6TUKiJv3S2a_RpaBwCwfr5XlslEV0iT-thumb.webp",
-          "alt": "Person in a brown jacket and wide-leg jeans on a city street.",
-          "caption": "",
-          "width": 1334,
-          "height": 2000
-        },
-        {
-          "src": "assets/street-style/1FfiyVhPKMgTvcfAEXEl4Y0AIBJiwO3OS.webp",
-          "thumb": "assets/street-style/1FfiyVhPKMgTvcfAEXEl4Y0AIBJiwO3OS-thumb.webp",
-          "alt": "Person in sunglasses walking past a stone building.",
-          "caption": "",
-          "width": 1334,
-          "height": 2000
-        },
-        {
-          "src": "assets/street-style/1UFenq6513yG-5wYtf1ug1bF2Mu4qzRbv.webp",
-          "thumb": "assets/street-style/1UFenq6513yG-5wYtf1ug1bF2Mu4qzRbv-thumb.webp",
-          "alt": "Person in a brown jacket beside a parked car.",
-          "caption": "",
-          "width": 1334,
-          "height": 2000
-        },
-        {
-          "src": "assets/street-style/1hy1wGD9TymiMzw-GSVGq1z8DjQDsiVUv.webp",
-          "thumb": "assets/street-style/1hy1wGD9TymiMzw-GSVGq1z8DjQDsiVUv-thumb.webp",
-          "alt": "Full-length street style portrait outside a stone building.",
-          "caption": "",
-          "width": 2000,
-          "height": 1334
-        },
-        {
-          "src": "assets/street-style/1t0V7-U7ytX_tS4Nnjr_WHzxOx3gRz_ml.webp",
-          "thumb": "assets/street-style/1t0V7-U7ytX_tS4Nnjr_WHzxOx3gRz_ml-thumb.webp",
-          "alt": "Close-up of jeans and black shoes in motion.",
-          "caption": "",
-          "width": 2000,
-          "height": 1334
-        },
-        {
-          "src": "assets/street-style/1Y_qSxWi0lTpDbFsYA39NxAGWHJai759p.webp",
-          "thumb": "assets/street-style/1Y_qSxWi0lTpDbFsYA39NxAGWHJai759p-thumb.webp",
-          "alt": "Person in a black outfit carrying a patterned tote.",
-          "caption": "",
-          "width": 1334,
-          "height": 2000
-        },
-        {
-          "src": "assets/street-style/10s5Yed_6X7GzoldrLwBswcFjeUexVF_5.webp",
-          "thumb": "assets/street-style/10s5Yed_6X7GzoldrLwBswcFjeUexVF_5-thumb.webp",
-          "alt": "Detail of a striped tote and a black outfit.",
-          "caption": "",
-          "width": 1334,
-          "height": 2000
-        },
-        {
-          "src": "assets/street-style/1jKbFpA_J2ZpKW9BSPhMup-rYQGpPhU2V.webp",
-          "thumb": "assets/street-style/1jKbFpA_J2ZpKW9BSPhMup-rYQGpPhU2V-thumb.webp",
-          "alt": "Close-up street portrait in a black outfit.",
-          "caption": "",
-          "width": 2000,
-          "height": 1334
-        },
-        {
-          "src": "assets/street-style/1ppGiigTxfhxP8nItEccHH-OKI1LWZznA.webp",
-          "thumb": "assets/street-style/1ppGiigTxfhxP8nItEccHH-OKI1LWZznA-thumb.webp",
-          "alt": "Person in black walking along a city pavement.",
-          "caption": "",
-          "width": 1334,
-          "height": 2000
-        },
-        {
-          "src": "assets/street-style/1Guk1hvg9ZfRKZX32qeGvKbtWEXmb9Xws.webp",
-          "thumb": "assets/street-style/1Guk1hvg9ZfRKZX32qeGvKbtWEXmb9Xws-thumb.webp",
-          "alt": "Side view of a person carrying a tote.",
-          "caption": "",
-          "width": 1334,
-          "height": 2000
-        },
-        {
-          "src": "assets/street-style/1SqL2qznT9ZUVaWTgsSN3URWk-wIqH7VU.webp",
-          "thumb": "assets/street-style/1SqL2qznT9ZUVaWTgsSN3URWk-wIqH7VU-thumb.webp",
-          "alt": "Person in a patterned dress and white cap.",
-          "caption": "",
-          "width": 2000,
-          "height": 1333
-        },
-        {
-          "src": "assets/street-style/1JGoN7Bww521CsaOCmFoNn1JIh_UPRxQE.webp",
-          "thumb": "assets/street-style/1JGoN7Bww521CsaOCmFoNn1JIh_UPRxQE-thumb.webp",
-          "alt": "Person in a patterned dress crossing a city street.",
-          "caption": "",
+          "src": "assets/events/1fM7FnS7sqqTfgIS-vppnj7jGyPx4lz_s.webp",
+          "thumb": "assets/events/1fM7FnS7sqqTfgIS-vppnj7jGyPx4lz_s-thumb.webp",
+          "alt": "Event dining room overlooking the water.",
+          "caption": "AMOUAGE Hamburg Event",
           "width": 1333,
           "height": 2000
         },
         {
-          "src": "assets/street-style/1ACP0zfd1uQnE_G8wP9aV-nGBoyz0IP7i.webp",
-          "thumb": "assets/street-style/1ACP0zfd1uQnE_G8wP9aV-nGBoyz0IP7i-thumb.webp",
-          "alt": "Close-up of black shoes and red socks.",
-          "caption": "",
-          "width": 2000,
-          "height": 1333
-        },
-        {
-          "src": "assets/street-style/1XXOmBd9tdhOJfidIB37ZI-5wL0igWrmw.webp",
-          "thumb": "assets/street-style/1XXOmBd9tdhOJfidIB37ZI-5wL0igWrmw-thumb.webp",
-          "alt": "Person in a pink printed shirt beside a brick wall.",
-          "caption": "",
+          "src": "assets/events/1jRqykgUN4THjJIolC4aCRq4BQvExz2z6.webp",
+          "thumb": "assets/events/1jRqykgUN4THjJIolC4aCRq4BQvExz2z6-thumb.webp",
+          "alt": "Perfume bottles on a display.",
+          "caption": "AMOUAGE Hamburg Event",
           "width": 1333,
           "height": 2000
         },
         {
-          "src": "assets/street-style/1LkEqRI_GgeCzAg66NUJcxNBnYcJ3yQHk.webp",
-          "thumb": "assets/street-style/1LkEqRI_GgeCzAg66NUJcxNBnYcJ3yQHk-thumb.webp",
-          "alt": "Detail of a pink printed shirt and black trousers.",
-          "caption": "",
+          "src": "assets/events/19XjJiKGk2SxpZyXNOXfxGCtltqs6ZtLg.webp",
+          "thumb": "assets/events/19XjJiKGk2SxpZyXNOXfxGCtltqs6ZtLg-thumb.webp",
+          "alt": "Portrait in front of an AMOUAGE backdrop.",
+          "caption": "AMOUAGE Hamburg Event",
           "width": 1333,
           "height": 2000
         },
         {
-          "src": "assets/street-style/1GkkeznRh9p8IjItnZuiNElIZyK7v_t7r.webp",
-          "thumb": "assets/street-style/1GkkeznRh9p8IjItnZuiNElIZyK7v_t7r-thumb.webp",
-          "alt": "Close-up of white shoes on pavement.",
-          "caption": "",
-          "width": 2000,
-          "height": 1333
-        },
-        {
-          "src": "assets/street-style/16n2pIfRAKAtpceynW-va8Zn-bFbWkrYf.webp",
-          "thumb": "assets/street-style/16n2pIfRAKAtpceynW-va8Zn-bFbWkrYf-thumb.webp",
-          "alt": "Full-length portrait beside a brick wall.",
-          "caption": "",
+          "src": "assets/events/1I4i5B_ivZm4eNpYO_my0TAcXpYnDZTvd.webp",
+          "thumb": "assets/events/1I4i5B_ivZm4eNpYO_my0TAcXpYnDZTvd-thumb.webp",
+          "alt": "Two guests posing at an AMOUAGE event.",
+          "caption": "AMOUAGE Hamburg Event",
           "width": 1333,
           "height": 2000
         },
         {
-          "src": "assets/street-style/1Y7fL2iQ47cEHznINynVncMVBPrXj71d4.webp",
-          "thumb": "assets/street-style/1Y7fL2iQ47cEHznINynVncMVBPrXj71d4-thumb.webp",
-          "alt": "Two people in dark outfits standing together.",
-          "caption": "",
+          "src": "assets/events/1dSCsiSHwJOcm6KrVwNlIdc4qZdg-wZ4h.webp",
+          "thumb": "assets/events/1dSCsiSHwJOcm6KrVwNlIdc4qZdg-wZ4h-thumb.webp",
+          "alt": "Guest holding a perfume bottle.",
+          "caption": "AMOUAGE Hamburg Event",
           "width": 1333,
           "height": 2000
         },
         {
-          "src": "assets/street-style/1AKp7FH98NVuQF287EsJrOkzDu-fXs_ch.webp",
-          "thumb": "assets/street-style/1AKp7FH98NVuQF287EsJrOkzDu-fXs_ch-thumb.webp",
-          "alt": "Details of shoes and bags of two people.",
-          "caption": "",
-          "width": 2000,
-          "height": 1333
+          "src": "assets/events/1L2HxDXgY6HDSopS7dwigUjOTVfMvq5ns.webp",
+          "thumb": "assets/events/1L2HxDXgY6HDSopS7dwigUjOTVfMvq5ns-thumb.webp",
+          "alt": "Guest in a white outfit at an AMOUAGE event.",
+          "caption": "AMOUAGE Hamburg Event",
+          "width": 1268,
+          "height": 2000
         },
         {
-          "src": "assets/street-style/14bSdA1v0s63nK73AO1bxkK78AeRbU_vj.webp",
-          "thumb": "assets/street-style/14bSdA1v0s63nK73AO1bxkK78AeRbU_vj-thumb.webp",
-          "alt": "Two people posing beside a brick wall.",
-          "caption": "",
+          "src": "assets/events/17_Atasx8M57wl8ZvJUW53AFoCV7kR-D9.webp",
+          "thumb": "assets/events/17_Atasx8M57wl8ZvJUW53AFoCV7kR-D9-thumb.webp",
+          "alt": "Two guests in front of an AMOUAGE backdrop.",
+          "caption": "AMOUAGE Hamburg Event",
+          "width": 1418,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/1gWJdS1flqBrvuJ8-Ijrwo5jb9JOwDM2k.webp",
+          "thumb": "assets/events/1gWJdS1flqBrvuJ8-Ijrwo5jb9JOwDM2k-thumb.webp",
+          "alt": "Speaker addressing guests in a dining room.",
+          "caption": "AMOUAGE Hamburg Event",
           "width": 1333,
           "height": 2000
         },
         {
-          "src": "assets/street-style/15fY0gh7Y0VKVS_QzGoru6B_wI_cb6aqm.webp",
-          "thumb": "assets/street-style/15fY0gh7Y0VKVS_QzGoru6B_wI_cb6aqm-thumb.webp",
-          "alt": "Person in a white sleeveless top walking on a city street.",
-          "caption": "",
-          "width": 2000,
-          "height": 1333
-        },
-        {
-          "src": "assets/street-style/1Fp_YTMlBezfJWPf4X5DWt0XCuPplpx7h.webp",
-          "thumb": "assets/street-style/1Fp_YTMlBezfJWPf4X5DWt0XCuPplpx7h-thumb.webp",
-          "alt": "Person in sunglasses and a white top.",
-          "caption": "",
+          "src": "assets/events/12E0PoegN-f_9Nk0jGV4SokRtLdgTH9lO.webp",
+          "thumb": "assets/events/12E0PoegN-f_9Nk0jGV4SokRtLdgTH9lO-thumb.webp",
+          "alt": "Close-up of a hand holding a perfume bottle.",
+          "caption": "AMOUAGE Hamburg Event",
           "width": 1333,
           "height": 2000
         },
         {
-          "src": "assets/street-style/1HEiXs9CHmYfZIJYad9x_Dm1VPTeTu3g4.webp",
-          "thumb": "assets/street-style/1HEiXs9CHmYfZIJYad9x_Dm1VPTeTu3g4-thumb.webp",
-          "alt": "Detail of a woven bag and pleated skirt.",
-          "caption": "",
-          "width": 2000,
-          "height": 1333
-        },
-        {
-          "src": "assets/street-style/1CU-js8tZqp-QM9eQOSFM9ZRV_74_-FDI.webp",
-          "thumb": "assets/street-style/1CU-js8tZqp-QM9eQOSFM9ZRV_74_-FDI-thumb.webp",
-          "alt": "Person in a patterned skirt walking in sunlight.",
-          "caption": "",
+          "src": "assets/events/1dqnYhRK48ZiGVqPg0JABLxYZCrLYntnC.webp",
+          "thumb": "assets/events/1dqnYhRK48ZiGVqPg0JABLxYZCrLYntnC-thumb.webp",
+          "alt": "Guest holding a bottle in a light suit.",
+          "caption": "AMOUAGE Hamburg Event",
           "width": 1333,
           "height": 2000
         },
         {
-          "src": "assets/street-style/138_LfhhfOKppHcycNh0cudmWchjI549A.webp",
-          "thumb": "assets/street-style/138_LfhhfOKppHcycNh0cudmWchjI549A-thumb.webp",
-          "alt": "Portrait in a patterned skirt outside a building.",
-          "caption": "",
+          "src": "assets/events/1QyLtVKS6DRJhfXh5s9WBJQqKg1SzkBXZ.webp",
+          "thumb": "assets/events/1QyLtVKS6DRJhfXh5s9WBJQqKg1SzkBXZ-thumb.webp",
+          "alt": "Guest posing with a perfume bottle.",
+          "caption": "AMOUAGE Hamburg Event",
           "width": 1333,
           "height": 2000
         },
         {
-          "src": "assets/street-style/1NNchdIAt_7Ejs928mLoaAUMGZY0vqjDk.webp",
-          "thumb": "assets/street-style/1NNchdIAt_7Ejs928mLoaAUMGZY0vqjDk-thumb.webp",
-          "alt": "Detail of a handbag and floral skirt.",
-          "caption": "",
+          "src": "assets/events/1ohfAVpUSDvlobubXj111aCHuyN0v_V0m.webp",
+          "thumb": "assets/events/1ohfAVpUSDvlobubXj111aCHuyN0v_V0m-thumb.webp",
+          "alt": "Close-up of a plated dessert.",
+          "caption": "AMOUAGE Hamburg Event",
           "width": 1333,
           "height": 2000
         },
         {
-          "src": "assets/street-style/1StIMHB0yVhERpkoas7UUSOBerMJTZWe5.webp",
-          "thumb": "assets/street-style/1StIMHB0yVhERpkoas7UUSOBerMJTZWe5-thumb.webp",
-          "alt": "Person in a white shirt posing beside a stone wall.",
-          "caption": "",
-          "width": 2000,
-          "height": 1336
-        },
-        {
-          "src": "assets/street-style/15YV94my2Jyl-XjzvgnLcz8gZtM996uEi.webp",
-          "thumb": "assets/street-style/15YV94my2Jyl-XjzvgnLcz8gZtM996uEi-thumb.webp",
-          "alt": "Person in a white shirt and blue trousers walking.",
-          "caption": "",
+          "src": "assets/events/1bD4oc_LTtO8T7v6LH3lznkkUIzCxN5BD.webp",
+          "thumb": "assets/events/1bD4oc_LTtO8T7v6LH3lznkkUIzCxN5BD-thumb.webp",
+          "alt": "Dining tables beside large windows.",
+          "caption": "AMOUAGE Hamburg Event",
           "width": 1336,
           "height": 2000
         },
         {
-          "src": "assets/street-style/1AyPaTbtA41pz60R9n5MJPw7Bcavlzhoo.webp",
-          "thumb": "assets/street-style/1AyPaTbtA41pz60R9n5MJPw7Bcavlzhoo-thumb.webp",
-          "alt": "Detail of a red handbag and blue trousers.",
-          "caption": "",
-          "width": 2000,
-          "height": 1336
-        },
-        {
-          "src": "assets/street-style/1XmQPFQdNNpcTwp43moJYccDXHHTNGqvv.webp",
-          "thumb": "assets/street-style/1XmQPFQdNNpcTwp43moJYccDXHHTNGqvv-thumb.webp",
-          "alt": "Person in a tan jacket walking across a street.",
-          "caption": "",
+          "src": "assets/events/13JinKCbdvC0UjA8Tf_Qbaq56ene3LIZw.webp",
+          "thumb": "assets/events/13JinKCbdvC0UjA8Tf_Qbaq56ene3LIZw-thumb.webp",
+          "alt": "Guest seated at an event table.",
+          "caption": "AMOUAGE Hamburg Event",
           "width": 1336,
           "height": 2000
         },
         {
-          "src": "assets/street-style/1BpSRTPlrqlr5VDBaBXGaWWow0aA6JQG0.webp",
-          "thumb": "assets/street-style/1BpSRTPlrqlr5VDBaBXGaWWow0aA6JQG0-thumb.webp",
-          "alt": "Person in a tan jacket surrounded by city architecture.",
-          "caption": "",
+          "src": "assets/events/1ug_mHqpym1BbmCfdVQzPgv1BDGei74je.webp",
+          "thumb": "assets/events/1ug_mHqpym1BbmCfdVQzPgv1BDGei74je-thumb.webp",
+          "alt": "Guest seated beside floral decorations.",
+          "caption": "AMOUAGE Hamburg Event",
           "width": 1336,
           "height": 2000
         },
         {
-          "src": "assets/people/1Ay0gQXMNyX5e8C6WUn0r_eN5T3YkJz9U.webp",
-          "thumb": "assets/people/1Ay0gQXMNyX5e8C6WUn0r_eN5T3YkJz9U-thumb.webp",
-          "alt": "Person walking with a red handbag.",
-          "caption": "",
-          "width": 2000,
-          "height": 1333
-        },
-        {
-          "src": "assets/people/1XEhwm7roDRTHJpeYCLj511Zy4orFfy-P.webp",
-          "thumb": "assets/people/1XEhwm7roDRTHJpeYCLj511Zy4orFfy-P-thumb.webp",
-          "alt": "Walking detail with a red handbag.",
-          "caption": "",
-          "width": 2000,
-          "height": 1333
-        },
-        {
-          "src": "assets/people/1T2CB94tdZ8HGhpiUQbT8fW3FcfETLUnL.webp",
-          "thumb": "assets/people/1T2CB94tdZ8HGhpiUQbT8fW3FcfETLUnL-thumb.webp",
-          "alt": "Detail of a white shirt and red bag.",
-          "caption": "",
-          "width": 1333,
-          "height": 2000
-        },
-        {
-          "src": "assets/people/1LF89XOpbZtAHKPmXgosU-ftCpupHCy6H.webp",
-          "thumb": "assets/people/1LF89XOpbZtAHKPmXgosU-ftCpupHCy6H-thumb.webp",
-          "alt": "Side profile in a white shirt.",
-          "caption": "",
-          "width": 1333,
-          "height": 2000
-        },
-        {
-          "src": "assets/people/1h8o4-6P9bu3N_HAXWntpQvcqx8AOc059.webp",
-          "thumb": "assets/people/1h8o4-6P9bu3N_HAXWntpQvcqx8AOc059-thumb.webp",
-          "alt": "Detail of a printed scarf over a white shirt.",
-          "caption": "",
-          "width": 2000,
-          "height": 1333
-        },
-        {
-          "src": "assets/people/15PLoMWREJ80cV1fM4ktB9Cnoh0h3mhto.webp",
-          "thumb": "assets/people/15PLoMWREJ80cV1fM4ktB9Cnoh0h3mhto-thumb.webp",
-          "alt": "Person walking past a stone facade.",
-          "caption": "",
-          "width": 2000,
-          "height": 1333
-        },
-        {
-          "src": "assets/people/1MutFxjaMXFFncYJWuYs9ADlXGO2XunMl.webp",
-          "thumb": "assets/people/1MutFxjaMXFFncYJWuYs9ADlXGO2XunMl-thumb.webp",
-          "alt": "Close-up of a red shoe and light trousers.",
-          "caption": "",
-          "width": 1333,
-          "height": 2000
-        },
-        {
-          "src": "assets/people/1fhKbgq1tnXLoI-b0io71BqSk2up_sN_k.webp",
-          "thumb": "assets/people/1fhKbgq1tnXLoI-b0io71BqSk2up_sN_k-thumb.webp",
-          "alt": "Close-up portrait in a navy jacket.",
-          "caption": "",
-          "width": 1333,
-          "height": 2000
-        },
-        {
-          "src": "assets/people/1GFn9jjCo0WHljYCvZXB0vXF73uNnm3uJ.webp",
-          "thumb": "assets/people/1GFn9jjCo0WHljYCvZXB0vXF73uNnm3uJ-thumb.webp",
-          "alt": "Person in a navy jacket and sunglasses.",
-          "caption": "",
-          "width": 1333,
-          "height": 2000
-        },
-        {
-          "src": "assets/people/1IWgyrX4bC3GvUvxT8km58_LRcFCjdEwq.webp",
-          "thumb": "assets/people/1IWgyrX4bC3GvUvxT8km58_LRcFCjdEwq-thumb.webp",
-          "alt": "Person in a navy jacket beside a column.",
-          "caption": "",
-          "width": 1333,
-          "height": 2000
-        },
-        {
-          "src": "assets/people/19cgAFN2u0dMTFRqNMxmlASE4dzm0EpM2.webp",
-          "thumb": "assets/people/19cgAFN2u0dMTFRqNMxmlASE4dzm0EpM2-thumb.webp",
-          "alt": "Full-length portrait in a striped top.",
-          "caption": "",
-          "width": 2000,
-          "height": 1333
-        },
-        {
-          "src": "assets/people/1OFt1kSYHtRYvECFFlRiqL8rD5JabuRpr.webp",
-          "thumb": "assets/people/1OFt1kSYHtRYvECFFlRiqL8rD5JabuRpr-thumb.webp",
-          "alt": "Person posing in a striped top and skirt.",
-          "caption": "",
-          "width": 1333,
-          "height": 2000
-        },
-        {
-          "src": "assets/people/1q2zMiX7kUhaleRTz8sBiTJVIHPE8eNjY.webp",
-          "thumb": "assets/people/1q2zMiX7kUhaleRTz8sBiTJVIHPE8eNjY-thumb.webp",
-          "alt": "Detail of a navy skirt and shoulder bag.",
-          "caption": "",
-          "width": 1333,
-          "height": 2000
-        },
-        {
-          "src": "assets/people/16E8Y2vj6pAFv0xg0wzWib0xn4f6xMWx0.webp",
-          "thumb": "assets/people/16E8Y2vj6pAFv0xg0wzWib0xn4f6xMWx0-thumb.webp",
-          "alt": "Detail of a navy skirt and tights.",
-          "caption": "",
-          "width": 1333,
-          "height": 2000
-        },
-        {
-          "src": "assets/people/14liykXTKCgrBo1wfTmh40kHjcvl86jVs.webp",
-          "thumb": "assets/people/14liykXTKCgrBo1wfTmh40kHjcvl86jVs-thumb.webp",
-          "alt": "Person in a striped top beside a doorway.",
-          "caption": "",
-          "width": 1333,
-          "height": 2000
-        },
-        {
-          "src": "assets/people/1Yyx8ipcCiXP3Jhs9YNiPBgmChgbjSL1D.webp",
-          "thumb": "assets/people/1Yyx8ipcCiXP3Jhs9YNiPBgmChgbjSL1D-thumb.webp",
-          "alt": "Person walking beside a pale stone wall.",
-          "caption": "",
+          "src": "assets/events/1E3Ltv79lnENvHUzx1tsgsjrC4g-YUctM.webp",
+          "thumb": "assets/events/1E3Ltv79lnENvHUzx1tsgsjrC4g-YUctM-thumb.webp",
+          "alt": "Close-up of hands and a notebook.",
+          "caption": "AMOUAGE Hamburg Event",
           "width": 1336,
           "height": 2000
         },
         {
-          "src": "assets/people/1wImPNUhIjNUPOibm2ygwPoROr1bsO4Cp.webp",
-          "thumb": "assets/people/1wImPNUhIjNUPOibm2ygwPoROr1bsO4Cp-thumb.webp",
-          "alt": "Person walking in a checked skirt.",
-          "caption": "",
-          "width": 2000,
-          "height": 1336
-        },
-        {
-          "src": "assets/people/1UFLSAcP7MXqIjNpCtVPhrJMFYhW0OlYl.webp",
-          "thumb": "assets/people/1UFLSAcP7MXqIjNpCtVPhrJMFYhW0OlYl-thumb.webp",
-          "alt": "Detail of a checked skirt and jacket.",
-          "caption": "",
-          "width": 2000,
-          "height": 1336
-        },
-        {
-          "src": "assets/people/1hQsHyTm6_OmDVKqwmaanpYr7jAicrtf4.webp",
-          "thumb": "assets/people/1hQsHyTm6_OmDVKqwmaanpYr7jAicrtf4-thumb.webp",
-          "alt": "Person in a dark jacket beside stone architecture.",
-          "caption": "",
+          "src": "assets/events/1MyhIc7tt1TqabHDreSqBtTJoGv3b7MBq.webp",
+          "thumb": "assets/events/1MyhIc7tt1TqabHDreSqBtTJoGv3b7MBq-thumb.webp",
+          "alt": "Printed fabric bag beside a chair.",
+          "caption": "Aylin König x Vitra",
           "width": 1336,
           "height": 2000
         },
         {
-          "src": "assets/people/1u3Dcx-aK7io7qJ09oNV0vOGLMFaNsYRT.webp",
-          "thumb": "assets/people/1u3Dcx-aK7io7qJ09oNV0vOGLMFaNsYRT-thumb.webp",
-          "alt": "Portrait in a checked skirt and sunglasses.",
-          "caption": "",
+          "src": "assets/events/1__HDTs9gJuXbR7gKb6t-x_hrTTIMpEkS.webp",
+          "thumb": "assets/events/1__HDTs9gJuXbR7gKb6t-x_hrTTIMpEkS-thumb.webp",
+          "alt": "Clothing displayed on a rack.",
+          "caption": "Aylin König x Vitra",
+          "width": 1336,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/1lazRAZOomZOXw4Rg6JhnC-6PkgTd60uP.webp",
+          "thumb": "assets/events/1lazRAZOomZOXw4Rg6JhnC-6PkgTd60uP-thumb.webp",
+          "alt": "Guest beside a striped sofa.",
+          "caption": "Aylin König x Vitra",
+          "width": 1336,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/1Sjkwa58b0JB0ft5f7po6s3ClZewzZjS_.webp",
+          "thumb": "assets/events/1Sjkwa58b0JB0ft5f7po6s3ClZewzZjS_-thumb.webp",
+          "alt": "Guest posing in a furnished interior.",
+          "caption": "Aylin König x Vitra",
+          "width": 1336,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/14CSk7KxMWzyFGpdjxVIUCRPYu0YE5bQf.webp",
+          "thumb": "assets/events/14CSk7KxMWzyFGpdjxVIUCRPYu0YE5bQf-thumb.webp",
+          "alt": "Two guests standing together inside.",
+          "caption": "Aylin König x Vitra",
+          "width": 1336,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/1jDTGe0Wu2tohDig5BgnKn0i_Bz_guq_0.webp",
+          "thumb": "assets/events/1jDTGe0Wu2tohDig5BgnKn0i_Bz_guq_0-thumb.webp",
+          "alt": "Table with flowers and decorative objects.",
+          "caption": "Aylin König x Vitra",
+          "width": 1336,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/1U7-aVhFDknzTifREKhiEai2-SA4grdQH.webp",
+          "thumb": "assets/events/1U7-aVhFDknzTifREKhiEai2-SA4grdQH-thumb.webp",
+          "alt": "Guest seated beside a striped sofa.",
+          "caption": "Aylin König x Vitra",
+          "width": 1336,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/1k_Zd_0y5cr1HDwvobyqti5VEwjsCa1XU.webp",
+          "thumb": "assets/events/1k_Zd_0y5cr1HDwvobyqti5VEwjsCa1XU-thumb.webp",
+          "alt": "Guest seated at a dining table.",
+          "caption": "Aylin König x Vitra",
+          "width": 1336,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/1jec9B6FuztpSDCXUEup7RACAOjeRDrHh.webp",
+          "thumb": "assets/events/1jec9B6FuztpSDCXUEup7RACAOjeRDrHh-thumb.webp",
+          "alt": "Two guests posing near a striped sofa.",
+          "caption": "Aylin König x Vitra",
+          "width": 1336,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/1BvPayfPG1VX2676BjOWQTut8qOzFxz3r.webp",
+          "thumb": "assets/events/1BvPayfPG1VX2676BjOWQTut8qOzFxz3r-thumb.webp",
+          "alt": "Two guests in front of a Guerlain backdrop.",
+          "caption": "Guerlain",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/1i_s1VBmlLn1p8k6vYes-2GqjwCiV2e-K.webp",
+          "thumb": "assets/events/1i_s1VBmlLn1p8k6vYes-2GqjwCiV2e-K-thumb.webp",
+          "alt": "Guests posing on a blue carpet.",
+          "caption": "Guerlain",
+          "width": 2000,
+          "height": 1333
+        },
+        {
+          "src": "assets/events/1UanuBozc_Mrudocfa5WyBnKzfgoJXPPk.webp",
+          "thumb": "assets/events/1UanuBozc_Mrudocfa5WyBnKzfgoJXPPk-thumb.webp",
+          "alt": "Portrait in front of a Guerlain backdrop.",
+          "caption": "Guerlain",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/1AbLb6Q5RWy__Ts62bseNf2HEixa1WHBm.webp",
+          "thumb": "assets/events/1AbLb6Q5RWy__Ts62bseNf2HEixa1WHBm-thumb.webp",
+          "alt": "Guest in a light outfit on a blue carpet.",
+          "caption": "Guerlain",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/1RO0PkvOquvGlIl43mpj68eRg8dglxAG8.webp",
+          "thumb": "assets/events/1RO0PkvOquvGlIl43mpj68eRg8dglxAG8-thumb.webp",
+          "alt": "Two guests standing together at a Guerlain event.",
+          "caption": "Guerlain",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/18_dI9MSi7ioQWSywOJQRFd55KWKxnbSU.webp",
+          "thumb": "assets/events/18_dI9MSi7ioQWSywOJQRFd55KWKxnbSU-thumb.webp",
+          "alt": "Guest posing beside floral decorations.",
+          "caption": "Guerlain",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/1wcVaOsGlcqo5Ib21GhUrAl7VzLqwExtK.webp",
+          "thumb": "assets/events/1wcVaOsGlcqo5Ib21GhUrAl7VzLqwExtK-thumb.webp",
+          "alt": "Close-up portrait at a Guerlain event.",
+          "caption": "Guerlain",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/10EqhHeHI-qYEIFmJszqRpVwQDdUcKSx-.webp",
+          "thumb": "assets/events/10EqhHeHI-qYEIFmJszqRpVwQDdUcKSx--thumb.webp",
+          "alt": "Guest holding a perfume bottle.",
+          "caption": "Guerlain",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/107e4XPPd2rPCfc4NZ7ZtT-sWQvWM2Yim.webp",
+          "thumb": "assets/events/107e4XPPd2rPCfc4NZ7ZtT-sWQvWM2Yim-thumb.webp",
+          "alt": "Perfume bottles displayed in bright light.",
+          "caption": "ROJA Berlin",
+          "width": 1336,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/1r0I-Lw37fY0A7gGqc-cRMl_0zI1Cst1X.webp",
+          "thumb": "assets/events/1r0I-Lw37fY0A7gGqc-cRMl_0zI1Cst1X-thumb.webp",
+          "alt": "Close-up of a perfume bottle.",
+          "caption": "ROJA Berlin",
+          "width": 1336,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/1eOPyxRETul7t1Y9NJXBmUxRljqv798Fw.webp",
+          "thumb": "assets/events/1eOPyxRETul7t1Y9NJXBmUxRljqv798Fw-thumb.webp",
+          "alt": "Dining table with candles and glasses.",
+          "caption": "ROJA Berlin",
+          "width": 1336,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/1KKSPbaeZvhrF86oFo32JEH3gFUwo4AhY.webp",
+          "thumb": "assets/events/1KKSPbaeZvhrF86oFo32JEH3gFUwo4AhY-thumb.webp",
+          "alt": "Guest in front of a blue ROJA backdrop.",
+          "caption": "ROJA Berlin",
+          "width": 1334,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/1b78nRMZikAN8PrS9hoHlvnqa0nInqp9n.webp",
+          "thumb": "assets/events/1b78nRMZikAN8PrS9hoHlvnqa0nInqp9n-thumb.webp",
+          "alt": "Guest holding a perfume bottle.",
+          "caption": "ROJA Berlin",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/1Kp7jTcrFZ-3Acn1oqRBqjFSkRx8u-IRw.webp",
+          "thumb": "assets/events/1Kp7jTcrFZ-3Acn1oqRBqjFSkRx8u-IRw-thumb.webp",
+          "alt": "Two guests at a ROJA event.",
+          "caption": "ROJA Berlin",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/19ZhZmHhJfMEX_-z4dfyc3w0Gxrc3d8KH.webp",
+          "thumb": "assets/events/19ZhZmHhJfMEX_-z4dfyc3w0Gxrc3d8KH-thumb.webp",
+          "alt": "Guest holding a bottle against a blue backdrop.",
+          "caption": "ROJA Berlin",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/1LThuWyW4mXiorel9Ng-E2A-IQNaEFZRU.webp",
+          "thumb": "assets/events/1LThuWyW4mXiorel9Ng-E2A-IQNaEFZRU-thumb.webp",
+          "alt": "Drinks on a table.",
+          "caption": "ROJA Berlin",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/19_y5bv00A3uJ3w2DBLoG1S8DmLjStnKQ.webp",
+          "thumb": "assets/events/19_y5bv00A3uJ3w2DBLoG1S8DmLjStnKQ-thumb.webp",
+          "alt": "Guests at a dimly lit bar.",
+          "caption": "ROJA Berlin",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/1-_srXONFY58GraodoaS7DtRP488AfWhs.webp",
+          "thumb": "assets/events/1-_srXONFY58GraodoaS7DtRP488AfWhs-thumb.webp",
+          "alt": "Guest posing against a blue backdrop.",
+          "caption": "ROJA Berlin",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/14_eQMYDy3jAlTgroO7uLfdU0nk2eeC7f.webp",
+          "thumb": "assets/events/14_eQMYDy3jAlTgroO7uLfdU0nk2eeC7f-thumb.webp",
+          "alt": "Guest looking at a perfume bottle.",
+          "caption": "ROJA Berlin",
+          "width": 2000,
+          "height": 1333
+        },
+        {
+          "src": "assets/events/1PmQjXEqdD2VWFrW3cE-HvKsRWstieFAx.webp",
+          "thumb": "assets/events/1PmQjXEqdD2VWFrW3cE-HvKsRWstieFAx-thumb.webp",
+          "alt": "Guest in a black outfit against a blue backdrop.",
+          "caption": "ROJA Berlin",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/1vbuyI0t-5slhaZ-d_EIZoCeTfQvVEfk2.webp",
+          "thumb": "assets/events/1vbuyI0t-5slhaZ-d_EIZoCeTfQvVEfk2-thumb.webp",
+          "alt": "Guest raising a perfume bottle.",
+          "caption": "ROJA Berlin",
+          "width": 2000,
+          "height": 1333
+        },
+        {
+          "src": "assets/events/1VYPybnSek9JcyhqWNOUaharo0zn_p_Lq.webp",
+          "thumb": "assets/events/1VYPybnSek9JcyhqWNOUaharo0zn_p_Lq-thumb.webp",
+          "alt": "Guests seated at a dining table.",
+          "caption": "ROJA Berlin",
+          "width": 2000,
+          "height": 1333
+        },
+        {
+          "src": "assets/events/1PG4Gm3m9aAlK40I1xPxO7xsdxgl8OdR1.webp",
+          "thumb": "assets/events/1PG4Gm3m9aAlK40I1xPxO7xsdxgl8OdR1-thumb.webp",
+          "alt": "Group portrait at a dining table.",
+          "caption": "ROJA Berlin",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/1TmUESi5JZtFurjxlEWZUx23OZ6jNqGvy.webp",
+          "thumb": "assets/events/1TmUESi5JZtFurjxlEWZUx23OZ6jNqGvy-thumb.webp",
+          "alt": "Group of guests posing in a dark room.",
+          "caption": "ROJA Berlin",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/1U61pmE6Zx7JkIV2mMmsIczJYfxyV0NZN.webp",
+          "thumb": "assets/events/1U61pmE6Zx7JkIV2mMmsIczJYfxyV0NZN-thumb.webp",
+          "alt": "Two guests posing together at dinner.",
+          "caption": "ROJA Berlin",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/12rFUFhRAMsROEjGMJxXW5tVjeIWj6nh3.webp",
+          "thumb": "assets/events/12rFUFhRAMsROEjGMJxXW5tVjeIWj6nh3-thumb.webp",
+          "alt": "Three guests at a dining table.",
+          "caption": "ROJA Berlin",
+          "width": 2000,
+          "height": 1333
+        },
+        {
+          "src": "assets/events/1iSs3uQxDKbDDYax0I6LXC09timb64Rqp.webp",
+          "thumb": "assets/events/1iSs3uQxDKbDDYax0I6LXC09timb64Rqp-thumb.webp",
+          "alt": "Overhead view of table settings.",
+          "caption": "Wempe x Antwerpen",
+          "width": 1336,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/1k1Ed_kHWhd8vbchaI3iSHttLoz1vFitm.webp",
+          "thumb": "assets/events/1k1Ed_kHWhd8vbchaI3iSHttLoz1vFitm-thumb.webp",
+          "alt": "Watch display inside a glass case.",
+          "caption": "Wempe x Antwerpen",
+          "width": 1336,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/1dGrp6cQ1XYhe14nnLgUE-yDD4RX5A5sA.webp",
+          "thumb": "assets/events/1dGrp6cQ1XYhe14nnLgUE-yDD4RX5A5sA-thumb.webp",
+          "alt": "Guest in a dark outfit beside a doorway.",
+          "caption": "Wempe x Antwerpen",
+          "width": 1336,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/18gNX8S8WP53H9HvoC0z-M13nEpj6MSS9.webp",
+          "thumb": "assets/events/18gNX8S8WP53H9HvoC0z-M13nEpj6MSS9-thumb.webp",
+          "alt": "Close-up of a wristwatch above a table.",
+          "caption": "Wempe x Antwerpen",
+          "width": 1336,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/1NtO20-Ib-UyetAY1vpeCOscYLCO1R2Zj.webp",
+          "thumb": "assets/events/1NtO20-Ib-UyetAY1vpeCOscYLCO1R2Zj-thumb.webp",
+          "alt": "Plated dish on a dining table.",
+          "caption": "Wempe x Antwerpen",
+          "width": 1336,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/1vxXrEug3oNVf-W2O1CRC76yk9iTN06J0.webp",
+          "thumb": "assets/events/1vxXrEug3oNVf-W2O1CRC76yk9iTN06J0-thumb.webp",
+          "alt": "Close-up of hands and a wristwatch.",
+          "caption": "Wempe x Antwerpen",
+          "width": 1336,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/1Y04VjpEeGUdHYzbr6Bv_Kt_jv4NE5Aa1.webp",
+          "thumb": "assets/events/1Y04VjpEeGUdHYzbr6Bv_Kt_jv4NE5Aa1-thumb.webp",
+          "alt": "Guest outside near trees.",
+          "caption": "Wempe x Antwerpen",
+          "width": 1336,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/1-M71gXOeZWbGmjIxIUejsxQgv-pMtvAz.webp",
+          "thumb": "assets/events/1-M71gXOeZWbGmjIxIUejsxQgv-pMtvAz-thumb.webp",
+          "alt": "Red event umbrella.",
+          "caption": "Wempe x Antwerpen",
+          "width": 1336,
+          "height": 2000
+        },
+        {
+          "src": "assets/events/1WIapKMCuTDzA8Y8a6Cgd0kL-z_tB9-48.webp",
+          "thumb": "assets/events/1WIapKMCuTDzA8Y8a6Cgd0kL-z_tB9-48-thumb.webp",
+          "alt": "Close-up of a wristwatch and red umbrella handle.",
+          "caption": "Wempe x Antwerpen",
           "width": 1336,
           "height": 2000
         }
@@ -1075,487 +1147,415 @@ window.portfolioContent = {
       ]
     },
     {
-      "slug": "events",
-      "title": "Events",
-      "cover": "assets/events/19XjJiKGk2SxpZyXNOXfxGCtltqs6ZtLg-thumb.webp",
+      "slug": "street-style",
+      "title": "Street Style / Getty Images",
+      "cover": "assets/street-style/15YV94my2Jyl-XjzvgnLcz8gZtM996uEi-thumb.webp",
       "media": [
         {
-          "src": "assets/events/1fM7FnS7sqqTfgIS-vppnj7jGyPx4lz_s.webp",
-          "thumb": "assets/events/1fM7FnS7sqqTfgIS-vppnj7jGyPx4lz_s-thumb.webp",
-          "alt": "Event dining room overlooking the water.",
-          "caption": "AMOUAGE Hamburg Event",
-          "width": 1333,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/1jRqykgUN4THjJIolC4aCRq4BQvExz2z6.webp",
-          "thumb": "assets/events/1jRqykgUN4THjJIolC4aCRq4BQvExz2z6-thumb.webp",
-          "alt": "Perfume bottles on a display.",
-          "caption": "AMOUAGE Hamburg Event",
-          "width": 1333,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/19XjJiKGk2SxpZyXNOXfxGCtltqs6ZtLg.webp",
-          "thumb": "assets/events/19XjJiKGk2SxpZyXNOXfxGCtltqs6ZtLg-thumb.webp",
-          "alt": "Portrait in front of an AMOUAGE backdrop.",
-          "caption": "AMOUAGE Hamburg Event",
-          "width": 1333,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/1I4i5B_ivZm4eNpYO_my0TAcXpYnDZTvd.webp",
-          "thumb": "assets/events/1I4i5B_ivZm4eNpYO_my0TAcXpYnDZTvd-thumb.webp",
-          "alt": "Two guests posing at an AMOUAGE event.",
-          "caption": "AMOUAGE Hamburg Event",
-          "width": 1333,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/1dSCsiSHwJOcm6KrVwNlIdc4qZdg-wZ4h.webp",
-          "thumb": "assets/events/1dSCsiSHwJOcm6KrVwNlIdc4qZdg-wZ4h-thumb.webp",
-          "alt": "Guest holding a perfume bottle.",
-          "caption": "AMOUAGE Hamburg Event",
-          "width": 1333,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/1L2HxDXgY6HDSopS7dwigUjOTVfMvq5ns.webp",
-          "thumb": "assets/events/1L2HxDXgY6HDSopS7dwigUjOTVfMvq5ns-thumb.webp",
-          "alt": "Guest in a white outfit at an AMOUAGE event.",
-          "caption": "AMOUAGE Hamburg Event",
-          "width": 1268,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/17_Atasx8M57wl8ZvJUW53AFoCV7kR-D9.webp",
-          "thumb": "assets/events/17_Atasx8M57wl8ZvJUW53AFoCV7kR-D9-thumb.webp",
-          "alt": "Two guests in front of an AMOUAGE backdrop.",
-          "caption": "AMOUAGE Hamburg Event",
-          "width": 1418,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/1gWJdS1flqBrvuJ8-Ijrwo5jb9JOwDM2k.webp",
-          "thumb": "assets/events/1gWJdS1flqBrvuJ8-Ijrwo5jb9JOwDM2k-thumb.webp",
-          "alt": "Speaker addressing guests in a dining room.",
-          "caption": "AMOUAGE Hamburg Event",
-          "width": 1333,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/12E0PoegN-f_9Nk0jGV4SokRtLdgTH9lO.webp",
-          "thumb": "assets/events/12E0PoegN-f_9Nk0jGV4SokRtLdgTH9lO-thumb.webp",
-          "alt": "Close-up of a hand holding a perfume bottle.",
-          "caption": "AMOUAGE Hamburg Event",
-          "width": 1333,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/1dqnYhRK48ZiGVqPg0JABLxYZCrLYntnC.webp",
-          "thumb": "assets/events/1dqnYhRK48ZiGVqPg0JABLxYZCrLYntnC-thumb.webp",
-          "alt": "Guest holding a bottle in a light suit.",
-          "caption": "AMOUAGE Hamburg Event",
-          "width": 1333,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/1QyLtVKS6DRJhfXh5s9WBJQqKg1SzkBXZ.webp",
-          "thumb": "assets/events/1QyLtVKS6DRJhfXh5s9WBJQqKg1SzkBXZ-thumb.webp",
-          "alt": "Guest posing with a perfume bottle.",
-          "caption": "AMOUAGE Hamburg Event",
-          "width": 1333,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/1ohfAVpUSDvlobubXj111aCHuyN0v_V0m.webp",
-          "thumb": "assets/events/1ohfAVpUSDvlobubXj111aCHuyN0v_V0m-thumb.webp",
-          "alt": "Close-up of a plated dessert.",
-          "caption": "AMOUAGE Hamburg Event",
-          "width": 1333,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/1bD4oc_LTtO8T7v6LH3lznkkUIzCxN5BD.webp",
-          "thumb": "assets/events/1bD4oc_LTtO8T7v6LH3lznkkUIzCxN5BD-thumb.webp",
-          "alt": "Dining tables beside large windows.",
-          "caption": "AMOUAGE Hamburg Event",
-          "width": 1336,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/13JinKCbdvC0UjA8Tf_Qbaq56ene3LIZw.webp",
-          "thumb": "assets/events/13JinKCbdvC0UjA8Tf_Qbaq56ene3LIZw-thumb.webp",
-          "alt": "Guest seated at an event table.",
-          "caption": "AMOUAGE Hamburg Event",
-          "width": 1336,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/1ug_mHqpym1BbmCfdVQzPgv1BDGei74je.webp",
-          "thumb": "assets/events/1ug_mHqpym1BbmCfdVQzPgv1BDGei74je-thumb.webp",
-          "alt": "Guest seated beside floral decorations.",
-          "caption": "AMOUAGE Hamburg Event",
-          "width": 1336,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/1E3Ltv79lnENvHUzx1tsgsjrC4g-YUctM.webp",
-          "thumb": "assets/events/1E3Ltv79lnENvHUzx1tsgsjrC4g-YUctM-thumb.webp",
-          "alt": "Close-up of hands and a notebook.",
-          "caption": "AMOUAGE Hamburg Event",
-          "width": 1336,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/1MyhIc7tt1TqabHDreSqBtTJoGv3b7MBq.webp",
-          "thumb": "assets/events/1MyhIc7tt1TqabHDreSqBtTJoGv3b7MBq-thumb.webp",
-          "alt": "Printed fabric bag beside a chair.",
-          "caption": "Aylin König x Vitra",
-          "width": 1336,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/1__HDTs9gJuXbR7gKb6t-x_hrTTIMpEkS.webp",
-          "thumb": "assets/events/1__HDTs9gJuXbR7gKb6t-x_hrTTIMpEkS-thumb.webp",
-          "alt": "Clothing displayed on a rack.",
-          "caption": "Aylin König x Vitra",
-          "width": 1336,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/1lazRAZOomZOXw4Rg6JhnC-6PkgTd60uP.webp",
-          "thumb": "assets/events/1lazRAZOomZOXw4Rg6JhnC-6PkgTd60uP-thumb.webp",
-          "alt": "Guest beside a striped sofa.",
-          "caption": "Aylin König x Vitra",
-          "width": 1336,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/1Sjkwa58b0JB0ft5f7po6s3ClZewzZjS_.webp",
-          "thumb": "assets/events/1Sjkwa58b0JB0ft5f7po6s3ClZewzZjS_-thumb.webp",
-          "alt": "Guest posing in a furnished interior.",
-          "caption": "Aylin König x Vitra",
-          "width": 1336,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/14CSk7KxMWzyFGpdjxVIUCRPYu0YE5bQf.webp",
-          "thumb": "assets/events/14CSk7KxMWzyFGpdjxVIUCRPYu0YE5bQf-thumb.webp",
-          "alt": "Two guests standing together inside.",
-          "caption": "Aylin König x Vitra",
-          "width": 1336,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/1jDTGe0Wu2tohDig5BgnKn0i_Bz_guq_0.webp",
-          "thumb": "assets/events/1jDTGe0Wu2tohDig5BgnKn0i_Bz_guq_0-thumb.webp",
-          "alt": "Table with flowers and decorative objects.",
-          "caption": "Aylin König x Vitra",
-          "width": 1336,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/1U7-aVhFDknzTifREKhiEai2-SA4grdQH.webp",
-          "thumb": "assets/events/1U7-aVhFDknzTifREKhiEai2-SA4grdQH-thumb.webp",
-          "alt": "Guest seated beside a striped sofa.",
-          "caption": "Aylin König x Vitra",
-          "width": 1336,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/1k_Zd_0y5cr1HDwvobyqti5VEwjsCa1XU.webp",
-          "thumb": "assets/events/1k_Zd_0y5cr1HDwvobyqti5VEwjsCa1XU-thumb.webp",
-          "alt": "Guest seated at a dining table.",
-          "caption": "Aylin König x Vitra",
-          "width": 1336,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/1jec9B6FuztpSDCXUEup7RACAOjeRDrHh.webp",
-          "thumb": "assets/events/1jec9B6FuztpSDCXUEup7RACAOjeRDrHh-thumb.webp",
-          "alt": "Two guests posing near a striped sofa.",
-          "caption": "Aylin König x Vitra",
-          "width": 1336,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/1BvPayfPG1VX2676BjOWQTut8qOzFxz3r.webp",
-          "thumb": "assets/events/1BvPayfPG1VX2676BjOWQTut8qOzFxz3r-thumb.webp",
-          "alt": "Two guests in front of a Guerlain backdrop.",
-          "caption": "Guerlain",
-          "width": 1333,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/1i_s1VBmlLn1p8k6vYes-2GqjwCiV2e-K.webp",
-          "thumb": "assets/events/1i_s1VBmlLn1p8k6vYes-2GqjwCiV2e-K-thumb.webp",
-          "alt": "Guests posing on a blue carpet.",
-          "caption": "Guerlain",
-          "width": 2000,
-          "height": 1333
-        },
-        {
-          "src": "assets/events/1UanuBozc_Mrudocfa5WyBnKzfgoJXPPk.webp",
-          "thumb": "assets/events/1UanuBozc_Mrudocfa5WyBnKzfgoJXPPk-thumb.webp",
-          "alt": "Portrait in front of a Guerlain backdrop.",
-          "caption": "Guerlain",
-          "width": 1333,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/1AbLb6Q5RWy__Ts62bseNf2HEixa1WHBm.webp",
-          "thumb": "assets/events/1AbLb6Q5RWy__Ts62bseNf2HEixa1WHBm-thumb.webp",
-          "alt": "Guest in a light outfit on a blue carpet.",
-          "caption": "Guerlain",
-          "width": 1333,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/1RO0PkvOquvGlIl43mpj68eRg8dglxAG8.webp",
-          "thumb": "assets/events/1RO0PkvOquvGlIl43mpj68eRg8dglxAG8-thumb.webp",
-          "alt": "Two guests standing together at a Guerlain event.",
-          "caption": "Guerlain",
-          "width": 1333,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/18_dI9MSi7ioQWSywOJQRFd55KWKxnbSU.webp",
-          "thumb": "assets/events/18_dI9MSi7ioQWSywOJQRFd55KWKxnbSU-thumb.webp",
-          "alt": "Guest posing beside floral decorations.",
-          "caption": "Guerlain",
-          "width": 1333,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/1wcVaOsGlcqo5Ib21GhUrAl7VzLqwExtK.webp",
-          "thumb": "assets/events/1wcVaOsGlcqo5Ib21GhUrAl7VzLqwExtK-thumb.webp",
-          "alt": "Close-up portrait at a Guerlain event.",
-          "caption": "Guerlain",
-          "width": 1333,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/10EqhHeHI-qYEIFmJszqRpVwQDdUcKSx-.webp",
-          "thumb": "assets/events/10EqhHeHI-qYEIFmJszqRpVwQDdUcKSx--thumb.webp",
-          "alt": "Guest holding a perfume bottle.",
-          "caption": "Guerlain",
-          "width": 1333,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/107e4XPPd2rPCfc4NZ7ZtT-sWQvWM2Yim.webp",
-          "thumb": "assets/events/107e4XPPd2rPCfc4NZ7ZtT-sWQvWM2Yim-thumb.webp",
-          "alt": "Perfume bottles displayed in bright light.",
-          "caption": "ROJA Berlin",
-          "width": 1336,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/1r0I-Lw37fY0A7gGqc-cRMl_0zI1Cst1X.webp",
-          "thumb": "assets/events/1r0I-Lw37fY0A7gGqc-cRMl_0zI1Cst1X-thumb.webp",
-          "alt": "Close-up of a perfume bottle.",
-          "caption": "ROJA Berlin",
-          "width": 1336,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/1eOPyxRETul7t1Y9NJXBmUxRljqv798Fw.webp",
-          "thumb": "assets/events/1eOPyxRETul7t1Y9NJXBmUxRljqv798Fw-thumb.webp",
-          "alt": "Dining table with candles and glasses.",
-          "caption": "ROJA Berlin",
-          "width": 1336,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/1KKSPbaeZvhrF86oFo32JEH3gFUwo4AhY.webp",
-          "thumb": "assets/events/1KKSPbaeZvhrF86oFo32JEH3gFUwo4AhY-thumb.webp",
-          "alt": "Guest in front of a blue ROJA backdrop.",
-          "caption": "ROJA Berlin",
+          "src": "assets/street-style/1h6TUKiJv3S2a_RpaBwCwfr5XlslEV0iT.webp",
+          "thumb": "assets/street-style/1h6TUKiJv3S2a_RpaBwCwfr5XlslEV0iT-thumb.webp",
+          "alt": "Person in a brown jacket and wide-leg jeans on a city street.",
+          "caption": "",
           "width": 1334,
           "height": 2000
         },
         {
-          "src": "assets/events/1b78nRMZikAN8PrS9hoHlvnqa0nInqp9n.webp",
-          "thumb": "assets/events/1b78nRMZikAN8PrS9hoHlvnqa0nInqp9n-thumb.webp",
-          "alt": "Guest holding a perfume bottle.",
-          "caption": "ROJA Berlin",
-          "width": 1333,
+          "src": "assets/street-style/1FfiyVhPKMgTvcfAEXEl4Y0AIBJiwO3OS.webp",
+          "thumb": "assets/street-style/1FfiyVhPKMgTvcfAEXEl4Y0AIBJiwO3OS-thumb.webp",
+          "alt": "Person in sunglasses walking past a stone building.",
+          "caption": "",
+          "width": 1334,
           "height": 2000
         },
         {
-          "src": "assets/events/1Kp7jTcrFZ-3Acn1oqRBqjFSkRx8u-IRw.webp",
-          "thumb": "assets/events/1Kp7jTcrFZ-3Acn1oqRBqjFSkRx8u-IRw-thumb.webp",
-          "alt": "Two guests at a ROJA event.",
-          "caption": "ROJA Berlin",
-          "width": 1333,
+          "src": "assets/street-style/1UFenq6513yG-5wYtf1ug1bF2Mu4qzRbv.webp",
+          "thumb": "assets/street-style/1UFenq6513yG-5wYtf1ug1bF2Mu4qzRbv-thumb.webp",
+          "alt": "Person in a brown jacket beside a parked car.",
+          "caption": "",
+          "width": 1334,
           "height": 2000
         },
         {
-          "src": "assets/events/19ZhZmHhJfMEX_-z4dfyc3w0Gxrc3d8KH.webp",
-          "thumb": "assets/events/19ZhZmHhJfMEX_-z4dfyc3w0Gxrc3d8KH-thumb.webp",
-          "alt": "Guest holding a bottle against a blue backdrop.",
-          "caption": "ROJA Berlin",
-          "width": 1333,
+          "src": "assets/street-style/1hy1wGD9TymiMzw-GSVGq1z8DjQDsiVUv.webp",
+          "thumb": "assets/street-style/1hy1wGD9TymiMzw-GSVGq1z8DjQDsiVUv-thumb.webp",
+          "alt": "Full-length street style portrait outside a stone building.",
+          "caption": "",
+          "width": 2000,
+          "height": 1334
+        },
+        {
+          "src": "assets/street-style/1t0V7-U7ytX_tS4Nnjr_WHzxOx3gRz_ml.webp",
+          "thumb": "assets/street-style/1t0V7-U7ytX_tS4Nnjr_WHzxOx3gRz_ml-thumb.webp",
+          "alt": "Close-up of jeans and black shoes in motion.",
+          "caption": "",
+          "width": 2000,
+          "height": 1334
+        },
+        {
+          "src": "assets/street-style/1Y_qSxWi0lTpDbFsYA39NxAGWHJai759p.webp",
+          "thumb": "assets/street-style/1Y_qSxWi0lTpDbFsYA39NxAGWHJai759p-thumb.webp",
+          "alt": "Person in a black outfit carrying a patterned tote.",
+          "caption": "",
+          "width": 1334,
           "height": 2000
         },
         {
-          "src": "assets/events/1LThuWyW4mXiorel9Ng-E2A-IQNaEFZRU.webp",
-          "thumb": "assets/events/1LThuWyW4mXiorel9Ng-E2A-IQNaEFZRU-thumb.webp",
-          "alt": "Drinks on a table.",
-          "caption": "ROJA Berlin",
-          "width": 1333,
+          "src": "assets/street-style/10s5Yed_6X7GzoldrLwBswcFjeUexVF_5.webp",
+          "thumb": "assets/street-style/10s5Yed_6X7GzoldrLwBswcFjeUexVF_5-thumb.webp",
+          "alt": "Detail of a striped tote and a black outfit.",
+          "caption": "",
+          "width": 1334,
           "height": 2000
         },
         {
-          "src": "assets/events/19_y5bv00A3uJ3w2DBLoG1S8DmLjStnKQ.webp",
-          "thumb": "assets/events/19_y5bv00A3uJ3w2DBLoG1S8DmLjStnKQ-thumb.webp",
-          "alt": "Guests at a dimly lit bar.",
-          "caption": "ROJA Berlin",
-          "width": 1333,
+          "src": "assets/street-style/1jKbFpA_J2ZpKW9BSPhMup-rYQGpPhU2V.webp",
+          "thumb": "assets/street-style/1jKbFpA_J2ZpKW9BSPhMup-rYQGpPhU2V-thumb.webp",
+          "alt": "Close-up street portrait in a black outfit.",
+          "caption": "",
+          "width": 2000,
+          "height": 1334
+        },
+        {
+          "src": "assets/street-style/1ppGiigTxfhxP8nItEccHH-OKI1LWZznA.webp",
+          "thumb": "assets/street-style/1ppGiigTxfhxP8nItEccHH-OKI1LWZznA-thumb.webp",
+          "alt": "Person in black walking along a city pavement.",
+          "caption": "",
+          "width": 1334,
           "height": 2000
         },
         {
-          "src": "assets/events/1-_srXONFY58GraodoaS7DtRP488AfWhs.webp",
-          "thumb": "assets/events/1-_srXONFY58GraodoaS7DtRP488AfWhs-thumb.webp",
-          "alt": "Guest posing against a blue backdrop.",
-          "caption": "ROJA Berlin",
-          "width": 1333,
+          "src": "assets/street-style/1Guk1hvg9ZfRKZX32qeGvKbtWEXmb9Xws.webp",
+          "thumb": "assets/street-style/1Guk1hvg9ZfRKZX32qeGvKbtWEXmb9Xws-thumb.webp",
+          "alt": "Side view of a person carrying a tote.",
+          "caption": "",
+          "width": 1334,
           "height": 2000
         },
         {
-          "src": "assets/events/14_eQMYDy3jAlTgroO7uLfdU0nk2eeC7f.webp",
-          "thumb": "assets/events/14_eQMYDy3jAlTgroO7uLfdU0nk2eeC7f-thumb.webp",
-          "alt": "Guest looking at a perfume bottle.",
-          "caption": "ROJA Berlin",
+          "src": "assets/street-style/1SqL2qznT9ZUVaWTgsSN3URWk-wIqH7VU.webp",
+          "thumb": "assets/street-style/1SqL2qznT9ZUVaWTgsSN3URWk-wIqH7VU-thumb.webp",
+          "alt": "Person in a patterned dress and white cap.",
+          "caption": "",
           "width": 2000,
           "height": 1333
         },
         {
-          "src": "assets/events/1PmQjXEqdD2VWFrW3cE-HvKsRWstieFAx.webp",
-          "thumb": "assets/events/1PmQjXEqdD2VWFrW3cE-HvKsRWstieFAx-thumb.webp",
-          "alt": "Guest in a black outfit against a blue backdrop.",
-          "caption": "ROJA Berlin",
+          "src": "assets/street-style/1JGoN7Bww521CsaOCmFoNn1JIh_UPRxQE.webp",
+          "thumb": "assets/street-style/1JGoN7Bww521CsaOCmFoNn1JIh_UPRxQE-thumb.webp",
+          "alt": "Person in a patterned dress crossing a city street.",
+          "caption": "",
           "width": 1333,
           "height": 2000
         },
         {
-          "src": "assets/events/1vbuyI0t-5slhaZ-d_EIZoCeTfQvVEfk2.webp",
-          "thumb": "assets/events/1vbuyI0t-5slhaZ-d_EIZoCeTfQvVEfk2-thumb.webp",
-          "alt": "Guest raising a perfume bottle.",
-          "caption": "ROJA Berlin",
+          "src": "assets/street-style/1ACP0zfd1uQnE_G8wP9aV-nGBoyz0IP7i.webp",
+          "thumb": "assets/street-style/1ACP0zfd1uQnE_G8wP9aV-nGBoyz0IP7i-thumb.webp",
+          "alt": "Close-up of black shoes and red socks.",
+          "caption": "",
           "width": 2000,
           "height": 1333
         },
         {
-          "src": "assets/events/1VYPybnSek9JcyhqWNOUaharo0zn_p_Lq.webp",
-          "thumb": "assets/events/1VYPybnSek9JcyhqWNOUaharo0zn_p_Lq-thumb.webp",
-          "alt": "Guests seated at a dining table.",
-          "caption": "ROJA Berlin",
+          "src": "assets/street-style/1XXOmBd9tdhOJfidIB37ZI-5wL0igWrmw.webp",
+          "thumb": "assets/street-style/1XXOmBd9tdhOJfidIB37ZI-5wL0igWrmw-thumb.webp",
+          "alt": "Person in a pink printed shirt beside a brick wall.",
+          "caption": "",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/street-style/1LkEqRI_GgeCzAg66NUJcxNBnYcJ3yQHk.webp",
+          "thumb": "assets/street-style/1LkEqRI_GgeCzAg66NUJcxNBnYcJ3yQHk-thumb.webp",
+          "alt": "Detail of a pink printed shirt and black trousers.",
+          "caption": "",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/street-style/1GkkeznRh9p8IjItnZuiNElIZyK7v_t7r.webp",
+          "thumb": "assets/street-style/1GkkeznRh9p8IjItnZuiNElIZyK7v_t7r-thumb.webp",
+          "alt": "Close-up of white shoes on pavement.",
+          "caption": "",
           "width": 2000,
           "height": 1333
         },
         {
-          "src": "assets/events/1PG4Gm3m9aAlK40I1xPxO7xsdxgl8OdR1.webp",
-          "thumb": "assets/events/1PG4Gm3m9aAlK40I1xPxO7xsdxgl8OdR1-thumb.webp",
-          "alt": "Group portrait at a dining table.",
-          "caption": "ROJA Berlin",
+          "src": "assets/street-style/16n2pIfRAKAtpceynW-va8Zn-bFbWkrYf.webp",
+          "thumb": "assets/street-style/16n2pIfRAKAtpceynW-va8Zn-bFbWkrYf-thumb.webp",
+          "alt": "Full-length portrait beside a brick wall.",
+          "caption": "",
           "width": 1333,
           "height": 2000
         },
         {
-          "src": "assets/events/1TmUESi5JZtFurjxlEWZUx23OZ6jNqGvy.webp",
-          "thumb": "assets/events/1TmUESi5JZtFurjxlEWZUx23OZ6jNqGvy-thumb.webp",
-          "alt": "Group of guests posing in a dark room.",
-          "caption": "ROJA Berlin",
+          "src": "assets/street-style/1Y7fL2iQ47cEHznINynVncMVBPrXj71d4.webp",
+          "thumb": "assets/street-style/1Y7fL2iQ47cEHznINynVncMVBPrXj71d4-thumb.webp",
+          "alt": "Two people in dark outfits standing together.",
+          "caption": "",
           "width": 1333,
           "height": 2000
         },
         {
-          "src": "assets/events/1U61pmE6Zx7JkIV2mMmsIczJYfxyV0NZN.webp",
-          "thumb": "assets/events/1U61pmE6Zx7JkIV2mMmsIczJYfxyV0NZN-thumb.webp",
-          "alt": "Two guests posing together at dinner.",
-          "caption": "ROJA Berlin",
-          "width": 1333,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/12rFUFhRAMsROEjGMJxXW5tVjeIWj6nh3.webp",
-          "thumb": "assets/events/12rFUFhRAMsROEjGMJxXW5tVjeIWj6nh3-thumb.webp",
-          "alt": "Three guests at a dining table.",
-          "caption": "ROJA Berlin",
+          "src": "assets/street-style/1AKp7FH98NVuQF287EsJrOkzDu-fXs_ch.webp",
+          "thumb": "assets/street-style/1AKp7FH98NVuQF287EsJrOkzDu-fXs_ch-thumb.webp",
+          "alt": "Details of shoes and bags of two people.",
+          "caption": "",
           "width": 2000,
           "height": 1333
         },
         {
-          "src": "assets/events/1iSs3uQxDKbDDYax0I6LXC09timb64Rqp.webp",
-          "thumb": "assets/events/1iSs3uQxDKbDDYax0I6LXC09timb64Rqp-thumb.webp",
-          "alt": "Overhead view of table settings.",
-          "caption": "Wempe x Antwerpen",
+          "src": "assets/street-style/14bSdA1v0s63nK73AO1bxkK78AeRbU_vj.webp",
+          "thumb": "assets/street-style/14bSdA1v0s63nK73AO1bxkK78AeRbU_vj-thumb.webp",
+          "alt": "Two people posing beside a brick wall.",
+          "caption": "",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/street-style/15fY0gh7Y0VKVS_QzGoru6B_wI_cb6aqm.webp",
+          "thumb": "assets/street-style/15fY0gh7Y0VKVS_QzGoru6B_wI_cb6aqm-thumb.webp",
+          "alt": "Person in a white sleeveless top walking on a city street.",
+          "caption": "",
+          "width": 2000,
+          "height": 1333
+        },
+        {
+          "src": "assets/street-style/1Fp_YTMlBezfJWPf4X5DWt0XCuPplpx7h.webp",
+          "thumb": "assets/street-style/1Fp_YTMlBezfJWPf4X5DWt0XCuPplpx7h-thumb.webp",
+          "alt": "Person in sunglasses and a white top.",
+          "caption": "",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/street-style/1HEiXs9CHmYfZIJYad9x_Dm1VPTeTu3g4.webp",
+          "thumb": "assets/street-style/1HEiXs9CHmYfZIJYad9x_Dm1VPTeTu3g4-thumb.webp",
+          "alt": "Detail of a woven bag and pleated skirt.",
+          "caption": "",
+          "width": 2000,
+          "height": 1333
+        },
+        {
+          "src": "assets/street-style/1CU-js8tZqp-QM9eQOSFM9ZRV_74_-FDI.webp",
+          "thumb": "assets/street-style/1CU-js8tZqp-QM9eQOSFM9ZRV_74_-FDI-thumb.webp",
+          "alt": "Person in a patterned skirt walking in sunlight.",
+          "caption": "",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/street-style/138_LfhhfOKppHcycNh0cudmWchjI549A.webp",
+          "thumb": "assets/street-style/138_LfhhfOKppHcycNh0cudmWchjI549A-thumb.webp",
+          "alt": "Portrait in a patterned skirt outside a building.",
+          "caption": "",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/street-style/1NNchdIAt_7Ejs928mLoaAUMGZY0vqjDk.webp",
+          "thumb": "assets/street-style/1NNchdIAt_7Ejs928mLoaAUMGZY0vqjDk-thumb.webp",
+          "alt": "Detail of a handbag and floral skirt.",
+          "caption": "",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/street-style/1StIMHB0yVhERpkoas7UUSOBerMJTZWe5.webp",
+          "thumb": "assets/street-style/1StIMHB0yVhERpkoas7UUSOBerMJTZWe5-thumb.webp",
+          "alt": "Person in a white shirt posing beside a stone wall.",
+          "caption": "",
+          "width": 2000,
+          "height": 1336
+        },
+        {
+          "src": "assets/street-style/15YV94my2Jyl-XjzvgnLcz8gZtM996uEi.webp",
+          "thumb": "assets/street-style/15YV94my2Jyl-XjzvgnLcz8gZtM996uEi-thumb.webp",
+          "alt": "Person in a white shirt and blue trousers walking.",
+          "caption": "",
           "width": 1336,
           "height": 2000
         },
         {
-          "src": "assets/events/1k1Ed_kHWhd8vbchaI3iSHttLoz1vFitm.webp",
-          "thumb": "assets/events/1k1Ed_kHWhd8vbchaI3iSHttLoz1vFitm-thumb.webp",
-          "alt": "Watch display inside a glass case.",
-          "caption": "Wempe x Antwerpen",
+          "src": "assets/street-style/1AyPaTbtA41pz60R9n5MJPw7Bcavlzhoo.webp",
+          "thumb": "assets/street-style/1AyPaTbtA41pz60R9n5MJPw7Bcavlzhoo-thumb.webp",
+          "alt": "Detail of a red handbag and blue trousers.",
+          "caption": "",
+          "width": 2000,
+          "height": 1336
+        },
+        {
+          "src": "assets/street-style/1XmQPFQdNNpcTwp43moJYccDXHHTNGqvv.webp",
+          "thumb": "assets/street-style/1XmQPFQdNNpcTwp43moJYccDXHHTNGqvv-thumb.webp",
+          "alt": "Person in a tan jacket walking across a street.",
+          "caption": "",
           "width": 1336,
           "height": 2000
         },
         {
-          "src": "assets/events/1dGrp6cQ1XYhe14nnLgUE-yDD4RX5A5sA.webp",
-          "thumb": "assets/events/1dGrp6cQ1XYhe14nnLgUE-yDD4RX5A5sA-thumb.webp",
-          "alt": "Guest in a dark outfit beside a doorway.",
-          "caption": "Wempe x Antwerpen",
+          "src": "assets/street-style/1BpSRTPlrqlr5VDBaBXGaWWow0aA6JQG0.webp",
+          "thumb": "assets/street-style/1BpSRTPlrqlr5VDBaBXGaWWow0aA6JQG0-thumb.webp",
+          "alt": "Person in a tan jacket surrounded by city architecture.",
+          "caption": "",
           "width": 1336,
           "height": 2000
         },
         {
-          "src": "assets/events/18gNX8S8WP53H9HvoC0z-M13nEpj6MSS9.webp",
-          "thumb": "assets/events/18gNX8S8WP53H9HvoC0z-M13nEpj6MSS9-thumb.webp",
-          "alt": "Close-up of a wristwatch above a table.",
-          "caption": "Wempe x Antwerpen",
+          "src": "assets/people/1Ay0gQXMNyX5e8C6WUn0r_eN5T3YkJz9U.webp",
+          "thumb": "assets/people/1Ay0gQXMNyX5e8C6WUn0r_eN5T3YkJz9U-thumb.webp",
+          "alt": "Person walking with a red handbag.",
+          "caption": "",
+          "width": 2000,
+          "height": 1333
+        },
+        {
+          "src": "assets/people/1XEhwm7roDRTHJpeYCLj511Zy4orFfy-P.webp",
+          "thumb": "assets/people/1XEhwm7roDRTHJpeYCLj511Zy4orFfy-P-thumb.webp",
+          "alt": "Walking detail with a red handbag.",
+          "caption": "",
+          "width": 2000,
+          "height": 1333
+        },
+        {
+          "src": "assets/people/1T2CB94tdZ8HGhpiUQbT8fW3FcfETLUnL.webp",
+          "thumb": "assets/people/1T2CB94tdZ8HGhpiUQbT8fW3FcfETLUnL-thumb.webp",
+          "alt": "Detail of a white shirt and red bag.",
+          "caption": "",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/people/1LF89XOpbZtAHKPmXgosU-ftCpupHCy6H.webp",
+          "thumb": "assets/people/1LF89XOpbZtAHKPmXgosU-ftCpupHCy6H-thumb.webp",
+          "alt": "Side profile in a white shirt.",
+          "caption": "",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/people/1h8o4-6P9bu3N_HAXWntpQvcqx8AOc059.webp",
+          "thumb": "assets/people/1h8o4-6P9bu3N_HAXWntpQvcqx8AOc059-thumb.webp",
+          "alt": "Detail of a printed scarf over a white shirt.",
+          "caption": "",
+          "width": 2000,
+          "height": 1333
+        },
+        {
+          "src": "assets/people/15PLoMWREJ80cV1fM4ktB9Cnoh0h3mhto.webp",
+          "thumb": "assets/people/15PLoMWREJ80cV1fM4ktB9Cnoh0h3mhto-thumb.webp",
+          "alt": "Person walking past a stone facade.",
+          "caption": "",
+          "width": 2000,
+          "height": 1333
+        },
+        {
+          "src": "assets/people/1MutFxjaMXFFncYJWuYs9ADlXGO2XunMl.webp",
+          "thumb": "assets/people/1MutFxjaMXFFncYJWuYs9ADlXGO2XunMl-thumb.webp",
+          "alt": "Close-up of a red shoe and light trousers.",
+          "caption": "",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/people/1fhKbgq1tnXLoI-b0io71BqSk2up_sN_k.webp",
+          "thumb": "assets/people/1fhKbgq1tnXLoI-b0io71BqSk2up_sN_k-thumb.webp",
+          "alt": "Close-up portrait in a navy jacket.",
+          "caption": "",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/people/1GFn9jjCo0WHljYCvZXB0vXF73uNnm3uJ.webp",
+          "thumb": "assets/people/1GFn9jjCo0WHljYCvZXB0vXF73uNnm3uJ-thumb.webp",
+          "alt": "Person in a navy jacket and sunglasses.",
+          "caption": "",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/people/1IWgyrX4bC3GvUvxT8km58_LRcFCjdEwq.webp",
+          "thumb": "assets/people/1IWgyrX4bC3GvUvxT8km58_LRcFCjdEwq-thumb.webp",
+          "alt": "Person in a navy jacket beside a column.",
+          "caption": "",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/people/19cgAFN2u0dMTFRqNMxmlASE4dzm0EpM2.webp",
+          "thumb": "assets/people/19cgAFN2u0dMTFRqNMxmlASE4dzm0EpM2-thumb.webp",
+          "alt": "Full-length portrait in a striped top.",
+          "caption": "",
+          "width": 2000,
+          "height": 1333
+        },
+        {
+          "src": "assets/people/1OFt1kSYHtRYvECFFlRiqL8rD5JabuRpr.webp",
+          "thumb": "assets/people/1OFt1kSYHtRYvECFFlRiqL8rD5JabuRpr-thumb.webp",
+          "alt": "Person posing in a striped top and skirt.",
+          "caption": "",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/people/1q2zMiX7kUhaleRTz8sBiTJVIHPE8eNjY.webp",
+          "thumb": "assets/people/1q2zMiX7kUhaleRTz8sBiTJVIHPE8eNjY-thumb.webp",
+          "alt": "Detail of a navy skirt and shoulder bag.",
+          "caption": "",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/people/16E8Y2vj6pAFv0xg0wzWib0xn4f6xMWx0.webp",
+          "thumb": "assets/people/16E8Y2vj6pAFv0xg0wzWib0xn4f6xMWx0-thumb.webp",
+          "alt": "Detail of a navy skirt and tights.",
+          "caption": "",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/people/14liykXTKCgrBo1wfTmh40kHjcvl86jVs.webp",
+          "thumb": "assets/people/14liykXTKCgrBo1wfTmh40kHjcvl86jVs-thumb.webp",
+          "alt": "Person in a striped top beside a doorway.",
+          "caption": "",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/people/1Yyx8ipcCiXP3Jhs9YNiPBgmChgbjSL1D.webp",
+          "thumb": "assets/people/1Yyx8ipcCiXP3Jhs9YNiPBgmChgbjSL1D-thumb.webp",
+          "alt": "Person walking beside a pale stone wall.",
+          "caption": "",
           "width": 1336,
           "height": 2000
         },
         {
-          "src": "assets/events/1NtO20-Ib-UyetAY1vpeCOscYLCO1R2Zj.webp",
-          "thumb": "assets/events/1NtO20-Ib-UyetAY1vpeCOscYLCO1R2Zj-thumb.webp",
-          "alt": "Plated dish on a dining table.",
-          "caption": "Wempe x Antwerpen",
+          "src": "assets/people/1wImPNUhIjNUPOibm2ygwPoROr1bsO4Cp.webp",
+          "thumb": "assets/people/1wImPNUhIjNUPOibm2ygwPoROr1bsO4Cp-thumb.webp",
+          "alt": "Person walking in a checked skirt.",
+          "caption": "",
+          "width": 2000,
+          "height": 1336
+        },
+        {
+          "src": "assets/people/1UFLSAcP7MXqIjNpCtVPhrJMFYhW0OlYl.webp",
+          "thumb": "assets/people/1UFLSAcP7MXqIjNpCtVPhrJMFYhW0OlYl-thumb.webp",
+          "alt": "Detail of a checked skirt and jacket.",
+          "caption": "",
+          "width": 2000,
+          "height": 1336
+        },
+        {
+          "src": "assets/people/1hQsHyTm6_OmDVKqwmaanpYr7jAicrtf4.webp",
+          "thumb": "assets/people/1hQsHyTm6_OmDVKqwmaanpYr7jAicrtf4-thumb.webp",
+          "alt": "Person in a dark jacket beside stone architecture.",
+          "caption": "",
           "width": 1336,
           "height": 2000
         },
         {
-          "src": "assets/events/1vxXrEug3oNVf-W2O1CRC76yk9iTN06J0.webp",
-          "thumb": "assets/events/1vxXrEug3oNVf-W2O1CRC76yk9iTN06J0-thumb.webp",
-          "alt": "Close-up of hands and a wristwatch.",
-          "caption": "Wempe x Antwerpen",
-          "width": 1336,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/1Y04VjpEeGUdHYzbr6Bv_Kt_jv4NE5Aa1.webp",
-          "thumb": "assets/events/1Y04VjpEeGUdHYzbr6Bv_Kt_jv4NE5Aa1-thumb.webp",
-          "alt": "Guest outside near trees.",
-          "caption": "Wempe x Antwerpen",
-          "width": 1336,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/1-M71gXOeZWbGmjIxIUejsxQgv-pMtvAz.webp",
-          "thumb": "assets/events/1-M71gXOeZWbGmjIxIUejsxQgv-pMtvAz-thumb.webp",
-          "alt": "Red event umbrella.",
-          "caption": "Wempe x Antwerpen",
-          "width": 1336,
-          "height": 2000
-        },
-        {
-          "src": "assets/events/1WIapKMCuTDzA8Y8a6Cgd0kL-z_tB9-48.webp",
-          "thumb": "assets/events/1WIapKMCuTDzA8Y8a6Cgd0kL-z_tB9-48-thumb.webp",
-          "alt": "Close-up of a wristwatch and red umbrella handle.",
-          "caption": "Wempe x Antwerpen",
+          "src": "assets/people/1u3Dcx-aK7io7qJ09oNV0vOGLMFaNsYRT.webp",
+          "thumb": "assets/people/1u3Dcx-aK7io7qJ09oNV0vOGLMFaNsYRT-thumb.webp",
+          "alt": "Portrait in a checked skirt and sunglasses.",
+          "caption": "",
           "width": 1336,
           "height": 2000
         }
