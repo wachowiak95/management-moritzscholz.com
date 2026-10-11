@@ -42,7 +42,7 @@ if(page==='home'){
  if(!cat.media.length){grid.classList.add('empty-gallery');grid.innerHTML='<p>Coming soon</p>';}
  else if(cat.slug==='videography'){
  grid.classList.add('video-grid');
- grid.innerHTML=cat.media.map(v=>`<figure class="video-card ${v.width>v.height?'landscape':''}"><div class="video-stage"><video controls playsinline muted loop preload="none" poster="${escape(asset(v.poster))}" aria-label="${escape(v.title)}"><source src="${escape(asset(v.src))}" type="video/mp4"></video><button class="video-toggle" type="button" aria-label="Play ${escape(v.title)}">▷</button><span class="video-hint">${matchMedia('(hover: hover) and (pointer: fine)').matches?'HOVER TO PLAY':'TAP TO PLAY'}</span></div><figcaption>${escape(v.title)}</figcaption></figure>`).join('');
+ grid.innerHTML=cat.media.map(v=>`<figure class="video-card ${v.width>v.height?'landscape':''}"><div class="video-stage"><video controls playsinline muted loop preload="none" poster="${escape(asset(v.poster))}" aria-label="${escape(v.title)}"><source src="${escape(asset(v.src))}" type="video/mp4"></video><button class="video-toggle" type="button" aria-label="Play ${escape(v.title)}">▷</button><span class="video-hint">${matchMedia('(hover: hover) and (pointer: fine)').matches?'HOVER TO PLAY':'TAP TO PLAY'}</span></div><figcaption>${escape(v.title)}${v.instagram?`<a class="video-instagram" href="${escape(v.instagram)}" target="_blank" rel="noopener noreferrer" aria-label="View ${escape(v.title)} on Instagram">VIEW ON INSTAGRAM ↗</a>`:""}</figcaption></figure>`).join('');
  const hover=matchMedia('(hover: hover) and (pointer: fine)');
  const reduce=matchMedia('(prefers-reduced-motion: reduce)');
  const stop=video=>video.pause();

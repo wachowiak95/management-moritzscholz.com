@@ -503,7 +503,8 @@ window.portfolioContent = {
           "title": "Film 01",
           "duration": 7.24,
           "width": 1080,
-          "height": 608
+          "height": 608,
+          "instagram": "https://www.instagram.com/p/Ddows2eCPog/"
         },
         {
           "src": "assets/videos/film-2.mp4",

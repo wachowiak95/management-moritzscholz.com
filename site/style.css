@@ -255,3 +255,5 @@ body[data-page="people"] .image-tile img { object-fit:contain; }
 /* Consistent banner heights, including the final row on mobile. */
 .work-row, .work-row:last-child { height:180px; min-height:180px; }
 @media(max-width:700px) { .work-row, .work-row:last-child { height:140px; min-height:140px; padding:28px 18px; } }
+
+.video-instagram { display:block; width:fit-content; margin:12px 0 4px; padding:8px 0; font:11px Arial,sans-serif; letter-spacing:.12em; text-decoration:underline; text-underline-offset:5px; }
