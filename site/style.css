@@ -283,3 +283,6 @@ body[data-page="people"] .image-tile img { object-fit:contain; }
  .brand-window { overflow-x:auto; }
  .brand-list[aria-hidden="true"], .brand-pause { display:none; }
 }
+
+.about-photo { margin:0; min-width:0; }
+.portrait-credit { margin:10px 0 0; font:11px/1.5 Arial,Helvetica,sans-serif; color:var(--paper); opacity:.8; letter-spacing:.02em; }
