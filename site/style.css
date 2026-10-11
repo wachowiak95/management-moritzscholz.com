@@ -270,7 +270,7 @@ body[data-page="people"] .image-tile img { object-fit:contain; }
 .brand-list [data-logo="wempe"] img { max-width:130px; }
 .brand-list [data-logo="exnihilo"] img { max-width:120px; }
 .brand-pause { position:absolute; right:20px; bottom:0; width:44px; height:44px; border:1px solid #e7ddca44; border-radius:50%; color:var(--paper); background:transparent; cursor:pointer; font:16px Arial,sans-serif; }
-.brand-band.is-paused .brand-track, .brand-band:hover .brand-track, .brand-band:focus-within .brand-track { animation-play-state:paused !important; }
+.brand-band.is-paused .brand-track { animation-play-state:paused !important; }
 @keyframes brand-flow { to { transform:translateX(-50%); } }
 @media(max-width:700px) {
  .brand-band { margin:36px auto 44px; padding:24px 0 48px; }
