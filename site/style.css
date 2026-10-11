@@ -269,8 +269,6 @@ body[data-page="people"] .image-tile img { object-fit:contain; }
 .brand-list [data-logo="nars"] img { max-width:108px; }
 .brand-list [data-logo="wempe"] img { max-width:130px; }
 .brand-list [data-logo="exnihilo"] img { max-width:120px; }
-.brand-pause { position:absolute; right:20px; bottom:0; width:44px; height:44px; border:1px solid #e7ddca44; border-radius:50%; color:var(--paper); background:transparent; cursor:pointer; font:16px Arial,sans-serif; }
-.brand-band.is-paused .brand-track { animation-play-state:paused !important; }
 @keyframes brand-flow { to { transform:translateX(-50%); } }
 @media(max-width:700px) {
  .brand-band { margin:36px auto 44px; padding:24px 0 48px; }
@@ -281,7 +279,7 @@ body[data-page="people"] .image-tile img { object-fit:contain; }
 @media(prefers-reduced-motion:reduce) {
  .brand-track { animation:none !important; }
  .brand-window { overflow-x:auto; }
- .brand-list[aria-hidden="true"], .brand-pause { display:none; }
+ .brand-list[aria-hidden="true"] { display:none; }
 }
 
 .about-photo { margin:0; min-width:0; }
