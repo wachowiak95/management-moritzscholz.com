@@ -251,3 +251,7 @@ body[data-page="people"] .image-tile img { object-fit:contain; }
 .video-card { break-inside:avoid; margin:0 0 24px; }
 @media(max-width:700px) { .video-grid { columns:2; column-gap:10px; } }
 @media(max-width:360px) { .video-grid { columns:1; } }
+
+/* Consistent banner heights, including the final row on mobile. */
+.work-row, .work-row:last-child { height:180px; min-height:180px; }
+@media(max-width:700px) { .work-row, .work-row:last-child { height:140px; min-height:140px; padding:28px 18px; } }

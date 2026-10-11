@@ -1,11 +1,35 @@
 {
   "outputDirectory": "site",
   "headers": [
-    {"source": "/(.*)", "headers": [
-      {"key": "X-Content-Type-Options", "value": "nosniff"},
-      {"key": "Referrer-Policy", "value": "strict-origin-when-cross-origin"},
-      {"key": "X-Robots-Tag", "value": "noindex, nofollow"}
-    ]}
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        }
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "management-moritzscholzcom.vercel.app"
+        }
+      ],
+      "destination": "https://management-moritzscholz.com/$1",
+      "permanent": true
+    }
   ]
 }
-
