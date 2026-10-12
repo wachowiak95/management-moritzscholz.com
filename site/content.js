@@ -16,7 +16,17 @@ window.portfolioContent = {
           "alt": "Portrait in front of a Guerlain backdrop.",
           "caption": "Guerlain",
           "width": 1333,
-          "height": 2000
+          "height": 2000,
+          "series": "events-charleen"
+        },
+        {
+          "src": "assets/events/1H5ZUSTwjc4QzZ1UTDpPQN26UowBKrBh7.webp",
+          "thumb": "assets/events/1H5ZUSTwjc4QzZ1UTDpPQN26UowBKrBh7-thumb.webp",
+          "width": 1333,
+          "height": 2000,
+          "alt": "Charleen Weiss at a Guerlain event.",
+          "caption": "",
+          "series": "events-charleen"
         },
         {
           "src": "assets/events/1RO0PkvOquvGlIl43mpj68eRg8dglxAG8.webp",
@@ -25,6 +35,46 @@ window.portfolioContent = {
           "caption": "Guerlain",
           "width": 1333,
           "height": 2000
+        },
+        {
+          "src": "assets/events/1DHarE62BDSz0feZfKd8wTsW4b-BWuljh.webp",
+          "thumb": "assets/events/1DHarE62BDSz0feZfKd8wTsW4b-BWuljh-thumb.webp",
+          "width": 1333,
+          "height": 2000,
+          "alt": "Portrait in a copper-coloured outfit at a Guerlain event.",
+          "caption": ""
+        },
+        {
+          "src": "assets/events/1ZwRWcpBBoCSKyOCVjDQ8JE-CCRWorWvg.webp",
+          "thumb": "assets/events/1ZwRWcpBBoCSKyOCVjDQ8JE-CCRWorWvg-thumb.webp",
+          "width": 2000,
+          "height": 1333,
+          "alt": "Two guests at a Guerlain event.",
+          "caption": ""
+        },
+        {
+          "src": "assets/events/1zGy8BS5TIIMmrDF5qr3ZR66BT97Xukuk.webp",
+          "thumb": "assets/events/1zGy8BS5TIIMmrDF5qr3ZR66BT97Xukuk-thumb.webp",
+          "width": 1333,
+          "height": 2000,
+          "alt": "Leonie Hanne at a Guerlain event.",
+          "caption": ""
+        },
+        {
+          "src": "assets/events/1jveFBVNA9jKPav1ZmBLE5-03fWJWQfTZ.webp",
+          "thumb": "assets/events/1jveFBVNA9jKPav1ZmBLE5-03fWJWQfTZ-thumb.webp",
+          "width": 1333,
+          "height": 2000,
+          "alt": "Milena Karl at a Guerlain event.",
+          "caption": ""
+        },
+        {
+          "src": "assets/events/1YOR2FIY7NgUCEzTjm0VEidcOikiOvLp5.webp",
+          "thumb": "assets/events/1YOR2FIY7NgUCEzTjm0VEidcOikiOvLp5-thumb.webp",
+          "width": 1333,
+          "height": 2000,
+          "alt": "Nadine Leopold at a Guerlain event.",
+          "caption": ""
         },
         {
           "src": "assets/events/1wcVaOsGlcqo5Ib21GhUrAl7VzLqwExtK.webp",
@@ -67,12 +117,28 @@ window.portfolioContent = {
           "height": 2000
         },
         {
+          "src": "assets/events/1afERE8SJUdKwJglYITHWRNFmA_EQCf85.webp",
+          "thumb": "assets/events/1afERE8SJUdKwJglYITHWRNFmA_EQCf85-thumb.webp",
+          "width": 1336,
+          "height": 2000,
+          "alt": "Close-up of jewellery on a pale display surface.",
+          "caption": ""
+        },
+        {
           "src": "assets/events/1dGrp6cQ1XYhe14nnLgUE-yDD4RX5A5sA.webp",
           "thumb": "assets/events/1dGrp6cQ1XYhe14nnLgUE-yDD4RX5A5sA-thumb.webp",
           "alt": "Guest in a dark outfit beside a doorway.",
           "caption": "Wempe x Antwerpen",
           "width": 1336,
           "height": 2000
+        },
+        {
+          "src": "assets/events/1jexTKNj91ViMoptyMF18iLZYPwVeVYaj.webp",
+          "thumb": "assets/events/1jexTKNj91ViMoptyMF18iLZYPwVeVYaj-thumb.webp",
+          "width": 1336,
+          "height": 2000,
+          "alt": "Portrait in black at a jewellery dinner.",
+          "caption": ""
         },
         {
           "src": "assets/events/18gNX8S8WP53H9HvoC0z-M13nEpj6MSS9.webp",
@@ -97,6 +163,14 @@ window.portfolioContent = {
           "caption": "Wempe x Antwerpen",
           "width": 1336,
           "height": 2000
+        },
+        {
+          "src": "assets/events/1dE1ldy8HRXLOiiiU7L0S6UwIYXw1zAYb.webp",
+          "thumb": "assets/events/1dE1ldy8HRXLOiiiU7L0S6UwIYXw1zAYb-thumb.webp",
+          "width": 1336,
+          "height": 2000,
+          "alt": "Table detail with a glass at a jewellery dinner.",
+          "caption": ""
         },
         {
           "src": "assets/people/1N5AfOo7vNiQKViylAnRPXOpcx-ek1VKk.webp",
@@ -193,6 +267,22 @@ window.portfolioContent = {
           "duration": 8.8,
           "width": 1080,
           "height": 1920
+        },
+        {
+          "src": "assets/videos/1BzrPhQWcTyQX_Xt1JS8tj2VXaCq9qWYZ.mp4",
+          "poster": "assets/videos/1BzrPhQWcTyQX_Xt1JS8tj2VXaCq9qWYZ.webp",
+          "title": "Film 09",
+          "width": 1080,
+          "height": 1920,
+          "duration": 8.1
+        },
+        {
+          "src": "assets/videos/1B1InvAYceD0Uq520J1JpdzBkntSxsE6v.mp4",
+          "poster": "assets/videos/1B1InvAYceD0Uq520J1JpdzBkntSxsE6v.webp",
+          "title": "Film 10",
+          "width": 1080,
+          "height": 1920,
+          "duration": 26.066667
         }
       ]
     },
@@ -256,6 +346,145 @@ window.portfolioContent = {
           "caption": "",
           "width": 480,
           "height": 640
+        },
+        {
+          "src": "assets/people/1WqUsyg-UT_Jqo-_mZkM8YIuGCBsZ_f7l.webp",
+          "thumb": "assets/people/1WqUsyg-UT_Jqo-_mZkM8YIuGCBsZ_f7l-thumb.webp",
+          "width": 1336,
+          "height": 2000,
+          "alt": "Portrait in a black sleeveless dress beside a stone building.",
+          "caption": "",
+          "series": "people-new-0"
+        },
+        {
+          "src": "assets/people/1QRRbKGwDvuUH_B8_Ri5q0vfLZBny3o-f.webp",
+          "thumb": "assets/people/1QRRbKGwDvuUH_B8_Ri5q0vfLZBny3o-f-thumb.webp",
+          "width": 1336,
+          "height": 2000,
+          "alt": "Seated portrait in a black sleeveless dress.",
+          "caption": "",
+          "series": "people-new-0"
+        },
+        {
+          "src": "assets/people/12qDyuMiPcpp5fv7V1ldaAQKo1FatLxML.webp",
+          "thumb": "assets/people/12qDyuMiPcpp5fv7V1ldaAQKo1FatLxML-thumb.webp",
+          "width": 1336,
+          "height": 2000,
+          "alt": "Portrait in a white sculptural top and black skirt.",
+          "caption": "",
+          "series": "people-new-1"
+        },
+        {
+          "src": "assets/people/1z_1lLSB5w3XapB-7fDLFEDq9AUDcc9dX.webp",
+          "thumb": "assets/people/1z_1lLSB5w3XapB-7fDLFEDq9AUDcc9dX-thumb.webp",
+          "width": 1336,
+          "height": 2000,
+          "alt": "Black-and-white portrait in a white top and black skirt.",
+          "caption": "",
+          "series": "people-new-1"
+        },
+        {
+          "src": "assets/people/1RrL8PZNKOISOyqijXDGEGHgFyWjex1IP.webp",
+          "thumb": "assets/people/1RrL8PZNKOISOyqijXDGEGHgFyWjex1IP-thumb.webp",
+          "width": 1336,
+          "height": 2000,
+          "alt": "Portrait in a white top and black skirt in a hotel corridor.",
+          "caption": "",
+          "series": "people-new-2"
+        },
+        {
+          "src": "assets/people/1Y4EW6Ye8-0aPS5GyoeNZ8DGjI0jSdqmY.webp",
+          "thumb": "assets/people/1Y4EW6Ye8-0aPS5GyoeNZ8DGjI0jSdqmY-thumb.webp",
+          "width": 1336,
+          "height": 2000,
+          "alt": "Black-and-white portrait in a hotel corridor.",
+          "caption": "",
+          "series": "people-new-2"
+        },
+        {
+          "src": "assets/people/16AdKBRmleCb7vSgXD8sDxKl3zH-SFDRj.webp",
+          "thumb": "assets/people/16AdKBRmleCb7vSgXD8sDxKl3zH-SFDRj-thumb.webp",
+          "width": 1336,
+          "height": 2000,
+          "alt": "Black-and-white portrait in a hotel corridor.",
+          "caption": "",
+          "series": "people-new-2"
+        },
+        {
+          "src": "assets/people/1gZKb1NfX5zEHY-V_je_inbYIFwb8YGf6.webp",
+          "thumb": "assets/people/1gZKb1NfX5zEHY-V_je_inbYIFwb8YGf6-thumb.webp",
+          "width": 1336,
+          "height": 2000,
+          "alt": "Portrait in a black dress in front of an Off-White backdrop.",
+          "caption": "",
+          "series": "people-new-3"
+        },
+        {
+          "src": "assets/people/1xDMMj9IoP6AEGE6PepUGrdn30yZuz73c.webp",
+          "thumb": "assets/people/1xDMMj9IoP6AEGE6PepUGrdn30yZuz73c-thumb.webp",
+          "width": 1336,
+          "height": 2000,
+          "alt": "Portrait in a black dress in front of an Off-White backdrop.",
+          "caption": "",
+          "series": "people-new-3"
+        },
+        {
+          "src": "assets/people/12XKfQnx-VYQ-cPd9j-RAwJOI59uifMNK.webp",
+          "thumb": "assets/people/12XKfQnx-VYQ-cPd9j-RAwJOI59uifMNK-thumb.webp",
+          "width": 1336,
+          "height": 2000,
+          "alt": "Black-and-white portrait beside a Parisian balustrade.",
+          "caption": "",
+          "series": "people-new-4"
+        },
+        {
+          "src": "assets/people/16uL0PYMPsV6k9edBRnKHkvRwUh1oRu-T.webp",
+          "thumb": "assets/people/16uL0PYMPsV6k9edBRnKHkvRwUh1oRu-T-thumb.webp",
+          "width": 1336,
+          "height": 2000,
+          "alt": "Portrait beside a Parisian balustrade.",
+          "caption": "",
+          "series": "people-new-4"
+        },
+        {
+          "src": "assets/people/1R8rHi1udRHV1fctw9Kuabp_5hJ7sHcEA.webp",
+          "thumb": "assets/people/1R8rHi1udRHV1fctw9Kuabp_5hJ7sHcEA-thumb.webp",
+          "width": 1336,
+          "height": 2000,
+          "alt": "Portrait in a blue strapless dress beside a doorway.",
+          "caption": ""
+        },
+        {
+          "src": "assets/people/1l8YKEBxgM6SHnORJxzg8griN-t-F28TS.webp",
+          "thumb": "assets/people/1l8YKEBxgM6SHnORJxzg8griN-t-F28TS-thumb.webp",
+          "width": 1333,
+          "height": 2000,
+          "alt": "Portrait in a white top inside a car.",
+          "caption": ""
+        },
+        {
+          "src": "assets/people/1EFn8INITETvDmBlkPmLf3JilvZA8P6fB.webp",
+          "thumb": "assets/people/1EFn8INITETvDmBlkPmLf3JilvZA8P6fB-thumb.webp",
+          "width": 1333,
+          "height": 2000,
+          "alt": "Portrait in a black dress at an evening event.",
+          "caption": ""
+        },
+        {
+          "src": "assets/people/1wKFJmjnBiQzvYpYkwMAaI_uMXdD3iiyP.webp",
+          "thumb": "assets/people/1wKFJmjnBiQzvYpYkwMAaI_uMXdD3iiyP-thumb.webp",
+          "width": 1333,
+          "height": 2000,
+          "alt": "Portrait in a black dress at a Schiaparelli event.",
+          "caption": ""
+        },
+        {
+          "src": "assets/people/1e2xFTcwncDILSaVJKfJMMMdJwvyIFmNg.webp",
+          "thumb": "assets/people/1e2xFTcwncDILSaVJKfJMMMdJwvyIFmNg-thumb.webp",
+          "width": 480,
+          "height": 640,
+          "alt": "Portrait in a dark green outfit beside a stone wall.",
+          "caption": ""
         }
       ]
     },

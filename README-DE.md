@@ -16,7 +16,7 @@ Keine Installation, kein Build Command und keine Umgebungsvariablen erforderlich
 
 Zehn Seiten: Home, Work, About Me, Contact, Street Style / Getty Images,
 Videography, People, Events, Imprint und Privacy Policy.
-22 ausgewählte Fotos und acht tonlose Videos; lokal gespeicherte Fonts und Medien.
+97 Fotos und zehn tonlose Videos; lokal gespeicherte Fonts und Medien.
 Kontaktformular öffnet eine E-Mail im Mailprogramm; kein serverseitiger Versand.
 
 ## Noch offen
