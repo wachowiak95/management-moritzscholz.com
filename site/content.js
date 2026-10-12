@@ -207,50 +207,10 @@ window.portfolioContent = {
           "instagram": "https://www.instagram.com/p/Ddows2eCPog/"
         },
         {
-          "src": "assets/videos/film-2.mp4?v=silent-1202dfa",
-          "poster": "assets/videos/film-2.webp",
-          "title": "Film 02",
-          "duration": 2.6,
-          "width": 1080,
-          "height": 608
-        },
-        {
-          "src": "assets/videos/film-3.mp4?v=silent-1202dfa",
-          "poster": "assets/videos/film-3.webp",
-          "title": "Film 05",
-          "duration": 8.088333,
-          "width": 1080,
-          "height": 608
-        },
-        {
-          "src": "assets/videos/film-4.mp4?v=silent-1202dfa",
-          "poster": "assets/videos/film-4.webp",
-          "title": "Reel",
-          "duration": 15.133333,
-          "width": 1080,
-          "height": 1920
-        },
-        {
           "src": "assets/videos/film-5.mp4?v=silent-1202dfa",
           "poster": "assets/videos/film-5.webp",
           "title": "Istanbul",
           "duration": 25.048333,
-          "width": 1080,
-          "height": 1920
-        },
-        {
-          "src": "assets/videos/film-6.mp4?v=silent-1202dfa",
-          "poster": "assets/videos/film-6.webp",
-          "title": "Milan",
-          "duration": 9.006667,
-          "width": 1080,
-          "height": 1920
-        },
-        {
-          "src": "assets/videos/film-7.mp4?v=silent-1202dfa",
-          "poster": "assets/videos/film-7.webp",
-          "title": "Film 07",
-          "duration": 10.666667,
           "width": 1080,
           "height": 1920
         },
