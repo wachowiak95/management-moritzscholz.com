@@ -97,6 +97,30 @@ window.portfolioContent = {
           "caption": "Wempe x Antwerpen",
           "width": 1336,
           "height": 2000
+        },
+        {
+          "src": "assets/people/1N5AfOo7vNiQKViylAnRPXOpcx-ek1VKk.webp",
+          "thumb": "assets/people/1N5AfOo7vNiQKViylAnRPXOpcx-ek1VKk-thumb.webp",
+          "alt": "Close-up of brown handbags.",
+          "caption": "",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/people/1a_o4r6cXWF1bmwJLJcEXkGcdrebPL_io.webp",
+          "thumb": "assets/people/1a_o4r6cXWF1bmwJLJcEXkGcdrebPL_io-thumb.webp",
+          "alt": "Close-up of a brown coat and handbag.",
+          "caption": "",
+          "width": 1333,
+          "height": 2000
+        },
+        {
+          "src": "assets/people/1e5cPYuqMtpfnFXr2i_JzyfRtKuLdqQ8C.webp",
+          "thumb": "assets/people/1e5cPYuqMtpfnFXr2i_JzyfRtKuLdqQ8C-thumb.webp",
+          "alt": "Detail of a dark blue jacket and bag.",
+          "caption": "",
+          "width": 1336,
+          "height": 2000
         }
       ]
     },
@@ -175,28 +199,12 @@ window.portfolioContent = {
     {
       "slug": "people",
       "title": "People",
-      "cover": "assets/people/1N5AfOo7vNiQKViylAnRPXOpcx-ek1VKk-thumb.webp",
+      "cover": "assets/people/1iHkhZxozKgTsj-LeFx61Wq71IoNgakzo-thumb.webp",
       "media": [
-        {
-          "src": "assets/people/1N5AfOo7vNiQKViylAnRPXOpcx-ek1VKk.webp",
-          "thumb": "assets/people/1N5AfOo7vNiQKViylAnRPXOpcx-ek1VKk-thumb.webp",
-          "alt": "Close-up of brown handbags.",
-          "caption": "",
-          "width": 1333,
-          "height": 2000
-        },
         {
           "src": "assets/people/1iHkhZxozKgTsj-LeFx61Wq71IoNgakzo.webp",
           "thumb": "assets/people/1iHkhZxozKgTsj-LeFx61Wq71IoNgakzo-thumb.webp",
           "alt": "Three people standing together on a street.",
-          "caption": "",
-          "width": 1333,
-          "height": 2000
-        },
-        {
-          "src": "assets/people/1a_o4r6cXWF1bmwJLJcEXkGcdrebPL_io.webp",
-          "thumb": "assets/people/1a_o4r6cXWF1bmwJLJcEXkGcdrebPL_io-thumb.webp",
-          "alt": "Close-up of a brown coat and handbag.",
           "caption": "",
           "width": 1333,
           "height": 2000
@@ -213,14 +221,6 @@ window.portfolioContent = {
           "src": "assets/people/1NeGp8yCaYY-KfpKV9qS6bCdsMwUBvON5.webp",
           "thumb": "assets/people/1NeGp8yCaYY-KfpKV9qS6bCdsMwUBvON5-thumb.webp",
           "alt": "Close-up flash portrait in a white top.",
-          "caption": "",
-          "width": 1336,
-          "height": 2000
-        },
-        {
-          "src": "assets/people/1e5cPYuqMtpfnFXr2i_JzyfRtKuLdqQ8C.webp",
-          "thumb": "assets/people/1e5cPYuqMtpfnFXr2i_JzyfRtKuLdqQ8C-thumb.webp",
-          "alt": "Detail of a dark blue jacket and bag.",
           "caption": "",
           "width": 1336,
           "height": 2000
