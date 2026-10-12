@@ -187,14 +187,6 @@ window.portfolioContent = {
           "caption": "",
           "width": 1333,
           "height": 2000
-        },
-        {
-          "src": "assets/people/1e5cPYuqMtpfnFXr2i_JzyfRtKuLdqQ8C.webp",
-          "thumb": "assets/people/1e5cPYuqMtpfnFXr2i_JzyfRtKuLdqQ8C-thumb.webp",
-          "alt": "Detail of a dark blue jacket and bag.",
-          "caption": "",
-          "width": 1336,
-          "height": 2000
         }
       ],
       "coverPosition": "50% 39%",
