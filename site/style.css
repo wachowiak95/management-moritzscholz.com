@@ -290,3 +290,6 @@ body[data-page="people"] .image-tile img { object-fit:contain; }
 .grid:not(.video-grid) .photo-series .image-tile img { object-fit:contain; }
 
 .grid:not(.video-grid) .image-tile.publication img { object-fit:contain; }
+
+.category-cover { object-position:var(--cover-position,50% 50%); }
+@media(max-width:700px) { .category-cover { object-position:var(--cover-position-mobile,50% 50%); } }

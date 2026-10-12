@@ -196,7 +196,9 @@ window.portfolioContent = {
           "width": 1336,
           "height": 2000
         }
-      ]
+      ],
+      "coverPosition": "50% 39%",
+      "coverPositionMobile": "50% 38%"
     },
     {
       "slug": "videography",
@@ -284,7 +286,9 @@ window.portfolioContent = {
           "height": 1920,
           "duration": 26.066667
         }
-      ]
+      ],
+      "coverPosition": "50% 15%",
+      "coverPositionMobile": "50% 25%"
     },
     {
       "slug": "people",
@@ -486,7 +490,9 @@ window.portfolioContent = {
           "alt": "Portrait in a dark green outfit beside a stone wall.",
           "caption": ""
         }
-      ]
+      ],
+      "coverPosition": "50% 23%",
+      "coverPositionMobile": "50% 22%"
     },
     {
       "slug": "street-style",
@@ -940,7 +946,9 @@ window.portfolioContent = {
           "caption": "",
           "publication": true
         }
-      ]
+      ],
+      "coverPosition": "50% 22%",
+      "coverPositionMobile": "50% 12%"
     }
   ]
 };

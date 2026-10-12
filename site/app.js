@@ -37,7 +37,7 @@ if(page==='home'){
 }else if(page==='imprint'||page==='privacy'){
  main.innerHTML=window.portfolioLegal[page];
 }else if(page==='work'){
- main.innerHTML=`<section class="work-index" aria-label="My work"><div class="work-rows">${c.categories.map(cat=>`<a class="work-row" href="../${cat.slug}/">${cat.cover?`<img class="category-cover" src="${escape(asset(cat.cover))}" alt="">`:""}<span class="row-title">${escape(cat.title.toUpperCase())}</span></a>`).join('')}</div></section>${social()}`;
+ main.innerHTML=`<section class="work-index" aria-label="My work"><div class="work-rows">${c.categories.map(cat=>`<a class="work-row" href="../${cat.slug}/">${cat.cover?`<img class="category-cover" src="${escape(asset(cat.cover))}" style="--cover-position:${escape(cat.coverPosition||'50% 50%')};--cover-position-mobile:${escape(cat.coverPositionMobile||cat.coverPosition||'50% 50%')}" alt="">`:""}<span class="row-title">${escape(cat.title.toUpperCase())}</span></a>`).join('')}</div></section>${social()}`;
 }else{
  const cat=c.categories.find(cat=>cat.slug===page);
  if(!cat)throw new Error('Unknown portfolio category');
