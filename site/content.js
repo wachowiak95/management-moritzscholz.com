@@ -8,7 +8,7 @@ window.portfolioContent = {
     {
       "slug": "events",
       "title": "Events",
-      "cover": "assets/events/1UanuBozc_Mrudocfa5WyBnKzfgoJXPPk-thumb.webp",
+      "cover": "assets/events-cover.webp",
       "media": [
         {
           "src": "assets/events/1UanuBozc_Mrudocfa5WyBnKzfgoJXPPk.webp",
@@ -189,13 +189,13 @@ window.portfolioContent = {
           "height": 2000
         }
       ],
-      "coverPosition": "50% 39%",
-      "coverPositionMobile": "50% 38%"
+      "coverPosition": "50% 44%",
+      "coverPositionMobile": "50% 44%"
     },
     {
       "slug": "videography",
       "title": "Videography",
-      "cover": "assets/videos/film-1.webp",
+      "cover": "assets/videos/film-1-cover.webp",
       "media": [
         {
           "src": "assets/videos/film-1.mp4?v=silent-1202dfa",
@@ -239,13 +239,13 @@ window.portfolioContent = {
           "duration": 26.066667
         }
       ],
-      "coverPosition": "50% 5%",
+      "coverPosition": "50% 0%",
       "coverPositionMobile": "50% 0%"
     },
     {
       "slug": "people",
       "title": "People",
-      "cover": "assets/people/1iHkhZxozKgTsj-LeFx61Wq71IoNgakzo-thumb.webp",
+      "cover": "assets/people-cover.webp",
       "media": [
         {
           "src": "assets/people/1iHkhZxozKgTsj-LeFx61Wq71IoNgakzo.webp",
@@ -406,13 +406,13 @@ window.portfolioContent = {
           "caption": ""
         }
       ],
-      "coverPosition": "50% 29%",
-      "coverPositionMobile": "50% 22%"
+      "coverPosition": "50% 24%",
+      "coverPositionMobile": "50% 29%"
     },
     {
       "slug": "street-style",
       "title": "Street Style / Getty Images",
-      "cover": "assets/street-style/1FfiyVhPKMgTvcfAEXEl4Y0AIBJiwO3OS-thumb.webp",
+      "cover": "assets/street-style-cover.webp",
       "media": [
         {
           "src": "assets/street-style/1FfiyVhPKMgTvcfAEXEl4Y0AIBJiwO3OS.webp",
@@ -862,8 +862,8 @@ window.portfolioContent = {
           "publication": true
         }
       ],
-      "coverPosition": "50% 19%",
-      "coverPositionMobile": "50% 12%"
+      "coverPosition": "50% 23%",
+      "coverPositionMobile": "50% 22%"
     },
     {
       "slug": "recent-work",
