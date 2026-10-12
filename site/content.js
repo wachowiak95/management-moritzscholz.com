@@ -328,16 +328,7 @@ window.portfolioContent = {
           "height": 2000,
           "alt": "Portrait in a white sculptural top and black skirt.",
           "caption": "",
-          "series": "people-new-1"
-        },
-        {
-          "src": "assets/people/1z_1lLSB5w3XapB-7fDLFEDq9AUDcc9dX.webp",
-          "thumb": "assets/people/1z_1lLSB5w3XapB-7fDLFEDq9AUDcc9dX-thumb.webp",
-          "width": 1336,
-          "height": 2000,
-          "alt": "Black-and-white portrait in a white top and black skirt.",
-          "caption": "",
-          "series": "people-new-1"
+          "series": "people-dress-selection"
         },
         {
           "src": "assets/people/1RrL8PZNKOISOyqijXDGEGHgFyWjex1IP.webp",
@@ -346,25 +337,7 @@ window.portfolioContent = {
           "height": 2000,
           "alt": "Portrait in a white top and black skirt in a hotel corridor.",
           "caption": "",
-          "series": "people-new-2"
-        },
-        {
-          "src": "assets/people/1Y4EW6Ye8-0aPS5GyoeNZ8DGjI0jSdqmY.webp",
-          "thumb": "assets/people/1Y4EW6Ye8-0aPS5GyoeNZ8DGjI0jSdqmY-thumb.webp",
-          "width": 1336,
-          "height": 2000,
-          "alt": "Black-and-white portrait in a hotel corridor.",
-          "caption": "",
-          "series": "people-new-2"
-        },
-        {
-          "src": "assets/people/16AdKBRmleCb7vSgXD8sDxKl3zH-SFDRj.webp",
-          "thumb": "assets/people/16AdKBRmleCb7vSgXD8sDxKl3zH-SFDRj-thumb.webp",
-          "width": 1336,
-          "height": 2000,
-          "alt": "Black-and-white portrait in a hotel corridor.",
-          "caption": "",
-          "series": "people-new-2"
+          "series": "people-dress-selection"
         },
         {
           "src": "assets/people/1gZKb1NfX5zEHY-V_je_inbYIFwb8YGf6.webp",
@@ -372,17 +345,7 @@ window.portfolioContent = {
           "width": 1336,
           "height": 2000,
           "alt": "Portrait in a black dress in front of an Off-White backdrop.",
-          "caption": "",
-          "series": "people-new-3"
-        },
-        {
-          "src": "assets/people/1xDMMj9IoP6AEGE6PepUGrdn30yZuz73c.webp",
-          "thumb": "assets/people/1xDMMj9IoP6AEGE6PepUGrdn30yZuz73c-thumb.webp",
-          "width": 1336,
-          "height": 2000,
-          "alt": "Portrait in a black dress in front of an Off-White backdrop.",
-          "caption": "",
-          "series": "people-new-3"
+          "caption": ""
         },
         {
           "src": "assets/people/12XKfQnx-VYQ-cPd9j-RAwJOI59uifMNK.webp",
