@@ -239,8 +239,8 @@ window.portfolioContent = {
           "duration": 26.066667
         }
       ],
-      "coverPosition": "50% 15%",
-      "coverPositionMobile": "50% 25%"
+      "coverPosition": "50% 5%",
+      "coverPositionMobile": "50% 0%"
     },
     {
       "slug": "people",
@@ -443,7 +443,7 @@ window.portfolioContent = {
           "caption": ""
         }
       ],
-      "coverPosition": "50% 23%",
+      "coverPosition": "50% 29%",
       "coverPositionMobile": "50% 22%"
     },
     {
@@ -899,8 +899,13 @@ window.portfolioContent = {
           "publication": true
         }
       ],
-      "coverPosition": "50% 22%",
+      "coverPosition": "50% 19%",
       "coverPositionMobile": "50% 12%"
+    },
+    {
+      "slug": "recent-work",
+      "title": "Recent Work",
+      "media": []
     }
   ]
 };
