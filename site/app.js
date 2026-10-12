@@ -66,7 +66,17 @@ if(page==='home'){
  document.addEventListener('visibilitychange',()=>{if(document.hidden)grid.querySelectorAll('video').forEach(stop);});
 
  }else{
- grid.innerHTML=cat.media.map((photo,i)=>`<button class="image-tile ${photo.width>photo.height?'landscape':''}" data-photo="${i}" aria-label="${escape(photo.alt)} - open image"><img loading="lazy" src="${escape(asset(photo.thumb||photo.src))}" alt="${escape(photo.alt)}" width="${photo.width||1336}" height="${photo.height||2000}" decoding="async"></button>`).join('');
+ const photoTile=(photo,i)=>`<button class="image-tile ${photo.publication?'publication':''} ${photo.width>photo.height?'landscape':''}" data-photo="${i}" aria-label="${escape(photo.alt)} - open image"><img loading="lazy" src="${escape(asset(photo.thumb||photo.src))}" alt="${escape(photo.alt)}" width="${photo.width||1336}" height="${photo.height||2000}" decoding="async"></button>`;
+ const photoBlocks=[];
+ for(let i=0;i<cat.media.length;i++){
+  const photo=cat.media[i];
+  if(photo.series){
+   let tiles=photoTile(photo,i);
+   while(i+1<cat.media.length&&cat.media[i+1].series===photo.series){i++;tiles+=photoTile(cat.media[i],i);}
+   photoBlocks.push(`<div class="photo-series" aria-label="Photo series">${tiles}</div>`);
+  }else photoBlocks.push(photoTile(photo,i));
+ }
+ grid.innerHTML=photoBlocks.join('');
  main.insertAdjacentHTML('beforeend','<dialog class="lightbox" aria-label="Image viewer"><button class="close">Close ×</button><img alt=""><p></p></dialog>');
  const dialog=main.querySelector('dialog');let last;
  grid.querySelectorAll('[data-photo]').forEach(button=>button.addEventListener('click',()=>{last=button;const photo=cat.media[Number(button.dataset.photo)];dialog.querySelector('img').src=asset(photo.src);dialog.querySelector('img').alt=photo.alt;dialog.querySelector('p').textContent=photo.caption||'';dialog.showModal();}));

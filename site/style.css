@@ -284,3 +284,9 @@ body[data-page="people"] .image-tile img { object-fit:contain; }
 
 .about-photo { margin:0; min-width:0; }
 .portrait-credit { margin:4px 0 0; font:11px/1.5 Arial,Helvetica,sans-serif; color:var(--paper); opacity:.8; letter-spacing:.02em; }
+
+.photo-series { grid-column:span 2; display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:inherit; align-items:start; min-width:0; }
+.grid:not(.video-grid) .photo-series .image-tile { grid-column:auto; aspect-ratio:2 / 3; }
+.grid:not(.video-grid) .photo-series .image-tile img { object-fit:contain; }
+
+.grid:not(.video-grid) .image-tile.publication img { object-fit:contain; }
