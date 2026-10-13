@@ -880,14 +880,14 @@ window.portfolioContent = {
           "instagram": "https://www.instagram.com/p/Dd0mayViMTF/"
         },
         {
-          "src": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd.webp",
-          "thumb": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd-thumb.webp",
-          "width": 1600,
-          "height": 2400,
-          "alt": "Portrait beside a yellow street pole, with a white handbag.",
+          "src": "assets/people/1C16VuALGWGijZ9sEYbBgyDeLEdOa9J29.webp",
+          "thumb": "assets/people/1C16VuALGWGijZ9sEYbBgyDeLEdOa9J29-thumb.webp",
+          "width": 480,
+          "height": 640,
+          "alt": "Seated portrait in a green and black outfit.",
           "caption": "",
           "title": "Recent Work 02",
-          "instagram": "https://www.instagram.com/p/Dd0mtWrigeC/"
+          "instagram": "https://www.instagram.com/p/DeHluxLCH2W/"
         },
         {
           "src": "assets/street-style/14h_-RYbmFb8b7H1i3jrHbj0nTgxv9d6G.webp",
@@ -910,14 +910,14 @@ window.portfolioContent = {
           "instagram": "https://www.instagram.com/p/DdJ4xM6FxlQ/"
         },
         {
-          "src": "assets/people/1C16VuALGWGijZ9sEYbBgyDeLEdOa9J29.webp",
-          "thumb": "assets/people/1C16VuALGWGijZ9sEYbBgyDeLEdOa9J29-thumb.webp",
-          "width": 480,
-          "height": 640,
-          "alt": "Seated portrait in a green and black outfit.",
+          "src": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd.webp",
+          "thumb": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd-thumb.webp",
+          "width": 1600,
+          "height": 2400,
+          "alt": "Portrait beside a yellow street pole, with a white handbag.",
           "caption": "",
           "title": "Recent Work 05",
-          "instagram": "https://www.instagram.com/p/DeHluxLCH2W/"
+          "instagram": "https://www.instagram.com/p/Dd0mtWrigeC/"
         }
       ],
       "cover": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd.webp",
