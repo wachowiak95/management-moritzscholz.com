@@ -24,14 +24,6 @@
     "src": "assets/street-style/14h_-RYbmFb8b7H1i3jrHbj0nTgxv9d6G.webp"
   },
   {
-    "bild": "04",
-    "titel": "Recent Work 04",
-    "beschreibung": "",
-    "typ": "foto",
-    "link": "https://www.instagram.com/p/DdJ4xM6FxlQ/",
-    "src": "assets/street-style/1qWpudmNeS21od1LG08BUVGJq6-MYlVXD.webp"
-  },
-  {
     "bild": "05",
     "titel": "Recent Work 05",
     "beschreibung": "",
@@ -39,4 +31,4 @@
     "link": "https://www.instagram.com/p/Dd0mtWrigeC/",
     "src": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd.webp"
   }
-];
+]
