@@ -315,3 +315,10 @@ body[data-page="people"] .image-tile img { object-fit:contain; }
 .video-stage:fullscreen { display:flex; align-items:center; justify-content:center; background:var(--ink); }
 .video-stage:fullscreen video { max-height:100vh; object-fit:contain; }
 .recent-card, .video-card { min-width:0; }
+
+/* Recent Work videos occupy the same portrait tile as the photographs. */
+body[data-page="recent-work"] .grid .video-card { grid-column:auto; margin:0; }
+body[data-page="recent-work"] .video-stage { aspect-ratio:2 / 3; }
+body[data-page="recent-work"] .video-card.landscape video,
+body[data-page="recent-work"] .video-card video { width:100%; height:100%; aspect-ratio:auto; object-fit:cover; }
+body[data-page="recent-work"] .video-card figcaption { padding:12px 0; font:12px/1.5 Arial,sans-serif; color:var(--paper); }
