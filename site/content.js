@@ -195,7 +195,7 @@ window.portfolioContent = {
     {
       "slug": "videography",
       "title": "Videography",
-      "cover": "assets/videos/film-1-cover.webp",
+      "cover": "assets/videos/videography-cover.webp",
       "media": [
         {
           "src": "assets/videos/film-5.mp4?v=silent-1202dfa",
@@ -230,8 +230,8 @@ window.portfolioContent = {
           "duration": 26.066667
         }
       ],
-      "coverPosition": "50% 0%",
-      "coverPositionMobile": "50% 0%"
+      "coverPosition": "50% 23%",
+      "coverPositionMobile": "50% 20%"
     },
     {
       "slug": "people",
