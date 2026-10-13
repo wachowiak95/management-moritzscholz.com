@@ -921,8 +921,8 @@ window.portfolioContent = {
         }
       ],
       "cover": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd.webp",
-      "coverPosition": "50% 23%",
-      "coverPositionMobile": "50% 22%"
+      "coverPosition": "50% 38%",
+      "coverPositionMobile": "50% 35%"
     }
   ]
 };
