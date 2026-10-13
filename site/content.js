@@ -900,16 +900,6 @@ window.portfolioContent = {
           "instagram": "https://www.instagram.com/p/DeHHytdgoau/"
         },
         {
-          "src": "assets/street-style/1qWpudmNeS21od1LG08BUVGJq6-MYlVXD.webp",
-          "thumb": "assets/street-style/1qWpudmNeS21od1LG08BUVGJq6-MYlVXD-thumb.webp",
-          "width": 1334,
-          "height": 2000,
-          "alt": "Street style portrait in a white blouse and black trousers.",
-          "caption": "",
-          "title": "Recent Work 04",
-          "instagram": "https://www.instagram.com/p/DdJ4xM6FxlQ/"
-        },
-        {
           "src": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd.webp",
           "thumb": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd-thumb.webp",
           "width": 1600,
