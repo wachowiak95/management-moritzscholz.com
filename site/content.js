@@ -868,7 +868,61 @@ window.portfolioContent = {
     {
       "slug": "recent-work",
       "title": "Recent Work",
-      "media": []
+      "media": [
+        {
+          "src": "assets/people/1t4topgdL67OF31njdGAT6ndj_CcQmnqc.webp",
+          "thumb": "assets/people/1t4topgdL67OF31njdGAT6ndj_CcQmnqc-thumb.webp",
+          "width": 1600,
+          "height": 2400,
+          "alt": "Three women walking together on a city street.",
+          "caption": "",
+          "title": "Recent Work 01",
+          "instagram": "https://www.instagram.com/p/Dd0mayViMTF/"
+        },
+        {
+          "src": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd.webp",
+          "thumb": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd-thumb.webp",
+          "width": 1600,
+          "height": 2400,
+          "alt": "Portrait beside a yellow street pole, with a white handbag.",
+          "caption": "",
+          "title": "Recent Work 02",
+          "instagram": "https://www.instagram.com/p/Dd0mtWrigeC/"
+        },
+        {
+          "src": "assets/street-style/14h_-RYbmFb8b7H1i3jrHbj0nTgxv9d6G.webp",
+          "thumb": "assets/street-style/14h_-RYbmFb8b7H1i3jrHbj0nTgxv9d6G-thumb.webp",
+          "width": 1334,
+          "height": 2000,
+          "alt": "Street style portrait in a burgundy jacket and blue jeans.",
+          "caption": "",
+          "title": "Recent Work 03",
+          "instagram": "https://www.instagram.com/p/DeHHytdgoau/"
+        },
+        {
+          "src": "assets/street-style/1qWpudmNeS21od1LG08BUVGJq6-MYlVXD.webp",
+          "thumb": "assets/street-style/1qWpudmNeS21od1LG08BUVGJq6-MYlVXD-thumb.webp",
+          "width": 1334,
+          "height": 2000,
+          "alt": "Street style portrait in a white blouse and black trousers.",
+          "caption": "",
+          "title": "Recent Work 04",
+          "instagram": "https://www.instagram.com/p/DdJ4xM6FxlQ/"
+        },
+        {
+          "src": "assets/people/1C16VuALGWGijZ9sEYbBgyDeLEdOa9J29.webp",
+          "thumb": "assets/people/1C16VuALGWGijZ9sEYbBgyDeLEdOa9J29-thumb.webp",
+          "width": 480,
+          "height": 640,
+          "alt": "Seated portrait in a green and black outfit.",
+          "caption": "",
+          "title": "Recent Work 05",
+          "instagram": "https://www.instagram.com/p/DeHluxLCH2W/"
+        }
+      ],
+      "cover": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd.webp",
+      "coverPosition": "50% 23%",
+      "coverPositionMobile": "50% 22%"
     }
   ]
 };

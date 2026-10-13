@@ -304,3 +304,7 @@ body[data-page="people"] .image-tile img { object-fit:contain; }
  .work-row.has-cover { padding:12px; }
  .work-row.has-cover .row-title { font-size:clamp(18px,4.7vw,28px); }
 }
+
+.recent-card { margin:0; min-width:0; }
+.recent-card .image-tile { width:100%; }
+.recent-card figcaption { padding:12px 0; font:12px/1.5 Arial,sans-serif; color:var(--paper); }
