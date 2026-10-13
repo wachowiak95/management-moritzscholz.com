@@ -198,15 +198,6 @@ window.portfolioContent = {
       "cover": "assets/videos/film-1-cover.webp",
       "media": [
         {
-          "src": "assets/videos/film-1.mp4?v=silent-1202dfa",
-          "poster": "assets/videos/film-1.webp",
-          "title": "Film 01",
-          "duration": 7.24,
-          "width": 1080,
-          "height": 608,
-          "instagram": "https://www.instagram.com/p/Ddows2eCPog/"
-        },
-        {
           "src": "assets/videos/film-5.mp4?v=silent-1202dfa",
           "poster": "assets/videos/film-5.webp",
           "title": "Istanbul",
@@ -898,6 +889,16 @@ window.portfolioContent = {
           "caption": "",
           "title": "Recent Work 03",
           "instagram": "https://www.instagram.com/p/DeHHytdgoau/"
+        },
+        {
+          "src": "assets/videos/film-1.mp4?v=silent-1202dfa",
+          "poster": "assets/videos/film-1.webp",
+          "title": "Recent Work 04",
+          "duration": 7.24,
+          "width": 1080,
+          "height": 608,
+          "instagram": "https://www.instagram.com/p/Ddows2eCPog/",
+          "type": "video"
         },
         {
           "src": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd.webp",

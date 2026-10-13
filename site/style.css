@@ -308,3 +308,10 @@ body[data-page="people"] .image-tile img { object-fit:contain; }
 .recent-card { margin:0; min-width:0; }
 .recent-card .image-tile { width:100%; }
 .recent-card figcaption { padding:12px 0; font:12px/1.5 Arial,sans-serif; color:var(--paper); }
+
+.video-controls { position:absolute; bottom:0; left:0; right:0; display:flex; align-items:center; gap:8px; padding:4px 8px; background:linear-gradient(transparent,#302723bb); }
+.video-controls button { flex:none; width:40px; height:40px; padding:0; border:0; background:transparent; color:var(--paper); cursor:pointer; font:22px Arial,sans-serif; }
+.video-progress { width:100%; min-width:0; accent-color:var(--paper); cursor:pointer; }
+.video-stage:fullscreen { display:flex; align-items:center; justify-content:center; background:var(--ink); }
+.video-stage:fullscreen video { max-height:100vh; object-fit:contain; }
+.recent-card, .video-card { min-width:0; }

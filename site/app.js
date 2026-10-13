@@ -13,6 +13,7 @@ const icons={
 };
 const icon=name=>`<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">${icons[name]}</svg>`;
 
+const videoCard=v=>`<figure class="video-card ${v.width>v.height?'landscape':''}"><div class="video-stage"><video playsinline muted loop preload="none" disablepictureinpicture disableremoteplayback poster="${escape(asset(v.poster))}" aria-label="${escape(v.title)}"><source src="${escape(asset(v.src))}" type="video/mp4"></video><div class="video-controls"><button class="video-play" type="button" aria-label="Play ${escape(v.title)}">▷</button><input class="video-progress" type="range" min="0" max="100" value="0" step="0.1" aria-label="Seek ${escape(v.title)}"><button class="video-fullscreen" type="button" aria-label="Full screen ${escape(v.title)}">⛶</button></div></div><figcaption>${escape(v.title)}${v.instagram?`<a class="video-instagram" href="${escape(v.instagram)}" target="_blank" rel="noopener noreferrer">VIEW ON INSTAGRAM ↗</a>`:''}</figcaption></figure>`;
 const social=()=>`<footer class="socials">${[['instagram','Instagram',c.instagram],['mail','E-Mail','mailto:'+c.email],['linkedin','LinkedIn',c.linkedin]].map(([key,label,url])=>`<a href="${escape(url)}" aria-label="${label}" ${key==='mail'?'':'target="_blank" rel="noopener noreferrer"'}>${icon(key)}<span class="social-tooltip" aria-hidden="true">${label}</span></a>`).join('')}</footer>`;
 const brandPages=['home','work','people','street-style','events','videography','recent-work'];
 const brands=[{"name": "Peek & Cloppenburg Düsseldorf", "src": "assets/logos/peek-cloppenburg.png", "key": "peek-cloppenburg"}, {"name": "Wempe", "src": "assets/logos/wempe.png", "key": "wempe"}, {"name": "Tommy Hilfiger", "src": "assets/logos/tommy.png", "key": "tommy"}, {"name": "ROJA London", "src": "assets/logos/roja.png", "key": "roja"}, {"name": "NARS", "src": "assets/logos/nars.png", "key": "nars"}, {"name": "CeraVe", "src": "assets/logos/cerave.png", "key": "cerave"}, {"name": "La Roche-Posay", "src": "assets/logos/laroche.png", "key": "laroche"}, {"name": "L'Oréal Paris", "src": "assets/logos/loreal.png", "key": "loreal"}, {"name": "Karl Lagerfeld", "src": "assets/logos/karl.png", "key": "karl"}, {"name": "Canon", "src": "assets/logos/canon.png", "key": "canon"}, {"name": "EX NIHILO Paris", "src": "assets/logos/exnihilo.png", "key": "exnihilo"}, {"name": "Amouage", "src": "assets/logos/amouage.png", "key": "amouage"}, {"name": "Marc Cain", "src": "assets/logos/marccain.png", "key": "marccain"}, {"name": "by Aylin Koenig", "src": "assets/logos/aylin.png", "key": "aylin"}, {"name": "Kapten & Son", "src": "assets/logos/kapten.png", "key": "kapten"}, {"name": "HEY MARLY", "src": "assets/logos/heymarly.png", "key": "heymarly"}, {"name": "Guerlain", "src": "assets/logos/guerlain.png", "key": "guerlain"}, {"name": "CAPOLAVORO", "src": "assets/logos/capolavoro.png", "key": "capolavoro"}, {"name": "GRAZIA", "src": "assets/logos/grazia.png", "key": "grazia"}, {"name": "Acqua di Parma", "src": "assets/logos/acqua.png", "key": "acqua"}, {"name": "Apple", "src": "assets/logos/apple.png", "key": "apple"}, {"name": "WEAT", "src": "assets/logos/weat.png", "key": "weat"}, {"name": "Giacomelli Trachten", "src": "assets/logos/giacomelli.png", "key": "giacomelli"}, {"name": "ariane ernst", "src": "assets/logos/ariane.png", "key": "ariane"}, {"name": "NEWSHA", "src": "assets/logos/newsha.png", "key": "newsha"}, {"name": "Outletcity Metzingen", "src": "assets/logos/outletcity.png", "key": "outletcity"}, {"name": "Fédération de la Haute Couture et de la Mode", "src": "assets/logos/fhcm.png", "key": "fhcm"}, {"name": "LES VISIONNAIRES", "src": "assets/logos/visionnaires.png", "key": "visionnaires"}, {"name": "INUIKII", "src": "assets/logos/inuikii.png", "key": "inuikii"}, {"name": "Calzedonia", "src": "assets/logos/calzedonia.png", "key": "calzedonia"}, {"name": "The Frankie Shop", "src": "assets/logos/frankie.png", "key": "frankie"}, {"name": "COMMA", "src": "assets/logos/comma.png", "key": "comma"}, {"name": "VOGUE", "src": "assets/logos/vogue.png", "key": "vogue"}, {"name": "DRYKORN", "src": "assets/logos/drykorn.png", "key": "drykorn"}, {"name": "SNOCKS", "src": "assets/logos/snocks.png", "key": "snocks"}, {"name": "PURELEI", "src": "assets/logos/purelei.png", "key": "purelei"}, {"name": "Dyson", "src": "assets/logos/dyson.png", "key": "dyson"}, {"name": "Breuninger", "src": "assets/logos/breuninger.png", "key": "breuninger"}];
@@ -46,31 +47,15 @@ if(page==='home'){
  if(!cat.media.length){grid.classList.add('empty-gallery');grid.innerHTML='<p>Coming soon</p>';}
  else if(cat.slug==='videography'){
  grid.classList.add('video-grid');
- grid.innerHTML=cat.media.map(v=>`<figure class="video-card ${v.width>v.height?'landscape':''}"><div class="video-stage"><video controls playsinline muted loop preload="none" poster="${escape(asset(v.poster))}" aria-label="${escape(v.title)}"><source src="${escape(asset(v.src))}" type="video/mp4"></video><button class="video-toggle" type="button" aria-label="Play ${escape(v.title)}">▷</button><span class="video-hint">${matchMedia('(hover: hover) and (pointer: fine)').matches?'HOVER TO PLAY':'TAP TO PLAY'}</span></div><figcaption>${escape(v.title)}${v.instagram?`<a class="video-instagram" href="${escape(v.instagram)}" target="_blank" rel="noopener noreferrer" aria-label="View ${escape(v.title)} on Instagram">VIEW ON INSTAGRAM ↗</a>`:""}</figcaption></figure>`).join('');
- const hover=matchMedia('(hover: hover) and (pointer: fine)');
- const reduce=matchMedia('(prefers-reduced-motion: reduce)');
- const stop=video=>video.pause();
- grid.querySelectorAll('video').forEach(video=>{
-  const card=video.closest('.video-card');
-  const toggle=card.querySelector('.video-toggle');
-  toggle.addEventListener('click',()=>{if(video.paused)video.play().catch(()=>{});else stop(video);});
-  if(hover.matches&&!reduce.matches){
-   card.addEventListener('pointerenter',()=>{video.muted=true;video.play().catch(()=>{});});
-   card.addEventListener('pointerleave',()=>stop(video));
-  }
-  video.addEventListener('play',()=>{grid.querySelectorAll('video').forEach(other=>{if(other!==video)stop(other);});card.classList.add('is-playing');toggle.textContent='Ⅱ';toggle.setAttribute('aria-label','Pause '+video.getAttribute('aria-label'));});
-  video.addEventListener('pause',()=>{card.classList.remove('is-playing');toggle.textContent='▷';toggle.setAttribute('aria-label','Play '+video.getAttribute('aria-label'));});
-
-  new IntersectionObserver(entries=>{if(!entries[0].isIntersecting)stop(video);},{threshold:.15}).observe(video);
- });
- document.addEventListener('visibilitychange',()=>{if(document.hidden)grid.querySelectorAll('video').forEach(stop);});
+ grid.innerHTML=cat.media.map(videoCard).join('');
 
  }else{
  const photoTile=(photo,i)=>`<button class="image-tile ${photo.publication?'publication':''} ${photo.width>photo.height?'landscape':''}" data-photo="${i}" aria-label="${escape(photo.alt)} - open image"><img loading="lazy" src="${escape(asset(photo.thumb||photo.src))}" alt="${escape(photo.alt)}" width="${photo.width||1336}" height="${photo.height||2000}" decoding="async"></button>`;
  const photoBlocks=[];
  for(let i=0;i<cat.media.length;i++){
   const photo=cat.media[i];
-  if(photo.series){
+  if(photo.type==='video'){photoBlocks.push(videoCard(photo));}
+  else if(photo.series){
    let tiles=photoTile(photo,i);
    while(i+1<cat.media.length&&cat.media[i+1].series===photo.series){i++;tiles+=photoTile(cat.media[i],i);}
    photoBlocks.push(`<div class="photo-series" aria-label="Photo series">${tiles}</div>`);
@@ -85,4 +70,20 @@ if(page==='home'){
  dialog.querySelector('button').addEventListener('click',()=>dialog.close());dialog.addEventListener('close',()=>last?.focus());
  }
 }
+
+const hover=matchMedia('(hover: hover) and (pointer: fine)'),reduce=matchMedia('(prefers-reduced-motion: reduce)');
+const allVideos=main.querySelectorAll('video');
+allVideos.forEach(video=>{
+ const card=video.closest('.video-card'),button=card.querySelector('.video-play'),progress=card.querySelector('.video-progress');
+ const toggle=()=>{if(video.paused){video.muted=true;video.play().catch(()=>{});}else video.pause();};
+ button.addEventListener('click',toggle);video.addEventListener('click',toggle);
+ if(hover.matches&&!reduce.matches){card.addEventListener('pointerenter',()=>{video.muted=true;video.play().catch(()=>{});});card.addEventListener('pointerleave',()=>video.pause());}
+ video.addEventListener('play',()=>{allVideos.forEach(other=>{if(other!==video)other.pause();});button.textContent='Ⅱ';button.setAttribute('aria-label','Pause '+video.getAttribute('aria-label'));});
+ video.addEventListener('pause',()=>{button.textContent='▷';button.setAttribute('aria-label','Play '+video.getAttribute('aria-label'));});
+ video.addEventListener('timeupdate',()=>{if(Number.isFinite(video.duration)&&video.duration>0)progress.value=video.currentTime/video.duration*100;});
+ progress.addEventListener('input',()=>{if(Number.isFinite(video.duration))video.currentTime=Number(progress.value)/100*video.duration;});
+ card.querySelector('.video-fullscreen').addEventListener('click',()=>{if(document.fullscreenElement)document.exitFullscreen?.();else card.querySelector('.video-stage').requestFullscreen?.().catch(()=>{});});
+ new IntersectionObserver(entries=>{if(!entries[0].isIntersecting)video.pause();},{threshold:.15}).observe(video);
+});
+document.addEventListener('visibilitychange',()=>{if(document.hidden)allVideos.forEach(v=>v.pause());});
 })();
