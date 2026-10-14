@@ -909,6 +909,16 @@ window.portfolioContent = {
           "caption": "",
           "title": "Recent Work 05",
           "instagram": "https://www.instagram.com/p/Dd0mtWrigeC/"
+        },
+        {
+          "src": "assets/recent-work/cherifa-mfw.webp",
+          "thumb": "assets/recent-work/cherifa-mfw-thumb.webp",
+          "width": 1600,
+          "height": 2400,
+          "title": "Cherifa MFW",
+          "alt": "Cherifa seated at Milan Fashion Week in a black pinstriped outfit and sunglasses.",
+          "caption": "",
+          "instagram": "https://www.instagram.com/p/Ddt7WaqABVI/?img_index=11&mdxt=ZjlvN3NoOGoxMWd0"
         }
       ],
       "cover": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd.webp",
