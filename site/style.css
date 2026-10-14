@@ -335,3 +335,15 @@ body[data-page="recent-work"] .video-card.landscape video { object-fit:contain; 
  body[data-page="recent-work"] .grid:not(.video-grid) { grid-template-columns:repeat(2,minmax(0,1fr)); --recent-photo-width:calc((100cqw - 7px)/2); }
  body[data-page="recent-work"] .grid .video-card.landscape { grid-column:span 2; }
 }
+
+/* Fit the video stage itself to the footage, avoiding letterbox borders. */
+body[data-page="recent-work"] .video-card.landscape .video-stage {
+ width:min(100%,calc(var(--recent-photo-width)*1.5*1080/608));
+ height:auto;
+ aspect-ratio:1080 / 608;
+ background:transparent;
+}
+body[data-page="recent-work"] .video-card.landscape video { display:block; width:100%; height:100%; object-fit:contain; }
+@media(max-width:700px) {
+ body[data-page="recent-work"] .video-card.landscape .video-stage { width:100%; }
+}
