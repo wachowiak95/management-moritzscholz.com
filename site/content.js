@@ -867,7 +867,7 @@ window.portfolioContent = {
           "height": 2400,
           "alt": "Three women walking together on a city street.",
           "caption": "",
-          "title": "Recent Work 01",
+          "title": "Farina & Cleo & Marlies for Tods",
           "instagram": "https://www.instagram.com/p/Dd0mayViMTF/"
         },
         {
@@ -877,7 +877,7 @@ window.portfolioContent = {
           "height": 640,
           "alt": "Seated portrait in a green and black outfit.",
           "caption": "",
-          "title": "Recent Work 02",
+          "title": "Olivia van Lil for Essentiel Antwerp",
           "instagram": "https://www.instagram.com/p/DeHluxLCH2W/"
         },
         {
@@ -887,13 +887,13 @@ window.portfolioContent = {
           "height": 2000,
           "alt": "Street style portrait in a burgundy jacket and blue jeans.",
           "caption": "",
-          "title": "Recent Work 03",
+          "title": "Bhavitha Mandava Streetstyle",
           "instagram": "https://www.instagram.com/p/DeHHytdgoau/"
         },
         {
           "src": "assets/videos/film-1.mp4?v=silent-1202dfa",
           "poster": "assets/videos/film-1.webp",
-          "title": "Recent Work 04",
+          "title": "Demi Yenekan for MM6 Maison Margiela",
           "duration": 7.24,
           "width": 1080,
           "height": 608,
@@ -907,7 +907,7 @@ window.portfolioContent = {
           "height": 2400,
           "alt": "Portrait beside a yellow street pole, with a white handbag.",
           "caption": "",
-          "title": "Recent Work 05",
+          "title": "Marlies Pia Pfeifhofer for Tods",
           "instagram": "https://www.instagram.com/p/Dd0mtWrigeC/"
         },
         {
@@ -915,7 +915,7 @@ window.portfolioContent = {
           "thumb": "assets/recent-work/cherifa-mfw-thumb.webp",
           "width": 1600,
           "height": 2400,
-          "title": "Cherifa MFW",
+          "title": "Cherifa Akili for Sportmax",
           "alt": "Cherifa seated at Milan Fashion Week in a black pinstriped outfit and sunglasses.",
           "caption": "",
           "instagram": "https://www.instagram.com/p/Ddt7WaqABVI/?img_index=11&mdxt=ZjlvN3NoOGoxMWd0"
