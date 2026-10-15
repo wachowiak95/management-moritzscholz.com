@@ -206,12 +206,14 @@ window.portfolioContent = {
           "duration": 8.1
         },
         {
-          "src": "assets/videos/1B1InvAYceD0Uq520J1JpdzBkntSxsE6v.mp4",
-          "poster": "assets/videos/1B1InvAYceD0Uq520J1JpdzBkntSxsE6v.webp",
-          "title": "Chiara King for Chaumet",
+          "src": "assets/videos/1FmXZSZ5SlVItmtMHBT9gDdlZ5xWyuC8D.mp4",
+          "poster": "assets/videos/1FmXZSZ5SlVItmtMHBT9gDdlZ5xWyuC8D.webp",
           "width": 1080,
           "height": 1920,
-          "duration": 26.066667
+          "duration": 14.366667,
+          "type": "video",
+          "title": "Sophia Geiss for Uniqlo",
+          "instagram": "https://www.instagram.com/reel/DU3DunjCkE8/?vrfl=MTBreHljcWlieHZuNQ=="
         },
         {
           "src": "assets/videos/1vc_8PqdEtLYlcc5Puex3s2Jrd-JPcVg8.mp4",
@@ -224,14 +226,12 @@ window.portfolioContent = {
           "instagram": "https://www.instagram.com/reel/DRpL4QUDLQJ/?rpxt=amdiczEyOXp2Y2c4"
         },
         {
-          "src": "assets/videos/1FmXZSZ5SlVItmtMHBT9gDdlZ5xWyuC8D.mp4",
-          "poster": "assets/videos/1FmXZSZ5SlVItmtMHBT9gDdlZ5xWyuC8D.webp",
+          "src": "assets/videos/1B1InvAYceD0Uq520J1JpdzBkntSxsE6v.mp4",
+          "poster": "assets/videos/1B1InvAYceD0Uq520J1JpdzBkntSxsE6v.webp",
+          "title": "Chiara King for Chaumet",
           "width": 1080,
           "height": 1920,
-          "duration": 14.366667,
-          "type": "video",
-          "title": "Sophia Geiss for Uniqlo",
-          "instagram": "https://www.instagram.com/reel/DU3DunjCkE8/?vrfl=MTBreHljcWlieHZuNQ=="
+          "duration": 26.066667
         },
         {
           "src": "assets/videos/16O5uIIMronMqf43Bry3H3FS0PPZpNByx.mp4",
