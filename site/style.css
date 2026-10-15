@@ -373,3 +373,20 @@ body[data-page="recent-work"] .recent-video-row .video-stage { height:var(--rece
 @media(max-width:700px) {
  body[data-page="recent-work"] .recent-video-row .video-stage { height:auto; aspect-ratio:2 / 3; }
 }
+
+/* Keep every Instagram action below its title, including long mobile titles. */
+.video-card figcaption, .recent-card figcaption {
+ display:flex;
+ flex-direction:column;
+ align-items:flex-start;
+ gap:12px;
+ overflow-wrap:anywhere;
+}
+.video-card figcaption .video-instagram,
+.recent-card figcaption .video-instagram {
+ display:flex;
+ flex:none;
+ max-width:100%;
+ margin:0 0 4px;
+ white-space:normal;
+}
