@@ -925,16 +925,6 @@ window.portfolioContent = {
           "type": "video"
         },
         {
-          "src": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd.webp",
-          "thumb": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd-thumb.webp",
-          "width": 1600,
-          "height": 2400,
-          "alt": "Portrait beside a yellow street pole, with a white handbag.",
-          "caption": "",
-          "title": "Marlies Pia Pfeifhofer for Tods",
-          "instagram": "https://www.instagram.com/p/Dd0mtWrigeC/"
-        },
-        {
           "src": "assets/recent-work/cherifa-mfw.webp",
           "thumb": "assets/recent-work/cherifa-mfw-thumb.webp",
           "width": 1600,
@@ -943,6 +933,16 @@ window.portfolioContent = {
           "alt": "Cherifa seated at Milan Fashion Week in a black pinstriped outfit and sunglasses.",
           "caption": "",
           "instagram": "https://www.instagram.com/p/Ddt7WaqABVI/?img_index=11&mdxt=ZjlvN3NoOGoxMWd0"
+        },
+        {
+          "src": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd.webp",
+          "thumb": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd-thumb.webp",
+          "width": 1600,
+          "height": 2400,
+          "alt": "Portrait beside a yellow street pole, with a white handbag.",
+          "caption": "",
+          "title": "Marlies Pia Pfeifhofer for Tods",
+          "instagram": "https://www.instagram.com/p/Dd0mtWrigeC/"
         },
         {
           "src": "assets/videos/1vc_8PqdEtLYlcc5Puex3s2Jrd-JPcVg8.mp4",
