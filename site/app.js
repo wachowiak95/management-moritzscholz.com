@@ -66,9 +66,10 @@ if(page==='home'){
   }else photoBlocks.push(photoTile(photo,i));
  }
  if(cat.slug==='recent-work'){
-  const videos=photoBlocks.filter((block,i)=>cat.media[i].type==='video');
+  const videos=photoBlocks.filter((block,i)=>cat.media[i].type==='video'&&cat.media[i].width>cat.media[i].height);
+  const portraitVideos=photoBlocks.filter((block,i)=>cat.media[i].type==='video'&&cat.media[i].width<=cat.media[i].height);
   const photos=photoBlocks.filter((block,i)=>cat.media[i].type!=='video');
-  grid.innerHTML=videos.length&&photos.length>1?`<div class="recent-row">${photos.slice(0,-1).join('')}</div><div class="recent-row recent-feature-row">${videos.join('')}${photos.slice(-1).join('')}</div>`:photoBlocks.join('');
+  grid.innerHTML=videos.length&&photos.length>1?`<div class="recent-row">${photos.slice(0,-1).join('')}</div><div class="recent-row recent-feature-row">${videos.join('')}${photos.slice(-1).join('')}</div>${portraitVideos.length?`<div class="recent-row recent-video-row">${portraitVideos.join('')}</div>`:''}`:photoBlocks.join('');
  }else grid.innerHTML=photoBlocks.join('');
  main.insertAdjacentHTML('beforeend','<dialog class="lightbox" aria-label="Image viewer"><button class="close">Close ×</button><img alt=""><p></p></dialog>');
  const dialog=main.querySelector('dialog');let last;
@@ -83,7 +84,6 @@ allVideos.forEach(video=>{
  const card=video.closest('.video-card'),button=card.querySelector('.video-play'),progress=card.querySelector('.video-progress');
  const toggle=()=>{if(video.paused){video.muted=true;video.play().catch(()=>{});}else video.pause();};
  button.addEventListener('click',toggle);video.addEventListener('click',toggle);
- if(hover.matches&&!reduce.matches){card.addEventListener('pointerenter',()=>{video.muted=true;video.play().catch(()=>{});});card.addEventListener('pointerleave',()=>video.pause());}
  video.addEventListener('play',()=>{allVideos.forEach(other=>{if(other!==video)other.pause();});button.textContent='Ⅱ';button.setAttribute('aria-label','Pause '+video.getAttribute('aria-label'));});
  video.addEventListener('pause',()=>{button.textContent='▷';button.setAttribute('aria-label','Play '+video.getAttribute('aria-label'));});
  video.addEventListener('timeupdate',()=>{if(Number.isFinite(video.duration)&&video.duration>0)progress.value=video.currentTime/video.duration*100;});

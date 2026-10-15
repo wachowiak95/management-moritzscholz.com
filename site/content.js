@@ -198,25 +198,9 @@ window.portfolioContent = {
       "cover": "assets/videos/videography-cover.webp",
       "media": [
         {
-          "src": "assets/videos/film-5.mp4?v=silent-1202dfa",
-          "poster": "assets/videos/film-5.webp",
-          "title": "Istanbul",
-          "duration": 25.048333,
-          "width": 1080,
-          "height": 1920
-        },
-        {
-          "src": "assets/videos/film-8.mp4?v=silent-1202dfa",
-          "poster": "assets/videos/film-8.webp",
-          "title": "Film 08",
-          "duration": 8.8,
-          "width": 1080,
-          "height": 1920
-        },
-        {
           "src": "assets/videos/1BzrPhQWcTyQX_Xt1JS8tj2VXaCq9qWYZ.mp4",
           "poster": "assets/videos/1BzrPhQWcTyQX_Xt1JS8tj2VXaCq9qWYZ.webp",
-          "title": "Film 09",
+          "title": "Millane for Off White",
           "width": 1080,
           "height": 1920,
           "duration": 8.1
@@ -224,10 +208,50 @@ window.portfolioContent = {
         {
           "src": "assets/videos/1B1InvAYceD0Uq520J1JpdzBkntSxsE6v.mp4",
           "poster": "assets/videos/1B1InvAYceD0Uq520J1JpdzBkntSxsE6v.webp",
-          "title": "Film 10",
+          "title": "Chiara King for Chaumet",
           "width": 1080,
           "height": 1920,
           "duration": 26.066667
+        },
+        {
+          "src": "assets/videos/1vc_8PqdEtLYlcc5Puex3s2Jrd-JPcVg8.mp4",
+          "poster": "assets/videos/1vc_8PqdEtLYlcc5Puex3s2Jrd-JPcVg8.webp",
+          "width": 1080,
+          "height": 1920,
+          "duration": 12.066667,
+          "type": "video",
+          "title": "Mirja Klein for Cochinelle",
+          "instagram": "https://www.instagram.com/reel/DRpL4QUDLQJ/?rpxt=amdiczEyOXp2Y2c4"
+        },
+        {
+          "src": "assets/videos/1FmXZSZ5SlVItmtMHBT9gDdlZ5xWyuC8D.mp4",
+          "poster": "assets/videos/1FmXZSZ5SlVItmtMHBT9gDdlZ5xWyuC8D.webp",
+          "width": 1080,
+          "height": 1920,
+          "duration": 14.366667,
+          "type": "video",
+          "title": "Sophia Geiss for Uniqlo",
+          "instagram": "https://www.instagram.com/reel/DU3DunjCkE8/?vrfl=MTBreHljcWlieHZuNQ=="
+        },
+        {
+          "src": "assets/videos/16O5uIIMronMqf43Bry3H3FS0PPZpNByx.mp4",
+          "poster": "assets/videos/16O5uIIMronMqf43Bry3H3FS0PPZpNByx.webp",
+          "width": 1080,
+          "height": 1920,
+          "duration": 25.416667,
+          "type": "video",
+          "title": "Sophia Geiss for Breuninger & Drykorn",
+          "instagram": "https://www.instagram.com/reel/DeewRyFNrqT/?xtok=YXc1MDliMTk5N212"
+        },
+        {
+          "src": "assets/videos/1AGn-SRaI0UZSUXIN5qbFZwUjXuHQ6er5.mp4",
+          "poster": "assets/videos/1AGn-SRaI0UZSUXIN5qbFZwUjXuHQ6er5.webp",
+          "width": 1080,
+          "height": 1920,
+          "duration": 6.6,
+          "type": "video",
+          "title": "Cherifa Akili for Sportmax",
+          "instagram": "https://www.instagram.com/reel/DdwdmlqBgLV/?vrfl=OTV0aHBtcDdhZXk1"
         }
       ],
       "coverPosition": "50% 23%",
@@ -919,6 +943,46 @@ window.portfolioContent = {
           "alt": "Cherifa seated at Milan Fashion Week in a black pinstriped outfit and sunglasses.",
           "caption": "",
           "instagram": "https://www.instagram.com/p/Ddt7WaqABVI/?img_index=11&mdxt=ZjlvN3NoOGoxMWd0"
+        },
+        {
+          "src": "assets/videos/1vc_8PqdEtLYlcc5Puex3s2Jrd-JPcVg8.mp4",
+          "poster": "assets/videos/1vc_8PqdEtLYlcc5Puex3s2Jrd-JPcVg8.webp",
+          "width": 1080,
+          "height": 1920,
+          "duration": 12.066667,
+          "type": "video",
+          "title": "Mirja Klein for Cochinelle",
+          "instagram": "https://www.instagram.com/reel/DRpL4QUDLQJ/?rpxt=amdiczEyOXp2Y2c4"
+        },
+        {
+          "src": "assets/videos/1FmXZSZ5SlVItmtMHBT9gDdlZ5xWyuC8D.mp4",
+          "poster": "assets/videos/1FmXZSZ5SlVItmtMHBT9gDdlZ5xWyuC8D.webp",
+          "width": 1080,
+          "height": 1920,
+          "duration": 14.366667,
+          "type": "video",
+          "title": "Sophia Geiss for Uniqlo",
+          "instagram": "https://www.instagram.com/reel/DU3DunjCkE8/?vrfl=MTBreHljcWlieHZuNQ=="
+        },
+        {
+          "src": "assets/videos/16O5uIIMronMqf43Bry3H3FS0PPZpNByx.mp4",
+          "poster": "assets/videos/16O5uIIMronMqf43Bry3H3FS0PPZpNByx.webp",
+          "width": 1080,
+          "height": 1920,
+          "duration": 25.416667,
+          "type": "video",
+          "title": "Sophia Geiss for Breuninger & Drykorn",
+          "instagram": "https://www.instagram.com/reel/DeewRyFNrqT/?xtok=YXc1MDliMTk5N212"
+        },
+        {
+          "src": "assets/videos/1AGn-SRaI0UZSUXIN5qbFZwUjXuHQ6er5.mp4",
+          "poster": "assets/videos/1AGn-SRaI0UZSUXIN5qbFZwUjXuHQ6er5.webp",
+          "width": 1080,
+          "height": 1920,
+          "duration": 6.6,
+          "type": "video",
+          "title": "Cherifa Akili for Sportmax",
+          "instagram": "https://www.instagram.com/reel/DdwdmlqBgLV/?vrfl=OTV0aHBtcDdhZXk1"
         }
       ],
       "cover": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd.webp",

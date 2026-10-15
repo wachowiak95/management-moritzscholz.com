@@ -46,5 +46,37 @@
     "typ": "foto",
     "link": "https://www.instagram.com/p/Ddt7WaqABVI/?img_index=11&mdxt=ZjlvN3NoOGoxMWd0",
     "src": "assets/recent-work/cherifa-mfw.webp"
+  },
+  {
+    "bild": "07",
+    "titel": "Mirja Klein for Cochinelle",
+    "beschreibung": "",
+    "typ": "video",
+    "link": "https://www.instagram.com/reel/DRpL4QUDLQJ/?rpxt=amdiczEyOXp2Y2c4",
+    "src": "assets/videos/1vc_8PqdEtLYlcc5Puex3s2Jrd-JPcVg8.mp4"
+  },
+  {
+    "bild": "08",
+    "titel": "Sophia Geiss for Uniqlo",
+    "beschreibung": "",
+    "typ": "video",
+    "link": "https://www.instagram.com/reel/DU3DunjCkE8/?vrfl=MTBreHljcWlieHZuNQ==",
+    "src": "assets/videos/1FmXZSZ5SlVItmtMHBT9gDdlZ5xWyuC8D.mp4"
+  },
+  {
+    "bild": "09",
+    "titel": "Sophia Geiss for Breuninger & Drykorn",
+    "beschreibung": "",
+    "typ": "video",
+    "link": "https://www.instagram.com/reel/DeewRyFNrqT/?xtok=YXc1MDliMTk5N212",
+    "src": "assets/videos/16O5uIIMronMqf43Bry3H3FS0PPZpNByx.mp4"
+  },
+  {
+    "bild": "10",
+    "titel": "Cherifa Akili for Sportmax",
+    "beschreibung": "",
+    "typ": "video",
+    "link": "https://www.instagram.com/reel/DdwdmlqBgLV/?vrfl=OTV0aHBtcDdhZXk1",
+    "src": "assets/videos/1AGn-SRaI0UZSUXIN5qbFZwUjXuHQ6er5.mp4"
   }
 ]
