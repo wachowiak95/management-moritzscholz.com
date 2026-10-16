@@ -193,15 +193,6 @@ window.portfolioContent = {
           "eventGroup": "AMOUAGE Dinner Hamburg"
         },
         {
-          "src": "assets/events/1q0bCpsQ9Vrw_ScEkhTopJopaCXRcLN2E.webp",
-          "thumb": "assets/events/1q0bCpsQ9Vrw_ScEkhTopJopaCXRcLN2E-thumb.webp",
-          "width": 1600,
-          "height": 2400,
-          "alt": "Event photograph by Moritz Scholz.",
-          "caption": "",
-          "eventGroup": "Max Mara Store Opening Event Munich"
-        },
-        {
           "src": "assets/events/1c2AtHX33u1b74v-8qebhKUW-3Pz-arw4.webp",
           "thumb": "assets/events/1c2AtHX33u1b74v-8qebhKUW-3Pz-arw4-thumb.webp",
           "width": 1600,
@@ -213,6 +204,15 @@ window.portfolioContent = {
         {
           "src": "assets/events/1OLvCpuDp1GoyK7Y1yd3Of9CeZDQ53CpC.webp",
           "thumb": "assets/events/1OLvCpuDp1GoyK7Y1yd3Of9CeZDQ53CpC-thumb.webp",
+          "width": 1600,
+          "height": 2400,
+          "alt": "Event photograph by Moritz Scholz.",
+          "caption": "",
+          "eventGroup": "Max Mara Store Opening Event Munich"
+        },
+        {
+          "src": "assets/events/1q0bCpsQ9Vrw_ScEkhTopJopaCXRcLN2E.webp",
+          "thumb": "assets/events/1q0bCpsQ9Vrw_ScEkhTopJopaCXRcLN2E-thumb.webp",
           "width": 1600,
           "height": 2400,
           "alt": "Event photograph by Moritz Scholz.",
