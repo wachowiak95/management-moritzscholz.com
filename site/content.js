@@ -229,6 +229,24 @@ window.portfolioContent = {
           "eventGroup": "by Aylin König x Vitra. Dinner"
         },
         {
+          "src": "assets/events/1PQkF1oy02NffJtk47gFAkRsj2klixPri.webp",
+          "thumb": "assets/events/1PQkF1oy02NffJtk47gFAkRsj2klixPri-thumb.webp",
+          "width": 1603,
+          "height": 2400,
+          "alt": "Event photograph by Moritz Scholz.",
+          "caption": "",
+          "eventGroup": "by Aylin König x Vitra. Dinner"
+        },
+        {
+          "src": "assets/events/1hnRhqi1lFCefBJDg-QOTr1sKAKVtB7z6.webp",
+          "thumb": "assets/events/1hnRhqi1lFCefBJDg-QOTr1sKAKVtB7z6-thumb.webp",
+          "width": 1603,
+          "height": 2400,
+          "alt": "Event photograph by Moritz Scholz.",
+          "caption": "",
+          "eventGroup": "by Aylin König x Vitra. Dinner"
+        },
+        {
           "src": "assets/events/1gUWI2YQZgnrJ67APxt7OsNH-EqLP5CcK.webp",
           "thumb": "assets/events/1gUWI2YQZgnrJ67APxt7OsNH-EqLP5CcK-thumb.webp",
           "width": 1603,
@@ -249,24 +267,6 @@ window.portfolioContent = {
         {
           "src": "assets/events/1uq756232njiDO5JwQq3NmIVawqb1cdwy.webp",
           "thumb": "assets/events/1uq756232njiDO5JwQq3NmIVawqb1cdwy-thumb.webp",
-          "width": 1603,
-          "height": 2400,
-          "alt": "Event photograph by Moritz Scholz.",
-          "caption": "",
-          "eventGroup": "by Aylin König x Vitra. Dinner"
-        },
-        {
-          "src": "assets/events/1PQkF1oy02NffJtk47gFAkRsj2klixPri.webp",
-          "thumb": "assets/events/1PQkF1oy02NffJtk47gFAkRsj2klixPri-thumb.webp",
-          "width": 1603,
-          "height": 2400,
-          "alt": "Event photograph by Moritz Scholz.",
-          "caption": "",
-          "eventGroup": "by Aylin König x Vitra. Dinner"
-        },
-        {
-          "src": "assets/events/1hnRhqi1lFCefBJDg-QOTr1sKAKVtB7z6.webp",
-          "thumb": "assets/events/1hnRhqi1lFCefBJDg-QOTr1sKAKVtB7z6-thumb.webp",
           "width": 1603,
           "height": 2400,
           "alt": "Event photograph by Moritz Scholz.",
