@@ -921,14 +921,15 @@ window.portfolioContent = {
           "instagram": "https://www.instagram.com/p/DehVcVpCBsK/?img_index=9&rpxt=ZjhtanF1bnM1NjBw"
         },
         {
-          "src": "assets/recent-work/cleopatra-oettingen-spielberg-prada.webp",
-          "thumb": "assets/recent-work/cleopatra-oettingen-spielberg-prada-thumb.webp",
-          "width": 1600,
-          "height": 2400,
-          "title": "Cleopatra zu Oettingen-Spielberg for PRADA",
-          "alt": "Cleopatra zu Oettingen-Spielberg for PRADA",
-          "caption": "",
-          "instagram": ""
+          "src": "assets/videos/16O5uIIMronMqf43Bry3H3FS0PPZpNByx.mp4",
+          "poster": "assets/videos/16O5uIIMronMqf43Bry3H3FS0PPZpNByx.webp",
+          "width": 1080,
+          "height": 1920,
+          "duration": 25.416667,
+          "type": "video",
+          "title": "Sophia Geiss for Breuninger & Drykorn",
+          "instagram": "https://www.instagram.com/reel/DeewRyFNrqT/?xtok=YXc1MDliMTk5N212",
+          "layoutRow": "photos"
         },
         {
           "src": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd.webp",
@@ -961,14 +962,15 @@ window.portfolioContent = {
           "instagram": "https://www.instagram.com/reel/DU3DunjCkE8/?vrfl=MTBreHljcWlieHZuNQ=="
         },
         {
-          "src": "assets/videos/16O5uIIMronMqf43Bry3H3FS0PPZpNByx.mp4",
-          "poster": "assets/videos/16O5uIIMronMqf43Bry3H3FS0PPZpNByx.webp",
-          "width": 1080,
-          "height": 1920,
-          "duration": 25.416667,
-          "type": "video",
-          "title": "Sophia Geiss for Breuninger & Drykorn",
-          "instagram": "https://www.instagram.com/reel/DeewRyFNrqT/?xtok=YXc1MDliMTk5N212"
+          "src": "assets/recent-work/cleopatra-oettingen-spielberg-prada.webp",
+          "thumb": "assets/recent-work/cleopatra-oettingen-spielberg-prada-thumb.webp",
+          "width": 1600,
+          "height": 2400,
+          "title": "Cleopatra zu Oettingen-Spielberg for PRADA",
+          "alt": "Cleopatra zu Oettingen-Spielberg for PRADA",
+          "caption": "",
+          "instagram": "",
+          "layoutRow": "portraitVideos"
         },
         {
           "src": "assets/videos/1AGn-SRaI0UZSUXIN5qbFZwUjXuHQ6er5.mp4",

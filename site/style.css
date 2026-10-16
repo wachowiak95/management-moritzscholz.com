@@ -368,10 +368,10 @@ body[data-page="recent-work"] .recent-feature-row .video-stage { width:100%; hei
 body[data-page="recent-work"] .recent-feature-row > .video-card.landscape .video-stage { width:100%; height:var(--recent-height); }
 @media(max-width:700px) { body[data-page="recent-work"] .recent-feature-row > .video-card.landscape .video-stage { height:auto; } }
 
-.recent-video-row > .video-card { flex:1; min-width:0; }
-body[data-page="recent-work"] .recent-video-row .video-stage { height:var(--recent-height); width:100%; aspect-ratio:2 / 3; }
+.recent-photo-row > .video-card, .recent-video-row > .video-card { flex:1; min-width:0; }
+body[data-page="recent-work"] :is(.recent-photo-row, .recent-video-row) .video-stage { height:var(--recent-height); width:100%; aspect-ratio:2 / 3; }
 @media(max-width:700px) {
- body[data-page="recent-work"] .recent-video-row .video-stage { height:auto; aspect-ratio:2 / 3; }
+ body[data-page="recent-work"] :is(.recent-photo-row, .recent-video-row) .video-stage { height:auto; aspect-ratio:2 / 3; }
 }
 
 /* Keep every Instagram action below its title, including long mobile titles. */

@@ -48,12 +48,12 @@
     "src": "assets/recent-work/oznur-sinani-max-mara-munich.webp"
   },
   {
-    "bild": "12",
-    "titel": "Cleopatra zu Oettingen-Spielberg for PRADA",
+    "bild": "09",
+    "titel": "Sophia Geiss for Breuninger & Drykorn",
     "beschreibung": "",
-    "typ": "foto",
-    "link": "",
-    "src": "assets/recent-work/cleopatra-oettingen-spielberg-prada.webp"
+    "typ": "video",
+    "link": "https://www.instagram.com/reel/DeewRyFNrqT/?xtok=YXc1MDliMTk5N212",
+    "src": "assets/videos/16O5uIIMronMqf43Bry3H3FS0PPZpNByx.mp4"
   },
   {
     "bild": "05",
@@ -80,12 +80,12 @@
     "src": "assets/videos/1FmXZSZ5SlVItmtMHBT9gDdlZ5xWyuC8D.mp4"
   },
   {
-    "bild": "09",
-    "titel": "Sophia Geiss for Breuninger & Drykorn",
+    "bild": "12",
+    "titel": "Cleopatra zu Oettingen-Spielberg for PRADA",
     "beschreibung": "",
-    "typ": "video",
-    "link": "https://www.instagram.com/reel/DeewRyFNrqT/?xtok=YXc1MDliMTk5N212",
-    "src": "assets/videos/16O5uIIMronMqf43Bry3H3FS0PPZpNByx.mp4"
+    "typ": "foto",
+    "link": "",
+    "src": "assets/recent-work/cleopatra-oettingen-spielberg-prada.webp"
   },
   {
     "bild": "10",
