@@ -290,6 +290,24 @@ window.portfolioContent = {
           "width": 1333,
           "height": 2000,
           "eventGroup": "ROJA Elysium Event Berlin"
+        },
+        {
+          "src": "assets/events/1fvqh-ZZhg4sBcHlDDSF-N2-VWuCw679E.webp",
+          "thumb": "assets/events/1fvqh-ZZhg4sBcHlDDSF-N2-VWuCw679E-thumb.webp",
+          "width": 2400,
+          "height": 1600,
+          "alt": "Guest presenting a ROJA perfume bottle against the blue Elysium backdrop.",
+          "caption": "ROJA Berlin",
+          "eventGroup": "ROJA Elysium Event Berlin"
+        },
+        {
+          "src": "assets/events/1e6gSt6fOpLrRuwqERc-spWabk21Yy6Zf.webp",
+          "thumb": "assets/events/1e6gSt6fOpLrRuwqERc-spWabk21Yy6Zf-thumb.webp",
+          "width": 1600,
+          "height": 2400,
+          "alt": "Guests seated together at the ROJA Elysium event in Berlin.",
+          "caption": "ROJA Berlin",
+          "eventGroup": "ROJA Elysium Event Berlin"
         }
       ],
       "coverPosition": "50% 44%",
