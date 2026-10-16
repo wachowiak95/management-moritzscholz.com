@@ -962,17 +962,6 @@ window.portfolioContent = {
           "instagram": "https://www.instagram.com/reel/DU3DunjCkE8/?vrfl=MTBreHljcWlieHZuNQ=="
         },
         {
-          "src": "assets/recent-work/cleopatra-oettingen-spielberg-prada.webp",
-          "thumb": "assets/recent-work/cleopatra-oettingen-spielberg-prada-thumb.webp",
-          "width": 1600,
-          "height": 2400,
-          "title": "Cleopatra zu Oettingen-Spielberg for PRADA",
-          "alt": "Cleopatra zu Oettingen-Spielberg for PRADA",
-          "caption": "",
-          "instagram": "",
-          "layoutRow": "portraitVideos"
-        },
-        {
           "src": "assets/videos/1AGn-SRaI0UZSUXIN5qbFZwUjXuHQ6er5.mp4",
           "poster": "assets/videos/1AGn-SRaI0UZSUXIN5qbFZwUjXuHQ6er5.webp",
           "width": 1080,
@@ -981,6 +970,17 @@ window.portfolioContent = {
           "type": "video",
           "title": "Cherifa Akili for Sportmax",
           "instagram": "https://www.instagram.com/reel/DdwdmlqBgLV/?vrfl=OTV0aHBtcDdhZXk1"
+        },
+        {
+          "src": "assets/recent-work/cleopatra-prada-bed.webp",
+          "thumb": "assets/recent-work/cleopatra-prada-bed-thumb.webp",
+          "width": 2400,
+          "height": 1600,
+          "title": "Cleopatra zu Oettingen-Spielberg for PRADA",
+          "alt": "Cleopatra zu Oettingen-Spielberg reclining on a bed with a Prada handbag.",
+          "caption": "",
+          "instagram": "",
+          "layoutRow": "portraitVideos"
         }
       ],
       "cover": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd.webp",

@@ -395,3 +395,10 @@ body[data-page="recent-work"] :is(.recent-photo-row, .recent-video-row) .video-s
 .brand-window.is-dragging { cursor:grabbing; }
 .brand-window img { -webkit-user-drag:none; }
 .brand-window:focus-visible { outline:1px solid var(--paper); outline-offset:-2px; }
+
+/* Preserve landscape photographs in the mixed Recent Work row. */
+.recent-video-row > .recent-card:has(.image-tile.landscape) { flex:2.25; }
+body[data-page="recent-work"] .recent-video-row .image-tile.landscape { height:auto; aspect-ratio:3 / 2 !important; }
+@media(max-width:700px) {
+ .recent-video-row > .recent-card:has(.image-tile.landscape) { grid-column:span 2; }
+}

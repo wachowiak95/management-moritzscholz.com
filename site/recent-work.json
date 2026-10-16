@@ -80,19 +80,19 @@
     "src": "assets/videos/1FmXZSZ5SlVItmtMHBT9gDdlZ5xWyuC8D.mp4"
   },
   {
-    "bild": "12",
-    "titel": "Cleopatra zu Oettingen-Spielberg for PRADA",
-    "beschreibung": "",
-    "typ": "foto",
-    "link": "",
-    "src": "assets/recent-work/cleopatra-oettingen-spielberg-prada.webp"
-  },
-  {
     "bild": "10",
     "titel": "Cherifa Akili for Sportmax",
     "beschreibung": "",
     "typ": "video",
     "link": "https://www.instagram.com/reel/DdwdmlqBgLV/?vrfl=OTV0aHBtcDdhZXk1",
     "src": "assets/videos/1AGn-SRaI0UZSUXIN5qbFZwUjXuHQ6er5.mp4"
+  },
+  {
+    "bild": "12",
+    "titel": "Cleopatra zu Oettingen-Spielberg for PRADA",
+    "beschreibung": "",
+    "typ": "foto",
+    "link": "",
+    "src": "assets/recent-work/cleopatra-prada-bed.webp"
   }
 ]
