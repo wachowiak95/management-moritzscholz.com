@@ -187,7 +187,8 @@ window.portfolioContent = {
           "width": 1603,
           "height": 2400,
           "alt": "Event photograph by Moritz Scholz.",
-          "caption": ""
+          "caption": "",
+          "eventGroup": "CeraVe x NBA Event Berlin"
         },
         {
           "src": "assets/events/1hSMJosG3ZzfVSG54BTJBerC1ige81XTQ.webp",
@@ -195,7 +196,8 @@ window.portfolioContent = {
           "width": 1603,
           "height": 2400,
           "alt": "Event photograph by Moritz Scholz.",
-          "caption": ""
+          "caption": "",
+          "eventGroup": "CeraVe x NBA Event Berlin"
         },
         {
           "src": "assets/events/18rq3eitO0Nn4_PVT2JuJmlJ9YDcYTNKz.webp",
@@ -203,7 +205,8 @@ window.portfolioContent = {
           "width": 1603,
           "height": 2400,
           "alt": "Event photograph by Moritz Scholz.",
-          "caption": ""
+          "caption": "",
+          "eventGroup": "CeraVe x NBA Event Berlin"
         },
         {
           "src": "assets/events/18kehM_7O-pZjXJUKCNGWu1dNmSSu_sC8.webp",
