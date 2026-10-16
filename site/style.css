@@ -404,3 +404,8 @@ body[data-page="recent-work"] .recent-video-row .image-tile.landscape { height:a
 }
 
 .legal-page .legal-progress { font-size:12px; line-height:1.6; margin:8px 0 24px; opacity:.7; }
+
+/* Event series retain the gallery grid beneath their own heading. */
+body[data-page="events"] .grid.event-groups { display:block; }
+.event-group + .event-group { margin-top:40px; }
+.event-group h2 { margin:0 0 24px; font-family:"Moritz Editorial Display",Arial,sans-serif; font-size:clamp(20px,2.4vw,30px); line-height:1.25; color:var(--paper); }

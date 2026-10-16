@@ -17,7 +17,8 @@ window.portfolioContent = {
           "caption": "Guerlain",
           "width": 1333,
           "height": 2000,
-          "series": "events-charleen"
+          "series": "events-charleen",
+          "eventGroup": "Guerlain Elysium Noir Launch"
         },
         {
           "src": "assets/events/1H5ZUSTwjc4QzZ1UTDpPQN26UowBKrBh7.webp",
@@ -26,7 +27,8 @@ window.portfolioContent = {
           "height": 2000,
           "alt": "Charleen Weiss at a Guerlain event.",
           "caption": "",
-          "series": "events-charleen"
+          "series": "events-charleen",
+          "eventGroup": "Guerlain Elysium Noir Launch"
         },
         {
           "src": "assets/events/1RO0PkvOquvGlIl43mpj68eRg8dglxAG8.webp",
@@ -34,7 +36,8 @@ window.portfolioContent = {
           "alt": "Two guests standing together at a Guerlain event.",
           "caption": "Guerlain",
           "width": 1333,
-          "height": 2000
+          "height": 2000,
+          "eventGroup": "Guerlain Elysium Noir Launch"
         },
         {
           "src": "assets/events/1DHarE62BDSz0feZfKd8wTsW4b-BWuljh.webp",
@@ -42,7 +45,8 @@ window.portfolioContent = {
           "width": 1333,
           "height": 2000,
           "alt": "Portrait in a copper-coloured outfit at a Guerlain event.",
-          "caption": ""
+          "caption": "",
+          "eventGroup": "Guerlain Elysium Noir Launch"
         },
         {
           "src": "assets/events/1ZwRWcpBBoCSKyOCVjDQ8JE-CCRWorWvg.webp",
@@ -50,7 +54,8 @@ window.portfolioContent = {
           "width": 2000,
           "height": 1333,
           "alt": "Two guests at a Guerlain event.",
-          "caption": ""
+          "caption": "",
+          "eventGroup": "Guerlain Elysium Noir Launch"
         },
         {
           "src": "assets/events/1zGy8BS5TIIMmrDF5qr3ZR66BT97Xukuk.webp",
@@ -58,7 +63,8 @@ window.portfolioContent = {
           "width": 1333,
           "height": 2000,
           "alt": "Leonie Hanne at a Guerlain event.",
-          "caption": ""
+          "caption": "",
+          "eventGroup": "Guerlain Elysium Noir Launch"
         },
         {
           "src": "assets/events/1YOR2FIY7NgUCEzTjm0VEidcOikiOvLp5.webp",
@@ -66,7 +72,8 @@ window.portfolioContent = {
           "width": 1333,
           "height": 2000,
           "alt": "Nadine Leopold at a Guerlain event.",
-          "caption": ""
+          "caption": "",
+          "eventGroup": "Guerlain Elysium Noir Launch"
         },
         {
           "src": "assets/events/1wcVaOsGlcqo5Ib21GhUrAl7VzLqwExtK.webp",
@@ -74,7 +81,8 @@ window.portfolioContent = {
           "alt": "Close-up portrait at a Guerlain event.",
           "caption": "Guerlain",
           "width": 1333,
-          "height": 2000
+          "height": 2000,
+          "eventGroup": "Guerlain Elysium Noir Launch"
         },
         {
           "src": "assets/events/107e4XPPd2rPCfc4NZ7ZtT-sWQvWM2Yim.webp",
@@ -82,7 +90,8 @@ window.portfolioContent = {
           "alt": "Perfume bottles displayed in bright light.",
           "caption": "ROJA Berlin",
           "width": 1336,
-          "height": 2000
+          "height": 2000,
+          "eventGroup": "Guerlain Elysium Noir Launch"
         },
         {
           "src": "assets/events/19ZhZmHhJfMEX_-z4dfyc3w0Gxrc3d8KH.webp",
@@ -90,7 +99,8 @@ window.portfolioContent = {
           "alt": "Guest holding a bottle against a blue backdrop.",
           "caption": "ROJA Berlin",
           "width": 1333,
-          "height": 2000
+          "height": 2000,
+          "eventGroup": "Guerlain Elysium Noir Launch"
         },
         {
           "src": "assets/events/1k1Ed_kHWhd8vbchaI3iSHttLoz1vFitm.webp",
