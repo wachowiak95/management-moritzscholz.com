@@ -199,7 +199,7 @@ window.portfolioContent = {
           "height": 2400,
           "alt": "Event photograph by Moritz Scholz.",
           "caption": "",
-          "eventGroup": "AMOUAGE Launch Dinner"
+          "eventGroup": "AMOUAGE Dinner Hamburg"
         },
         {
           "src": "assets/events/1qwe0Oc9sdJJ3s9dWDUljB_ZafYDfWHMp.webp",
@@ -208,7 +208,7 @@ window.portfolioContent = {
           "height": 2400,
           "alt": "Event photograph by Moritz Scholz.",
           "caption": "",
-          "eventGroup": "AMOUAGE Launch Dinner"
+          "eventGroup": "AMOUAGE Dinner Hamburg"
         },
         {
           "src": "assets/events/1a63ybQhzfCBAw6xK4gCZvq9soo4cdSBd.webp",
@@ -217,7 +217,7 @@ window.portfolioContent = {
           "height": 2400,
           "alt": "Event photograph by Moritz Scholz.",
           "caption": "",
-          "eventGroup": "AMOUAGE Launch Dinner"
+          "eventGroup": "AMOUAGE Dinner Hamburg"
         },
         {
           "src": "assets/events/1q0bCpsQ9Vrw_ScEkhTopJopaCXRcLN2E.webp",
