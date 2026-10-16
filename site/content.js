@@ -1045,14 +1045,15 @@ window.portfolioContent = {
           "instagram": "https://www.instagram.com/p/DehVcVpCBsK/?img_index=9&rpxt=ZjhtanF1bnM1NjBw"
         },
         {
-          "src": "assets/street-style/14h_-RYbmFb8b7H1i3jrHbj0nTgxv9d6G.webp",
-          "thumb": "assets/street-style/14h_-RYbmFb8b7H1i3jrHbj0nTgxv9d6G-thumb.webp",
-          "width": 1334,
-          "height": 2000,
-          "alt": "Street style portrait in a burgundy jacket and blue jeans.",
-          "caption": "",
-          "title": "Bhavitha Mandava Streetstyle",
-          "instagram": "https://www.instagram.com/p/DeHHytdgoau/"
+          "src": "assets/videos/1vc_8PqdEtLYlcc5Puex3s2Jrd-JPcVg8.mp4",
+          "poster": "assets/videos/mirja-cochinelle-poster.webp",
+          "width": 1080,
+          "height": 1920,
+          "duration": 12.066667,
+          "type": "video",
+          "title": "Mirja Klein for Cochinelle",
+          "instagram": "https://www.instagram.com/reel/DRpL4QUDLQJ/?rpxt=amdiczEyOXp2Y2c4",
+          "layoutRow": "photos"
         },
         {
           "src": "assets/videos/16O5uIIMronMqf43Bry3H3FS0PPZpNByx.mp4",
@@ -1096,14 +1097,15 @@ window.portfolioContent = {
           "instagram": "https://www.instagram.com/p/Dd0mtWrigeC/"
         },
         {
-          "src": "assets/videos/1vc_8PqdEtLYlcc5Puex3s2Jrd-JPcVg8.mp4",
-          "poster": "assets/videos/mirja-cochinelle-poster.webp",
-          "width": 1080,
-          "height": 1920,
-          "duration": 12.066667,
-          "type": "video",
-          "title": "Mirja Klein for Cochinelle",
-          "instagram": "https://www.instagram.com/reel/DRpL4QUDLQJ/?rpxt=amdiczEyOXp2Y2c4"
+          "src": "assets/street-style/14h_-RYbmFb8b7H1i3jrHbj0nTgxv9d6G.webp",
+          "thumb": "assets/street-style/14h_-RYbmFb8b7H1i3jrHbj0nTgxv9d6G-thumb.webp",
+          "width": 1334,
+          "height": 2000,
+          "alt": "Street style portrait in a burgundy jacket and blue jeans.",
+          "caption": "",
+          "title": "Bhavitha Mandava Streetstyle",
+          "instagram": "https://www.instagram.com/p/DeHHytdgoau/",
+          "layoutRow": "portraitVideos"
         },
         {
           "src": "assets/videos/1FmXZSZ5SlVItmtMHBT9gDdlZ5xWyuC8D.mp4",
