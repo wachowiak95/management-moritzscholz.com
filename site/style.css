@@ -402,3 +402,5 @@ body[data-page="recent-work"] .recent-video-row .image-tile.landscape { height:a
 @media(max-width:700px) {
  .recent-video-row > .recent-card:has(.image-tile.landscape) { grid-column:span 2; }
 }
+
+.legal-page .legal-progress { font-size:12px; line-height:1.6; margin:8px 0 24px; opacity:.7; }
