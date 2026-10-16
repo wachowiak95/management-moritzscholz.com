@@ -432,3 +432,8 @@ body[data-page="events"] .event-group .image-tile {
 
 /* Six opening projects keep their full portrait framing, including Max Mara signage. */
 .recent-photo-row { --recent-height:calc((100cqw - 60px)/6*1.5); }
+
+/* Fit three portraits and one landscape into a row with equal heights. */
+@media(min-width:701px) {
+ .recent-video-row { --recent-height:calc((100cqw - 36px)/3.5); }
+}
