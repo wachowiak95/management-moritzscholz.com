@@ -85,14 +85,6 @@ window.portfolioContent = {
           "height": 2000
         },
         {
-          "src": "assets/events/10EqhHeHI-qYEIFmJszqRpVwQDdUcKSx-.webp",
-          "thumb": "assets/events/10EqhHeHI-qYEIFmJszqRpVwQDdUcKSx--thumb.webp",
-          "alt": "Guest holding a perfume bottle.",
-          "caption": "Guerlain",
-          "width": 1333,
-          "height": 2000
-        },
-        {
           "src": "assets/events/107e4XPPd2rPCfc4NZ7ZtT-sWQvWM2Yim.webp",
           "thumb": "assets/events/107e4XPPd2rPCfc4NZ7ZtT-sWQvWM2Yim-thumb.webp",
           "alt": "Perfume bottles displayed in bright light.",
