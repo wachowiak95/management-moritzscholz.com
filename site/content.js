@@ -125,14 +125,6 @@ window.portfolioContent = {
           "caption": ""
         },
         {
-          "src": "assets/events/1dGrp6cQ1XYhe14nnLgUE-yDD4RX5A5sA.webp",
-          "thumb": "assets/events/1dGrp6cQ1XYhe14nnLgUE-yDD4RX5A5sA-thumb.webp",
-          "alt": "Guest in a dark outfit beside a doorway.",
-          "caption": "Wempe x Antwerpen",
-          "width": 1336,
-          "height": 2000
-        },
-        {
           "src": "assets/events/1jexTKNj91ViMoptyMF18iLZYPwVeVYaj.webp",
           "thumb": "assets/events/1jexTKNj91ViMoptyMF18iLZYPwVeVYaj-thumb.webp",
           "width": 1336,
