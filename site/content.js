@@ -163,6 +163,126 @@ window.portfolioContent = {
           "caption": "",
           "width": 1333,
           "height": 2000
+        },
+        {
+          "src": "assets/events/1Vsqv2hTzHjgeQGZJKSpOPazAj8ggRo7G.webp",
+          "thumb": "assets/events/1Vsqv2hTzHjgeQGZJKSpOPazAj8ggRo7G-thumb.webp",
+          "width": 1603,
+          "height": 2400,
+          "alt": "Event photograph by Moritz Scholz.",
+          "caption": ""
+        },
+        {
+          "src": "assets/events/1hSMJosG3ZzfVSG54BTJBerC1ige81XTQ.webp",
+          "thumb": "assets/events/1hSMJosG3ZzfVSG54BTJBerC1ige81XTQ-thumb.webp",
+          "width": 1603,
+          "height": 2400,
+          "alt": "Event photograph by Moritz Scholz.",
+          "caption": ""
+        },
+        {
+          "src": "assets/events/18rq3eitO0Nn4_PVT2JuJmlJ9YDcYTNKz.webp",
+          "thumb": "assets/events/18rq3eitO0Nn4_PVT2JuJmlJ9YDcYTNKz-thumb.webp",
+          "width": 1603,
+          "height": 2400,
+          "alt": "Event photograph by Moritz Scholz.",
+          "caption": ""
+        },
+        {
+          "src": "assets/events/18kehM_7O-pZjXJUKCNGWu1dNmSSu_sC8.webp",
+          "thumb": "assets/events/18kehM_7O-pZjXJUKCNGWu1dNmSSu_sC8-thumb.webp",
+          "width": 1725,
+          "height": 2400,
+          "alt": "Event photograph by Moritz Scholz.",
+          "caption": ""
+        },
+        {
+          "src": "assets/events/1qwe0Oc9sdJJ3s9dWDUljB_ZafYDfWHMp.webp",
+          "thumb": "assets/events/1qwe0Oc9sdJJ3s9dWDUljB_ZafYDfWHMp-thumb.webp",
+          "width": 1600,
+          "height": 2400,
+          "alt": "Event photograph by Moritz Scholz.",
+          "caption": ""
+        },
+        {
+          "src": "assets/events/1q0bCpsQ9Vrw_ScEkhTopJopaCXRcLN2E.webp",
+          "thumb": "assets/events/1q0bCpsQ9Vrw_ScEkhTopJopaCXRcLN2E-thumb.webp",
+          "width": 1600,
+          "height": 2400,
+          "alt": "Event photograph by Moritz Scholz.",
+          "caption": ""
+        },
+        {
+          "src": "assets/events/1c2AtHX33u1b74v-8qebhKUW-3Pz-arw4.webp",
+          "thumb": "assets/events/1c2AtHX33u1b74v-8qebhKUW-3Pz-arw4-thumb.webp",
+          "width": 1600,
+          "height": 2400,
+          "alt": "Event photograph by Moritz Scholz.",
+          "caption": ""
+        },
+        {
+          "src": "assets/events/1OLvCpuDp1GoyK7Y1yd3Of9CeZDQ53CpC.webp",
+          "thumb": "assets/events/1OLvCpuDp1GoyK7Y1yd3Of9CeZDQ53CpC-thumb.webp",
+          "width": 1600,
+          "height": 2400,
+          "alt": "Event photograph by Moritz Scholz.",
+          "caption": ""
+        },
+        {
+          "src": "assets/events/1a63ybQhzfCBAw6xK4gCZvq9soo4cdSBd.webp",
+          "thumb": "assets/events/1a63ybQhzfCBAw6xK4gCZvq9soo4cdSBd-thumb.webp",
+          "width": 1603,
+          "height": 2400,
+          "alt": "Event photograph by Moritz Scholz.",
+          "caption": ""
+        },
+        {
+          "src": "assets/events/1zCYzmkw0pYOzaunX1IqnKY54EMqiyO6T.webp",
+          "thumb": "assets/events/1zCYzmkw0pYOzaunX1IqnKY54EMqiyO6T-thumb.webp",
+          "width": 1603,
+          "height": 2400,
+          "alt": "Event photograph by Moritz Scholz.",
+          "caption": ""
+        },
+        {
+          "src": "assets/events/1hnRhqi1lFCefBJDg-QOTr1sKAKVtB7z6.webp",
+          "thumb": "assets/events/1hnRhqi1lFCefBJDg-QOTr1sKAKVtB7z6-thumb.webp",
+          "width": 1603,
+          "height": 2400,
+          "alt": "Event photograph by Moritz Scholz.",
+          "caption": ""
+        },
+        {
+          "src": "assets/events/1gUWI2YQZgnrJ67APxt7OsNH-EqLP5CcK.webp",
+          "thumb": "assets/events/1gUWI2YQZgnrJ67APxt7OsNH-EqLP5CcK-thumb.webp",
+          "width": 1603,
+          "height": 2400,
+          "alt": "Event photograph by Moritz Scholz.",
+          "caption": ""
+        },
+        {
+          "src": "assets/events/1x_gmmuta7rCSYaVQdd2JOiEDtYYtCbzV.webp",
+          "thumb": "assets/events/1x_gmmuta7rCSYaVQdd2JOiEDtYYtCbzV-thumb.webp",
+          "width": 1603,
+          "height": 2400,
+          "alt": "Event photograph by Moritz Scholz.",
+          "caption": ""
+        },
+        {
+          "src": "assets/events/1uq756232njiDO5JwQq3NmIVawqb1cdwy.webp",
+          "thumb": "assets/events/1uq756232njiDO5JwQq3NmIVawqb1cdwy-thumb.webp",
+          "width": 1603,
+          "height": 2400,
+          "alt": "Event photograph by Moritz Scholz.",
+          "caption": ""
+        },
+        {
+          "src": "assets/events/1PQkF1oy02NffJtk47gFAkRsj2klixPri.webp",
+          "thumb": "assets/events/1PQkF1oy02NffJtk47gFAkRsj2klixPri-thumb.webp",
+          "width": 1603,
+          "height": 2400,
+          "alt": "Event photograph by Moritz Scholz.",
+          "caption": ""
         }
       ],
       "coverPosition": "50% 44%",
