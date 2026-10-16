@@ -18,7 +18,7 @@ window.portfolioContent = {
           "width": 1333,
           "height": 2000,
           "series": "events-charleen",
-          "eventGroup": "Guerlain l'heure bleue Event"
+          "eventGroup": "Guerlain l'heure bleue Event Berlin"
         },
         {
           "src": "assets/events/1H5ZUSTwjc4QzZ1UTDpPQN26UowBKrBh7.webp",
@@ -28,7 +28,7 @@ window.portfolioContent = {
           "alt": "Charleen Weiss at a Guerlain event.",
           "caption": "",
           "series": "events-charleen",
-          "eventGroup": "Guerlain l'heure bleue Event"
+          "eventGroup": "Guerlain l'heure bleue Event Berlin"
         },
         {
           "src": "assets/events/1RO0PkvOquvGlIl43mpj68eRg8dglxAG8.webp",
@@ -37,7 +37,7 @@ window.portfolioContent = {
           "caption": "Guerlain",
           "width": 1333,
           "height": 2000,
-          "eventGroup": "Guerlain l'heure bleue Event"
+          "eventGroup": "Guerlain l'heure bleue Event Berlin"
         },
         {
           "src": "assets/events/1DHarE62BDSz0feZfKd8wTsW4b-BWuljh.webp",
@@ -46,7 +46,7 @@ window.portfolioContent = {
           "height": 2000,
           "alt": "Portrait in a copper-coloured outfit at a Guerlain event.",
           "caption": "",
-          "eventGroup": "Guerlain l'heure bleue Event"
+          "eventGroup": "Guerlain l'heure bleue Event Berlin"
         },
         {
           "src": "assets/events/1ZwRWcpBBoCSKyOCVjDQ8JE-CCRWorWvg.webp",
@@ -55,7 +55,7 @@ window.portfolioContent = {
           "height": 1333,
           "alt": "Two guests at a Guerlain event.",
           "caption": "",
-          "eventGroup": "Guerlain l'heure bleue Event"
+          "eventGroup": "Guerlain l'heure bleue Event Berlin"
         },
         {
           "src": "assets/events/1zGy8BS5TIIMmrDF5qr3ZR66BT97Xukuk.webp",
@@ -64,7 +64,7 @@ window.portfolioContent = {
           "height": 2000,
           "alt": "Leonie Hanne at a Guerlain event.",
           "caption": "",
-          "eventGroup": "Guerlain l'heure bleue Event"
+          "eventGroup": "Guerlain l'heure bleue Event Berlin"
         },
         {
           "src": "assets/events/1YOR2FIY7NgUCEzTjm0VEidcOikiOvLp5.webp",
@@ -73,7 +73,7 @@ window.portfolioContent = {
           "height": 2000,
           "alt": "Nadine Leopold at a Guerlain event.",
           "caption": "",
-          "eventGroup": "Guerlain l'heure bleue Event"
+          "eventGroup": "Guerlain l'heure bleue Event Berlin"
         },
         {
           "src": "assets/events/1wcVaOsGlcqo5Ib21GhUrAl7VzLqwExtK.webp",
@@ -82,7 +82,7 @@ window.portfolioContent = {
           "caption": "Guerlain",
           "width": 1333,
           "height": 2000,
-          "eventGroup": "Guerlain l'heure bleue Event"
+          "eventGroup": "Guerlain l'heure bleue Event Berlin"
         },
         {
           "src": "assets/events/107e4XPPd2rPCfc4NZ7ZtT-sWQvWM2Yim.webp",
@@ -91,7 +91,7 @@ window.portfolioContent = {
           "caption": "ROJA Berlin",
           "width": 1336,
           "height": 2000,
-          "eventGroup": "Guerlain l'heure bleue Event"
+          "eventGroup": "Guerlain l'heure bleue Event Berlin"
         },
         {
           "src": "assets/events/19ZhZmHhJfMEX_-z4dfyc3w0Gxrc3d8KH.webp",
@@ -100,7 +100,7 @@ window.portfolioContent = {
           "caption": "ROJA Berlin",
           "width": 1333,
           "height": 2000,
-          "eventGroup": "Guerlain l'heure bleue Event"
+          "eventGroup": "Guerlain l'heure bleue Event Berlin"
         },
         {
           "src": "assets/events/1k1Ed_kHWhd8vbchaI3iSHttLoz1vFitm.webp",
