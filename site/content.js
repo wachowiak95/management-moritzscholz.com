@@ -40,15 +40,6 @@ window.portfolioContent = {
           "eventGroup": "Guerlain l'heure bleue Event Düsseldorf"
         },
         {
-          "src": "assets/events/1DHarE62BDSz0feZfKd8wTsW4b-BWuljh.webp",
-          "thumb": "assets/events/1DHarE62BDSz0feZfKd8wTsW4b-BWuljh-thumb.webp",
-          "width": 1333,
-          "height": 2000,
-          "alt": "Portrait in a copper-coloured outfit at a Guerlain event.",
-          "caption": "",
-          "eventGroup": "Guerlain l'heure bleue Event Düsseldorf"
-        },
-        {
           "src": "assets/events/1ZwRWcpBBoCSKyOCVjDQ8JE-CCRWorWvg.webp",
           "thumb": "assets/events/1ZwRWcpBBoCSKyOCVjDQ8JE-CCRWorWvg-thumb.webp",
           "width": 2000,
