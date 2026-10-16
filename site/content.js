@@ -252,7 +252,8 @@ window.portfolioContent = {
           "width": 1603,
           "height": 2400,
           "alt": "Event photograph by Moritz Scholz.",
-          "caption": ""
+          "caption": "",
+          "eventGroup": "by Aylin König x Vitra. Dinner"
         },
         {
           "src": "assets/events/1hnRhqi1lFCefBJDg-QOTr1sKAKVtB7z6.webp",
@@ -260,7 +261,8 @@ window.portfolioContent = {
           "width": 1603,
           "height": 2400,
           "alt": "Event photograph by Moritz Scholz.",
-          "caption": ""
+          "caption": "",
+          "eventGroup": "by Aylin König x Vitra. Dinner"
         },
         {
           "src": "assets/events/1gUWI2YQZgnrJ67APxt7OsNH-EqLP5CcK.webp",
@@ -268,7 +270,8 @@ window.portfolioContent = {
           "width": 1603,
           "height": 2400,
           "alt": "Event photograph by Moritz Scholz.",
-          "caption": ""
+          "caption": "",
+          "eventGroup": "by Aylin König x Vitra. Dinner"
         },
         {
           "src": "assets/events/1x_gmmuta7rCSYaVQdd2JOiEDtYYtCbzV.webp",
@@ -276,7 +279,8 @@ window.portfolioContent = {
           "width": 1603,
           "height": 2400,
           "alt": "Event photograph by Moritz Scholz.",
-          "caption": ""
+          "caption": "",
+          "eventGroup": "by Aylin König x Vitra. Dinner"
         },
         {
           "src": "assets/events/1uq756232njiDO5JwQq3NmIVawqb1cdwy.webp",
@@ -284,7 +288,8 @@ window.portfolioContent = {
           "width": 1603,
           "height": 2400,
           "alt": "Event photograph by Moritz Scholz.",
-          "caption": ""
+          "caption": "",
+          "eventGroup": "by Aylin König x Vitra. Dinner"
         },
         {
           "src": "assets/events/1PQkF1oy02NffJtk47gFAkRsj2klixPri.webp",
@@ -292,7 +297,8 @@ window.portfolioContent = {
           "width": 1603,
           "height": 2400,
           "alt": "Event photograph by Moritz Scholz.",
-          "caption": ""
+          "caption": "",
+          "eventGroup": "by Aylin König x Vitra. Dinner"
         }
       ],
       "coverPosition": "50% 44%",
