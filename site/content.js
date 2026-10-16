@@ -157,8 +157,8 @@ window.portfolioContent = {
           "eventGroup": "CeraVe x NBA Event Berlin"
         },
         {
-          "src": "assets/events/1hSMJosG3ZzfVSG54BTJBerC1ige81XTQ.webp",
-          "thumb": "assets/events/1hSMJosG3ZzfVSG54BTJBerC1ige81XTQ-thumb.webp",
+          "src": "assets/events/18rq3eitO0Nn4_PVT2JuJmlJ9YDcYTNKz.webp",
+          "thumb": "assets/events/18rq3eitO0Nn4_PVT2JuJmlJ9YDcYTNKz-thumb.webp",
           "width": 1603,
           "height": 2400,
           "alt": "Event photograph by Moritz Scholz.",
@@ -166,8 +166,8 @@ window.portfolioContent = {
           "eventGroup": "CeraVe x NBA Event Berlin"
         },
         {
-          "src": "assets/events/18rq3eitO0Nn4_PVT2JuJmlJ9YDcYTNKz.webp",
-          "thumb": "assets/events/18rq3eitO0Nn4_PVT2JuJmlJ9YDcYTNKz-thumb.webp",
+          "src": "assets/events/1hSMJosG3ZzfVSG54BTJBerC1ige81XTQ.webp",
+          "thumb": "assets/events/1hSMJosG3ZzfVSG54BTJBerC1ige81XTQ-thumb.webp",
           "width": 1603,
           "height": 2400,
           "alt": "Event photograph by Moritz Scholz.",
