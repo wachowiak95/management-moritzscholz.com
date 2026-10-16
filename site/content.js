@@ -308,6 +308,15 @@ window.portfolioContent = {
           "alt": "Guests seated together at the ROJA Elysium event in Berlin.",
           "caption": "ROJA Berlin",
           "eventGroup": "ROJA Elysium Event Berlin"
+        },
+        {
+          "src": "assets/events/1hcVNl9eFgofxNnFMi5h7R__d9d2ANI8i.webp",
+          "thumb": "assets/events/1hcVNl9eFgofxNnFMi5h7R__d9d2ANI8i-thumb.webp",
+          "width": 1600,
+          "height": 2400,
+          "alt": "Three guests together at the ROJA Elysium dinner in Berlin.",
+          "caption": "ROJA Berlin",
+          "eventGroup": "ROJA Elysium Event Berlin"
         }
       ],
       "coverPosition": "50% 44%",
