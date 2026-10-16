@@ -100,7 +100,7 @@ if(page==='home'){
    while(i+1<cat.media.length&&cat.media[i+1].series===photo.series){i++;tiles+=photoTile(cat.media[i],i);}
    photoBlocks.push(`<div class="photo-series" aria-label="Photo series">${tiles}</div>`);
   }else if(cat.slug==='recent-work'){
-   photoBlocks.push(`<figure class="recent-card">${photoTile(photo,i)}<figcaption><span>${escape(photo.title)}</span><a class="video-instagram" href="${escape(photo.instagram)}" target="_blank" rel="noopener noreferrer">VIEW ON INSTAGRAM ${linkArrow}</a></figcaption></figure>`);
+   photoBlocks.push(`<figure class="recent-card">${photoTile(photo,i)}<figcaption><span>${escape(photo.title)}</span>${photo.instagram?`<a class="video-instagram" href="${escape(photo.instagram)}" target="_blank" rel="noopener noreferrer">VIEW ON INSTAGRAM ${linkArrow}</a>`: ''}</figcaption></figure>`);
   }else photoBlocks.push(photoTile(photo,i));
  }
  if(cat.slug==='recent-work'){

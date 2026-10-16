@@ -921,6 +921,16 @@ window.portfolioContent = {
           "instagram": "https://www.instagram.com/p/DehVcVpCBsK/?img_index=9&rpxt=ZjhtanF1bnM1NjBw"
         },
         {
+          "src": "assets/recent-work/cleopatra-oettingen-spielberg-prada.webp",
+          "thumb": "assets/recent-work/cleopatra-oettingen-spielberg-prada-thumb.webp",
+          "width": 1600,
+          "height": 2400,
+          "title": "Cleopatra zu Oettingen-Spielberg for PRADA",
+          "alt": "Cleopatra zu Oettingen-Spielberg for PRADA",
+          "caption": "",
+          "instagram": ""
+        },
+        {
           "src": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd.webp",
           "thumb": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd-thumb.webp",
           "width": 1600,
