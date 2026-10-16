@@ -470,14 +470,6 @@
     "caveat": "Original logo geometry preserved; rendered in portfolio beige."
   },
   {
-    "slug": "viu",
-    "name": "VIU",
-    "page": "https://www.shopviu.com",
-    "asset": "https://www.shopviu.com/viu.svg",
-    "monochrome": "assets/logos/viu.png",
-    "caveat": "Original logo geometry preserved; rendered in portfolio beige."
-  },
-  {
     "slug": "blackpalms",
     "name": "blackpalms",
     "page": "https://black-palms.com",
