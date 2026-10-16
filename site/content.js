@@ -458,15 +458,6 @@ window.portfolioContent = {
           "series": "people-new-0"
         },
         {
-          "src": "assets/people/1QRRbKGwDvuUH_B8_Ri5q0vfLZBny3o-f.webp",
-          "thumb": "assets/people/1QRRbKGwDvuUH_B8_Ri5q0vfLZBny3o-f-thumb.webp",
-          "width": 1336,
-          "height": 2000,
-          "alt": "Seated portrait in a black sleeveless dress.",
-          "caption": "",
-          "series": "people-new-0"
-        },
-        {
           "src": "assets/people/12qDyuMiPcpp5fv7V1ldaAQKo1FatLxML.webp",
           "thumb": "assets/people/12qDyuMiPcpp5fv7V1ldaAQKo1FatLxML-thumb.webp",
           "width": 1336,
