@@ -458,6 +458,15 @@ window.portfolioContent = {
           "series": "people-new-0"
         },
         {
+          "src": "assets/people/1e2xFTcwncDILSaVJKfJMMMdJwvyIFmNg.webp",
+          "thumb": "assets/people/1e2xFTcwncDILSaVJKfJMMMdJwvyIFmNg-thumb.webp",
+          "width": 480,
+          "height": 640,
+          "alt": "Portrait in a dark green outfit beside a stone wall.",
+          "caption": "",
+          "series": "people-new-0"
+        },
+        {
           "src": "assets/people/12qDyuMiPcpp5fv7V1ldaAQKo1FatLxML.webp",
           "thumb": "assets/people/12qDyuMiPcpp5fv7V1ldaAQKo1FatLxML-thumb.webp",
           "width": 1336,
@@ -531,14 +540,6 @@ window.portfolioContent = {
           "width": 1333,
           "height": 2000,
           "alt": "Portrait in a black dress at a Schiaparelli event.",
-          "caption": ""
-        },
-        {
-          "src": "assets/people/1e2xFTcwncDILSaVJKfJMMMdJwvyIFmNg.webp",
-          "thumb": "assets/people/1e2xFTcwncDILSaVJKfJMMMdJwvyIFmNg-thumb.webp",
-          "width": 480,
-          "height": 640,
-          "alt": "Portrait in a dark green outfit beside a stone wall.",
           "caption": ""
         }
       ],
