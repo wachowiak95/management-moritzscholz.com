@@ -460,5 +460,45 @@
       539,
       106
     ]
+  },
+  {
+    "slug": "vitra",
+    "name": "Vitra",
+    "page": "https://www.vitra.com",
+    "asset": "inline SVG logo",
+    "monochrome": "assets/logos/vitra.png",
+    "caveat": "Original logo geometry preserved; rendered in portfolio beige."
+  },
+  {
+    "slug": "viu",
+    "name": "VIU",
+    "page": "https://www.shopviu.com",
+    "asset": "https://www.shopviu.com/viu.svg",
+    "monochrome": "assets/logos/viu.png",
+    "caveat": "Original logo geometry preserved; rendered in portfolio beige."
+  },
+  {
+    "slug": "blackpalms",
+    "name": "blackpalms",
+    "page": "https://black-palms.com",
+    "asset": "https://black-palms.com/wp-content/uploads/2025/01/bp_Logo_Web_2.png",
+    "monochrome": "assets/logos/blackpalms.png",
+    "caveat": "Original logo geometry preserved; rendered in portfolio beige."
+  },
+  {
+    "slug": "aboutyou",
+    "name": "ABOUT YOU",
+    "page": "https://www.aboutyou.de",
+    "asset": "https://a.storyblok.com/f/290647847942542/4476/4c78a30332/aboutyou_logo.svg",
+    "monochrome": "assets/logos/aboutyou.png",
+    "caveat": "Original logo geometry preserved; rendered in portfolio beige."
+  },
+  {
+    "slug": "1und1",
+    "name": "1&1",
+    "page": "https://www.1und1.de",
+    "asset": "inline SVG logo",
+    "monochrome": "assets/logos/1und1.png",
+    "caveat": "Original logo geometry preserved; rendered in portfolio beige."
   }
 ]
