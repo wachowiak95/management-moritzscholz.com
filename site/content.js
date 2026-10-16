@@ -1015,46 +1015,6 @@ window.portfolioContent = {
       "title": "Recent Work",
       "media": [
         {
-          "src": "assets/people/1t4topgdL67OF31njdGAT6ndj_CcQmnqc.webp",
-          "thumb": "assets/people/1t4topgdL67OF31njdGAT6ndj_CcQmnqc-thumb.webp",
-          "width": 1600,
-          "height": 2400,
-          "alt": "Three women walking together on a city street.",
-          "caption": "",
-          "title": "Farina & Cleo & Marlies for Tods",
-          "instagram": "https://www.instagram.com/p/Dd0mayViMTF/"
-        },
-        {
-          "src": "assets/people/1C16VuALGWGijZ9sEYbBgyDeLEdOa9J29.webp",
-          "thumb": "assets/people/1C16VuALGWGijZ9sEYbBgyDeLEdOa9J29-thumb.webp",
-          "width": 480,
-          "height": 640,
-          "alt": "Seated portrait in a green and black outfit.",
-          "caption": "",
-          "title": "Olivia van Lil for Essentiel Antwerp",
-          "instagram": "https://www.instagram.com/p/DeHluxLCH2W/"
-        },
-        {
-          "src": "assets/street-style/14h_-RYbmFb8b7H1i3jrHbj0nTgxv9d6G.webp",
-          "thumb": "assets/street-style/14h_-RYbmFb8b7H1i3jrHbj0nTgxv9d6G-thumb.webp",
-          "width": 1334,
-          "height": 2000,
-          "alt": "Street style portrait in a burgundy jacket and blue jeans.",
-          "caption": "",
-          "title": "Bhavitha Mandava Streetstyle",
-          "instagram": "https://www.instagram.com/p/DeHHytdgoau/"
-        },
-        {
-          "src": "assets/videos/film-1.mp4?v=silent-1202dfa",
-          "poster": "assets/videos/film-1.webp",
-          "title": "Demi Yenekan for MM6 Maison Margiela",
-          "duration": 7.24,
-          "width": 1080,
-          "height": 608,
-          "instagram": "https://www.instagram.com/p/Ddows2eCPog/",
-          "type": "video"
-        },
-        {
           "src": "assets/recent-work/cherifa-mfw.webp",
           "thumb": "assets/recent-work/cherifa-mfw-thumb.webp",
           "width": 1600,
@@ -1063,6 +1023,16 @@ window.portfolioContent = {
           "alt": "Cherifa seated at Milan Fashion Week in a black pinstriped outfit and sunglasses.",
           "caption": "",
           "instagram": "https://www.instagram.com/p/Ddt7WaqABVI/?img_index=11&mdxt=ZjlvN3NoOGoxMWd0"
+        },
+        {
+          "src": "assets/people/1t4topgdL67OF31njdGAT6ndj_CcQmnqc.webp",
+          "thumb": "assets/people/1t4topgdL67OF31njdGAT6ndj_CcQmnqc-thumb.webp",
+          "width": 1600,
+          "height": 2400,
+          "alt": "Three women walking together on a city street.",
+          "caption": "",
+          "title": "Farina & Cleo & Marlies for Tods",
+          "instagram": "https://www.instagram.com/p/Dd0mayViMTF/"
         },
         {
           "src": "assets/recent-work/oznur-sinani-max-mara-munich.webp",
@@ -1075,6 +1045,16 @@ window.portfolioContent = {
           "instagram": "https://www.instagram.com/p/DehVcVpCBsK/?img_index=9&rpxt=ZjhtanF1bnM1NjBw"
         },
         {
+          "src": "assets/street-style/14h_-RYbmFb8b7H1i3jrHbj0nTgxv9d6G.webp",
+          "thumb": "assets/street-style/14h_-RYbmFb8b7H1i3jrHbj0nTgxv9d6G-thumb.webp",
+          "width": 1334,
+          "height": 2000,
+          "alt": "Street style portrait in a burgundy jacket and blue jeans.",
+          "caption": "",
+          "title": "Bhavitha Mandava Streetstyle",
+          "instagram": "https://www.instagram.com/p/DeHHytdgoau/"
+        },
+        {
           "src": "assets/videos/16O5uIIMronMqf43Bry3H3FS0PPZpNByx.mp4",
           "poster": "assets/videos/16O5uIIMronMqf43Bry3H3FS0PPZpNByx.webp",
           "width": 1080,
@@ -1084,6 +1064,26 @@ window.portfolioContent = {
           "title": "Sophia Geiss for Breuninger & Drykorn",
           "instagram": "https://www.instagram.com/reel/DeewRyFNrqT/?xtok=YXc1MDliMTk5N212",
           "layoutRow": "photos"
+        },
+        {
+          "src": "assets/people/1C16VuALGWGijZ9sEYbBgyDeLEdOa9J29.webp",
+          "thumb": "assets/people/1C16VuALGWGijZ9sEYbBgyDeLEdOa9J29-thumb.webp",
+          "width": 480,
+          "height": 640,
+          "alt": "Seated portrait in a green and black outfit.",
+          "caption": "",
+          "title": "Olivia van Lil for Essentiel Antwerp",
+          "instagram": "https://www.instagram.com/p/DeHluxLCH2W/"
+        },
+        {
+          "src": "assets/videos/film-1.mp4?v=silent-1202dfa",
+          "poster": "assets/videos/film-1.webp",
+          "title": "Demi Yenekan for MM6 Maison Margiela",
+          "duration": 7.24,
+          "width": 1080,
+          "height": 608,
+          "instagram": "https://www.instagram.com/p/Ddows2eCPog/",
+          "type": "video"
         },
         {
           "src": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd.webp",

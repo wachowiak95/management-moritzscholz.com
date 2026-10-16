@@ -1,43 +1,19 @@
 [
   {
-    "bild": "01",
-    "titel": "Farina & Cleo & Marlies for Tods",
-    "beschreibung": "",
-    "typ": "foto",
-    "link": "https://www.instagram.com/p/Dd0mayViMTF/",
-    "src": "assets/people/1t4topgdL67OF31njdGAT6ndj_CcQmnqc.webp"
-  },
-  {
-    "bild": "02",
-    "titel": "Olivia van Lil for Essentiel Antwerp",
-    "beschreibung": "",
-    "typ": "foto",
-    "link": "https://www.instagram.com/p/DeHluxLCH2W/",
-    "src": "assets/people/1C16VuALGWGijZ9sEYbBgyDeLEdOa9J29.webp"
-  },
-  {
-    "bild": "03",
-    "titel": "Bhavitha Mandava Streetstyle",
-    "beschreibung": "",
-    "typ": "foto",
-    "link": "https://www.instagram.com/p/DeHHytdgoau/",
-    "src": "assets/street-style/14h_-RYbmFb8b7H1i3jrHbj0nTgxv9d6G.webp"
-  },
-  {
-    "bild": "04",
-    "titel": "Demi Yenekan for MM6 Maison Margiela",
-    "beschreibung": "",
-    "typ": "video",
-    "link": "https://www.instagram.com/p/Ddows2eCPog/",
-    "src": "assets/videos/film-1.mp4?v=silent-1202dfa"
-  },
-  {
     "bild": "06",
     "titel": "Cherifa Akili for Sportmax",
     "beschreibung": "",
     "typ": "foto",
     "link": "https://www.instagram.com/p/Ddt7WaqABVI/?img_index=11&mdxt=ZjlvN3NoOGoxMWd0",
     "src": "assets/recent-work/cherifa-mfw.webp"
+  },
+  {
+    "bild": "01",
+    "titel": "Farina & Cleo & Marlies for Tods",
+    "beschreibung": "",
+    "typ": "foto",
+    "link": "https://www.instagram.com/p/Dd0mayViMTF/",
+    "src": "assets/people/1t4topgdL67OF31njdGAT6ndj_CcQmnqc.webp"
   },
   {
     "bild": "11",
@@ -48,12 +24,36 @@
     "src": "assets/recent-work/oznur-sinani-max-mara-munich.webp"
   },
   {
+    "bild": "03",
+    "titel": "Bhavitha Mandava Streetstyle",
+    "beschreibung": "",
+    "typ": "foto",
+    "link": "https://www.instagram.com/p/DeHHytdgoau/",
+    "src": "assets/street-style/14h_-RYbmFb8b7H1i3jrHbj0nTgxv9d6G.webp"
+  },
+  {
     "bild": "09",
     "titel": "Sophia Geiss for Breuninger & Drykorn",
     "beschreibung": "",
     "typ": "video",
     "link": "https://www.instagram.com/reel/DeewRyFNrqT/?xtok=YXc1MDliMTk5N212",
     "src": "assets/videos/16O5uIIMronMqf43Bry3H3FS0PPZpNByx.mp4"
+  },
+  {
+    "bild": "02",
+    "titel": "Olivia van Lil for Essentiel Antwerp",
+    "beschreibung": "",
+    "typ": "foto",
+    "link": "https://www.instagram.com/p/DeHluxLCH2W/",
+    "src": "assets/people/1C16VuALGWGijZ9sEYbBgyDeLEdOa9J29.webp"
+  },
+  {
+    "bild": "04",
+    "titel": "Demi Yenekan for MM6 Maison Margiela",
+    "beschreibung": "",
+    "typ": "video",
+    "link": "https://www.instagram.com/p/Ddows2eCPog/",
+    "src": "assets/videos/film-1.mp4?v=silent-1202dfa"
   },
   {
     "bild": "05",
