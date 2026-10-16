@@ -207,7 +207,7 @@ window.portfolioContent = {
         },
         {
           "src": "assets/videos/1FmXZSZ5SlVItmtMHBT9gDdlZ5xWyuC8D.mp4",
-          "poster": "assets/videos/1FmXZSZ5SlVItmtMHBT9gDdlZ5xWyuC8D.webp",
+          "poster": "assets/videos/sophia-uniqlo-poster.webp",
           "width": 1080,
           "height": 1920,
           "duration": 14.366667,
@@ -956,7 +956,7 @@ window.portfolioContent = {
         },
         {
           "src": "assets/videos/1FmXZSZ5SlVItmtMHBT9gDdlZ5xWyuC8D.mp4",
-          "poster": "assets/videos/1FmXZSZ5SlVItmtMHBT9gDdlZ5xWyuC8D.webp",
+          "poster": "assets/videos/sophia-uniqlo-poster.webp",
           "width": 1080,
           "height": 1920,
           "duration": 14.366667,
