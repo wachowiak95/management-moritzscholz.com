@@ -238,7 +238,8 @@ window.portfolioContent = {
           "width": 1600,
           "height": 2400,
           "alt": "Event photograph by Moritz Scholz.",
-          "caption": ""
+          "caption": "",
+          "eventGroup": "Max Mara Store Opening Event Munich"
         },
         {
           "src": "assets/events/1c2AtHX33u1b74v-8qebhKUW-3Pz-arw4.webp",
@@ -246,7 +247,8 @@ window.portfolioContent = {
           "width": 1600,
           "height": 2400,
           "alt": "Event photograph by Moritz Scholz.",
-          "caption": ""
+          "caption": "",
+          "eventGroup": "Max Mara Store Opening Event Munich"
         },
         {
           "src": "assets/events/1OLvCpuDp1GoyK7Y1yd3Of9CeZDQ53CpC.webp",
@@ -254,7 +256,8 @@ window.portfolioContent = {
           "width": 1600,
           "height": 2400,
           "alt": "Event photograph by Moritz Scholz.",
-          "caption": ""
+          "caption": "",
+          "eventGroup": "Max Mara Store Opening Event Munich"
         },
         {
           "src": "assets/events/1zCYzmkw0pYOzaunX1IqnKY54EMqiyO6T.webp",
