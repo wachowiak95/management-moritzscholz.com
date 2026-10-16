@@ -20,9 +20,47 @@ const social=()=>`<footer class="socials">${[['instagram','Instagram',c.instagra
 const brandPages=['home','work','people','street-style','events','videography','recent-work'];
 const brands=[{"name": "Peek & Cloppenburg Düsseldorf", "src": "assets/logos/peek-cloppenburg.png", "key": "peek-cloppenburg"}, {"name": "Wempe", "src": "assets/logos/wempe.png", "key": "wempe"}, {"name": "Tommy Hilfiger", "src": "assets/logos/tommy.png", "key": "tommy"}, {"name": "ROJA London", "src": "assets/logos/roja.png", "key": "roja"}, {"name": "NARS", "src": "assets/logos/nars.png", "key": "nars"}, {"name": "CeraVe", "src": "assets/logos/cerave.png", "key": "cerave"}, {"name": "La Roche-Posay", "src": "assets/logos/laroche.png", "key": "laroche"}, {"name": "L'Oréal Paris", "src": "assets/logos/loreal.png", "key": "loreal"}, {"name": "Karl Lagerfeld", "src": "assets/logos/karl.png", "key": "karl"}, {"name": "Canon", "src": "assets/logos/canon.png", "key": "canon"}, {"name": "EX NIHILO Paris", "src": "assets/logos/exnihilo.png", "key": "exnihilo"}, {"name": "Amouage", "src": "assets/logos/amouage.png", "key": "amouage"}, {"name": "Marc Cain", "src": "assets/logos/marccain.png", "key": "marccain"}, {"name": "by Aylin Koenig", "src": "assets/logos/aylin.png", "key": "aylin"}, {"name": "Kapten & Son", "src": "assets/logos/kapten.png", "key": "kapten"}, {"name": "HEY MARLY", "src": "assets/logos/heymarly.png", "key": "heymarly"}, {"name": "Guerlain", "src": "assets/logos/guerlain.png", "key": "guerlain"}, {"name": "CAPOLAVORO", "src": "assets/logos/capolavoro.png", "key": "capolavoro"}, {"name": "GRAZIA", "src": "assets/logos/grazia.png", "key": "grazia"}, {"name": "Acqua di Parma", "src": "assets/logos/acqua.png", "key": "acqua"}, {"name": "Apple", "src": "assets/logos/apple.png", "key": "apple"}, {"name": "WEAT", "src": "assets/logos/weat.png", "key": "weat"}, {"name": "Giacomelli Trachten", "src": "assets/logos/giacomelli.png", "key": "giacomelli"}, {"name": "ariane ernst", "src": "assets/logos/ariane.png", "key": "ariane"}, {"name": "NEWSHA", "src": "assets/logos/newsha.png", "key": "newsha"}, {"name": "Outletcity Metzingen", "src": "assets/logos/outletcity.png", "key": "outletcity"}, {"name": "Fédération de la Haute Couture et de la Mode", "src": "assets/logos/fhcm.png", "key": "fhcm"}, {"name": "LES VISIONNAIRES", "src": "assets/logos/visionnaires.png", "key": "visionnaires"}, {"name": "INUIKII", "src": "assets/logos/inuikii.png", "key": "inuikii"}, {"name": "Calzedonia", "src": "assets/logos/calzedonia.png", "key": "calzedonia"}, {"name": "The Frankie Shop", "src": "assets/logos/frankie.png", "key": "frankie"}, {"name": "COMMA", "src": "assets/logos/comma.png", "key": "comma"}, {"name": "VOGUE", "src": "assets/logos/vogue.png", "key": "vogue"}, {"name": "DRYKORN", "src": "assets/logos/drykorn.png", "key": "drykorn"}, {"name": "SNOCKS", "src": "assets/logos/snocks.png", "key": "snocks"}, {"name": "PURELEI", "src": "assets/logos/purelei.png", "key": "purelei"}, {"name": "Dyson", "src": "assets/logos/dyson.png", "key": "dyson"}, {"name": "Breuninger", "src": "assets/logos/breuninger.png", "key": "breuninger"}];
 const brandItems=duplicate=>brands.map(brand=>`<li data-logo="${brand.key}"><img src="${escape(asset(brand.src))}" alt="${duplicate?'':escape(brand.name)}" width="168" height="64" decoding="async"></li>`).join('');
-const brandBand=()=>`<section class="brand-band" aria-label="Brands"><div class="brand-window"><div class="brand-track"><ul class="brand-list">${brandItems(false)}</ul><ul class="brand-list" aria-hidden="true">${brandItems(true)}</ul></div></div></section>`;
+const brandBand=()=>`<section class="brand-band" aria-label="Brands"><div class="brand-window" tabindex="0" aria-label="Brand logos. Hold and drag to browse; release to resume. Use arrow keys to browse."><div class="brand-track"><ul class="brand-list">${brandItems(false)}</ul><ul class="brand-list" aria-hidden="true">${brandItems(true)}</ul></div></div></section>`;
 root.innerHTML=`<div class="portfolio">${page==='home'?'':`<header class="site-header"><a href="../">HOME</a><a href="../about/" ${page==='about'?'aria-current="page"':''}>ABOUT ME</a><a href="../contact/" ${page==='contact'?'aria-current="page"':''}>CONTACT</a></header>`}<main id="main-content"></main>${brandPages.includes(page)?brandBand():''}<footer class="legal-footer"><p>© 2026 Management Moritz Scholz</p><nav aria-label="Legal"><a href="${prefix}imprint/">Imprint</a><a href="${prefix}privacy/">Privacy Policy</a></nav></footer></div>`;
 const main=document.querySelector('#main-content');
+// Keep a single animation timeline so dragging resumes at the released position.
+const brandWindow=root.querySelector('.brand-window');
+if(brandWindow){
+ const track=brandWindow.querySelector('.brand-track'),list=track.querySelector('.brand-list');
+ const motion=matchMedia('(prefers-reduced-motion: reduce)');
+ const duration=480000;
+ let animation,span=0,drag=null,keyboardHeld=false;
+ const wrap=(value,size)=>((value%size)+size)%size;
+ const sync=()=>{if(!animation)return;if(drag||keyboardHeld||motion.matches||document.hidden)animation.pause();else animation.play();};
+ const rebuild=()=>{
+  const next=list.getBoundingClientRect().width;if(!next||next===span)return;
+  const offset=animation?Number(animation.currentTime||0)/duration*span:0;
+  animation?.cancel();span=next;
+  animation=track.animate([{transform:'translateX(0)'},{transform:`translateX(${-span}px)`}],{duration,iterations:Infinity,easing:'linear'});
+  animation.currentTime=wrap(offset,span)/span*duration;sync();
+ };
+ rebuild();new ResizeObserver(rebuild).observe(list);
+ brandWindow.addEventListener('dragstart',e=>e.preventDefault());
+ brandWindow.addEventListener('pointerdown',e=>{
+  if(e.isPrimary===false||(e.pointerType==='mouse'&&e.button!==0))return;
+  drag={id:e.pointerId,x:e.clientX,time:Number(animation.currentTime||0)};
+  brandWindow.setPointerCapture(e.pointerId);brandWindow.classList.add('is-dragging');sync();
+ });
+ brandWindow.addEventListener('pointermove',e=>{
+  if(!drag||drag.id!==e.pointerId)return;
+  animation.currentTime=wrap(drag.time-(e.clientX-drag.x)/span*duration,duration);
+ });
+ const release=e=>{if(!drag||drag.id!==e.pointerId)return;drag=null;brandWindow.classList.remove('is-dragging');sync();};
+ for(const type of ['pointerup','pointercancel','lostpointercapture'])brandWindow.addEventListener(type,release);
+ brandWindow.addEventListener('keydown',e=>{
+  if(['ArrowLeft','ArrowRight'].includes(e.key)){e.preventDefault();animation.currentTime=wrap(Number(animation.currentTime||0)+(e.key==='ArrowRight'?1:-1)*120/span*duration,duration);}
+  if(e.code==='Space'){e.preventDefault();keyboardHeld=true;sync();}
+ });
+ brandWindow.addEventListener('keyup',e=>{if(e.code==='Space'){e.preventDefault();keyboardHeld=false;sync();}});
+ brandWindow.addEventListener('blur',()=>{keyboardHeld=false;sync();});
+ motion.addEventListener('change',sync);document.addEventListener('visibilitychange',sync);
+}
+
 if(page==='home'){
  main.innerHTML=`<section class="landing"><p class="location">MUNICH AND BERLIN BASED</p><h1 class="wordmark" aria-label="Moritz Scholz"><img src="assets/moritz-wordmark-editorial.svg" alt="Moritz Scholz" width="338" height="202"><span class="discipline" aria-hidden="true">VIDEO &amp; PHOTOGRAPHY</span></h1><p class="availability">AVAILABLE WORLDWIDE</p><a class="work-button" href="work/">SEE MY WORK</a>${social()}</section>`;
  }else if(page==='about'){
