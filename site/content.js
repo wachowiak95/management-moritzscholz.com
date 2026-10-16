@@ -441,12 +441,12 @@ window.portfolioContent = {
           "height": 2000
         },
         {
-          "src": "assets/people/1C16VuALGWGijZ9sEYbBgyDeLEdOa9J29.webp",
-          "thumb": "assets/people/1C16VuALGWGijZ9sEYbBgyDeLEdOa9J29-thumb.webp",
-          "alt": "Seated portrait in a green outfit.",
-          "caption": "",
-          "width": 480,
-          "height": 640
+          "src": "assets/people/10SQ-A5A9TgQvIB3wmzMQLTXM13meAKAh.webp",
+          "thumb": "assets/people/10SQ-A5A9TgQvIB3wmzMQLTXM13meAKAh-thumb.webp",
+          "width": 1600,
+          "height": 2400,
+          "alt": "Street portrait with oversized round sunglasses and a black sweatshirt.",
+          "caption": ""
         },
         {
           "src": "assets/people/1WqUsyg-UT_Jqo-_mZkM8YIuGCBsZ_f7l.webp",
