@@ -1077,26 +1077,6 @@ window.portfolioContent = {
           "instagram": "https://www.instagram.com/p/DeHluxLCH2W/"
         },
         {
-          "src": "assets/videos/film-1.mp4?v=silent-1202dfa",
-          "poster": "assets/videos/film-1.webp",
-          "title": "Demi Yenekan for MM6 Maison Margiela",
-          "duration": 7.24,
-          "width": 1080,
-          "height": 608,
-          "instagram": "https://www.instagram.com/p/Ddows2eCPog/",
-          "type": "video"
-        },
-        {
-          "src": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd.webp",
-          "thumb": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd-thumb.webp",
-          "width": 1600,
-          "height": 2400,
-          "alt": "Portrait beside a yellow street pole, with a white handbag.",
-          "caption": "",
-          "title": "Marlies Pia Pfeifhofer for Tods",
-          "instagram": "https://www.instagram.com/p/Dd0mtWrigeC/"
-        },
-        {
           "src": "assets/street-style/14h_-RYbmFb8b7H1i3jrHbj0nTgxv9d6G.webp",
           "thumb": "assets/street-style/14h_-RYbmFb8b7H1i3jrHbj0nTgxv9d6G-thumb.webp",
           "width": 1334,
@@ -1137,6 +1117,26 @@ window.portfolioContent = {
           "caption": "",
           "instagram": "",
           "layoutRow": "portraitVideos"
+        },
+        {
+          "src": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd.webp",
+          "thumb": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd-thumb.webp",
+          "width": 1600,
+          "height": 2400,
+          "alt": "Portrait beside a yellow street pole, with a white handbag.",
+          "caption": "",
+          "title": "Marlies Pia Pfeifhofer for Tods",
+          "instagram": "https://www.instagram.com/p/Dd0mtWrigeC/"
+        },
+        {
+          "src": "assets/videos/film-1.mp4?v=silent-1202dfa",
+          "poster": "assets/videos/film-1.webp",
+          "title": "Demi Yenekan for MM6 Maison Margiela",
+          "duration": 7.24,
+          "width": 1080,
+          "height": 608,
+          "instagram": "https://www.instagram.com/p/Ddows2eCPog/",
+          "type": "video"
         }
       ],
       "cover": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd.webp",

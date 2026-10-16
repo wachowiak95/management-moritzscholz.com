@@ -48,22 +48,6 @@
     "src": "assets/people/1C16VuALGWGijZ9sEYbBgyDeLEdOa9J29.webp"
   },
   {
-    "bild": "04",
-    "titel": "Demi Yenekan for MM6 Maison Margiela",
-    "beschreibung": "",
-    "typ": "video",
-    "link": "https://www.instagram.com/p/Ddows2eCPog/",
-    "src": "assets/videos/film-1.mp4?v=silent-1202dfa"
-  },
-  {
-    "bild": "05",
-    "titel": "Marlies Pia Pfeifhofer for Tods",
-    "beschreibung": "",
-    "typ": "foto",
-    "link": "https://www.instagram.com/p/Dd0mtWrigeC/",
-    "src": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd.webp"
-  },
-  {
     "bild": "03",
     "titel": "Bhavitha Mandava Streetstyle",
     "beschreibung": "",
@@ -94,5 +78,21 @@
     "typ": "foto",
     "link": "",
     "src": "assets/recent-work/cleopatra-prada-bed.webp"
+  },
+  {
+    "bild": "05",
+    "titel": "Marlies Pia Pfeifhofer for Tods",
+    "beschreibung": "",
+    "typ": "foto",
+    "link": "https://www.instagram.com/p/Dd0mtWrigeC/",
+    "src": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd.webp"
+  },
+  {
+    "bild": "04",
+    "titel": "Demi Yenekan for MM6 Maison Margiela",
+    "beschreibung": "",
+    "typ": "video",
+    "link": "https://www.instagram.com/p/Ddows2eCPog/",
+    "src": "assets/videos/film-1.mp4?v=silent-1202dfa"
   }
 ]
