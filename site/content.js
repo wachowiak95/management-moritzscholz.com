@@ -166,22 +166,6 @@ window.portfolioContent = {
           "eventGroup": "WEMPE Dinner Nürnberg"
         },
         {
-          "src": "assets/people/1N5AfOo7vNiQKViylAnRPXOpcx-ek1VKk.webp",
-          "thumb": "assets/people/1N5AfOo7vNiQKViylAnRPXOpcx-ek1VKk-thumb.webp",
-          "alt": "Close-up of brown handbags.",
-          "caption": "",
-          "width": 1333,
-          "height": 2000
-        },
-        {
-          "src": "assets/people/1a_o4r6cXWF1bmwJLJcEXkGcdrebPL_io.webp",
-          "thumb": "assets/people/1a_o4r6cXWF1bmwJLJcEXkGcdrebPL_io-thumb.webp",
-          "alt": "Close-up of a brown coat and handbag.",
-          "caption": "",
-          "width": 1333,
-          "height": 2000
-        },
-        {
           "src": "assets/events/1Vsqv2hTzHjgeQGZJKSpOPazAj8ggRo7G.webp",
           "thumb": "assets/events/1Vsqv2hTzHjgeQGZJKSpOPazAj8ggRo7G-thumb.webp",
           "width": 1603,
