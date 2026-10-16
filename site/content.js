@@ -204,7 +204,8 @@ window.portfolioContent = {
           "width": 1725,
           "height": 2400,
           "alt": "Event photograph by Moritz Scholz.",
-          "caption": ""
+          "caption": "",
+          "eventGroup": "AMOUAGE Launch Dinner"
         },
         {
           "src": "assets/events/1qwe0Oc9sdJJ3s9dWDUljB_ZafYDfWHMp.webp",
@@ -212,7 +213,8 @@ window.portfolioContent = {
           "width": 1600,
           "height": 2400,
           "alt": "Event photograph by Moritz Scholz.",
-          "caption": ""
+          "caption": "",
+          "eventGroup": "AMOUAGE Launch Dinner"
         },
         {
           "src": "assets/events/1a63ybQhzfCBAw6xK4gCZvq9soo4cdSBd.webp",
@@ -220,7 +222,8 @@ window.portfolioContent = {
           "width": 1603,
           "height": 2400,
           "alt": "Event photograph by Moritz Scholz.",
-          "caption": ""
+          "caption": "",
+          "eventGroup": "AMOUAGE Launch Dinner"
         },
         {
           "src": "assets/events/1q0bCpsQ9Vrw_ScEkhTopJopaCXRcLN2E.webp",
