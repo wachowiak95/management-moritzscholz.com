@@ -217,7 +217,7 @@ window.portfolioContent = {
         },
         {
           "src": "assets/videos/1vc_8PqdEtLYlcc5Puex3s2Jrd-JPcVg8.mp4",
-          "poster": "assets/videos/1vc_8PqdEtLYlcc5Puex3s2Jrd-JPcVg8.webp",
+          "poster": "assets/videos/mirja-cochinelle-poster.webp",
           "width": 1080,
           "height": 1920,
           "duration": 12.066667,
@@ -946,7 +946,7 @@ window.portfolioContent = {
         },
         {
           "src": "assets/videos/1vc_8PqdEtLYlcc5Puex3s2Jrd-JPcVg8.mp4",
-          "poster": "assets/videos/1vc_8PqdEtLYlcc5Puex3s2Jrd-JPcVg8.webp",
+          "poster": "assets/videos/mirja-cochinelle-poster.webp",
           "width": 1080,
           "height": 1920,
           "duration": 12.066667,
