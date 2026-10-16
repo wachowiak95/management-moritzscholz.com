@@ -61,14 +61,6 @@ window.portfolioContent = {
           "caption": ""
         },
         {
-          "src": "assets/events/1jveFBVNA9jKPav1ZmBLE5-03fWJWQfTZ.webp",
-          "thumb": "assets/events/1jveFBVNA9jKPav1ZmBLE5-03fWJWQfTZ-thumb.webp",
-          "width": 1333,
-          "height": 2000,
-          "alt": "Milena Karl at a Guerlain event.",
-          "caption": ""
-        },
-        {
           "src": "assets/events/1YOR2FIY7NgUCEzTjm0VEidcOikiOvLp5.webp",
           "thumb": "assets/events/1YOR2FIY7NgUCEzTjm0VEidcOikiOvLp5-thumb.webp",
           "width": 1333,
