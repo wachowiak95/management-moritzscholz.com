@@ -21,19 +21,9 @@ window.portfolioContent = {
           "eventGroup": "Guerlain l'heure bleue Event Düsseldorf"
         },
         {
-          "src": "assets/events/1H5ZUSTwjc4QzZ1UTDpPQN26UowBKrBh7.webp",
-          "thumb": "assets/events/1H5ZUSTwjc4QzZ1UTDpPQN26UowBKrBh7-thumb.webp",
-          "width": 1333,
-          "height": 2000,
-          "alt": "Charleen Weiss at a Guerlain event.",
-          "caption": "",
-          "series": "events-charleen",
-          "eventGroup": "Guerlain l'heure bleue Event Düsseldorf"
-        },
-        {
-          "src": "assets/events/1RO0PkvOquvGlIl43mpj68eRg8dglxAG8.webp",
-          "thumb": "assets/events/1RO0PkvOquvGlIl43mpj68eRg8dglxAG8-thumb.webp",
-          "alt": "Two guests standing together at a Guerlain event.",
+          "src": "assets/events/1wcVaOsGlcqo5Ib21GhUrAl7VzLqwExtK.webp",
+          "thumb": "assets/events/1wcVaOsGlcqo5Ib21GhUrAl7VzLqwExtK-thumb.webp",
+          "alt": "Close-up portrait at a Guerlain event.",
           "caption": "Guerlain",
           "width": 1333,
           "height": 2000,
@@ -49,15 +39,6 @@ window.portfolioContent = {
           "eventGroup": "Guerlain l'heure bleue Event Düsseldorf"
         },
         {
-          "src": "assets/events/1zGy8BS5TIIMmrDF5qr3ZR66BT97Xukuk.webp",
-          "thumb": "assets/events/1zGy8BS5TIIMmrDF5qr3ZR66BT97Xukuk-thumb.webp",
-          "width": 1333,
-          "height": 2000,
-          "alt": "Leonie Hanne at a Guerlain event.",
-          "caption": "",
-          "eventGroup": "Guerlain l'heure bleue Event Düsseldorf"
-        },
-        {
           "src": "assets/events/1YOR2FIY7NgUCEzTjm0VEidcOikiOvLp5.webp",
           "thumb": "assets/events/1YOR2FIY7NgUCEzTjm0VEidcOikiOvLp5-thumb.webp",
           "width": 1333,
@@ -67,9 +48,28 @@ window.portfolioContent = {
           "eventGroup": "Guerlain l'heure bleue Event Düsseldorf"
         },
         {
-          "src": "assets/events/1wcVaOsGlcqo5Ib21GhUrAl7VzLqwExtK.webp",
-          "thumb": "assets/events/1wcVaOsGlcqo5Ib21GhUrAl7VzLqwExtK-thumb.webp",
-          "alt": "Close-up portrait at a Guerlain event.",
+          "src": "assets/events/1zGy8BS5TIIMmrDF5qr3ZR66BT97Xukuk.webp",
+          "thumb": "assets/events/1zGy8BS5TIIMmrDF5qr3ZR66BT97Xukuk-thumb.webp",
+          "width": 1333,
+          "height": 2000,
+          "alt": "Leonie Hanne at a Guerlain event.",
+          "caption": "",
+          "eventGroup": "Guerlain l'heure bleue Event Düsseldorf"
+        },
+        {
+          "src": "assets/events/1H5ZUSTwjc4QzZ1UTDpPQN26UowBKrBh7.webp",
+          "thumb": "assets/events/1H5ZUSTwjc4QzZ1UTDpPQN26UowBKrBh7-thumb.webp",
+          "width": 1333,
+          "height": 2000,
+          "alt": "Charleen Weiss at a Guerlain event.",
+          "caption": "",
+          "series": "events-charleen",
+          "eventGroup": "Guerlain l'heure bleue Event Düsseldorf"
+        },
+        {
+          "src": "assets/events/1RO0PkvOquvGlIl43mpj68eRg8dglxAG8.webp",
+          "thumb": "assets/events/1RO0PkvOquvGlIl43mpj68eRg8dglxAG8-thumb.webp",
+          "alt": "Two guests standing together at a Guerlain event.",
           "caption": "Guerlain",
           "width": 1333,
           "height": 2000,
