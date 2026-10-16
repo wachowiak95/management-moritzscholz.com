@@ -108,7 +108,8 @@ window.portfolioContent = {
           "alt": "Watch display inside a glass case.",
           "caption": "Wempe x Antwerpen",
           "width": 1336,
-          "height": 2000
+          "height": 2000,
+          "eventGroup": "WEMPE Dinner Nürnberg"
         },
         {
           "src": "assets/events/1afERE8SJUdKwJglYITHWRNFmA_EQCf85.webp",
@@ -116,7 +117,8 @@ window.portfolioContent = {
           "width": 1336,
           "height": 2000,
           "alt": "Close-up of jewellery on a pale display surface.",
-          "caption": ""
+          "caption": "",
+          "eventGroup": "WEMPE Dinner Nürnberg"
         },
         {
           "src": "assets/events/1jexTKNj91ViMoptyMF18iLZYPwVeVYaj.webp",
@@ -124,7 +126,8 @@ window.portfolioContent = {
           "width": 1336,
           "height": 2000,
           "alt": "Portrait in black at a jewellery dinner.",
-          "caption": ""
+          "caption": "",
+          "eventGroup": "WEMPE Dinner Nürnberg"
         },
         {
           "src": "assets/events/18gNX8S8WP53H9HvoC0z-M13nEpj6MSS9.webp",
@@ -132,7 +135,8 @@ window.portfolioContent = {
           "alt": "Close-up of a wristwatch above a table.",
           "caption": "Wempe x Antwerpen",
           "width": 1336,
-          "height": 2000
+          "height": 2000,
+          "eventGroup": "WEMPE Dinner Nürnberg"
         },
         {
           "src": "assets/events/1NtO20-Ib-UyetAY1vpeCOscYLCO1R2Zj.webp",
@@ -140,7 +144,8 @@ window.portfolioContent = {
           "alt": "Plated dish on a dining table.",
           "caption": "Wempe x Antwerpen",
           "width": 1336,
-          "height": 2000
+          "height": 2000,
+          "eventGroup": "WEMPE Dinner Nürnberg"
         },
         {
           "src": "assets/events/1vxXrEug3oNVf-W2O1CRC76yk9iTN06J0.webp",
@@ -148,7 +153,8 @@ window.portfolioContent = {
           "alt": "Close-up of hands and a wristwatch.",
           "caption": "Wempe x Antwerpen",
           "width": 1336,
-          "height": 2000
+          "height": 2000,
+          "eventGroup": "WEMPE Dinner Nürnberg"
         },
         {
           "src": "assets/events/1dE1ldy8HRXLOiiiU7L0S6UwIYXw1zAYb.webp",
@@ -156,7 +162,8 @@ window.portfolioContent = {
           "width": 1336,
           "height": 2000,
           "alt": "Table detail with a glass at a jewellery dinner.",
-          "caption": ""
+          "caption": "",
+          "eventGroup": "WEMPE Dinner Nürnberg"
         },
         {
           "src": "assets/people/1N5AfOo7vNiQKViylAnRPXOpcx-ek1VKk.webp",
