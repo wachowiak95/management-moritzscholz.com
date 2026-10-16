@@ -85,24 +85,6 @@ window.portfolioContent = {
           "eventGroup": "Guerlain l'heure bleue Event Berlin"
         },
         {
-          "src": "assets/events/107e4XPPd2rPCfc4NZ7ZtT-sWQvWM2Yim.webp",
-          "thumb": "assets/events/107e4XPPd2rPCfc4NZ7ZtT-sWQvWM2Yim-thumb.webp",
-          "alt": "Perfume bottles displayed in bright light.",
-          "caption": "ROJA Berlin",
-          "width": 1336,
-          "height": 2000,
-          "eventGroup": "Guerlain l'heure bleue Event Berlin"
-        },
-        {
-          "src": "assets/events/19ZhZmHhJfMEX_-z4dfyc3w0Gxrc3d8KH.webp",
-          "thumb": "assets/events/19ZhZmHhJfMEX_-z4dfyc3w0Gxrc3d8KH-thumb.webp",
-          "alt": "Guest holding a bottle against a blue backdrop.",
-          "caption": "ROJA Berlin",
-          "width": 1333,
-          "height": 2000,
-          "eventGroup": "Guerlain l'heure bleue Event Berlin"
-        },
-        {
           "src": "assets/events/1k1Ed_kHWhd8vbchaI3iSHttLoz1vFitm.webp",
           "thumb": "assets/events/1k1Ed_kHWhd8vbchaI3iSHttLoz1vFitm-thumb.webp",
           "alt": "Watch display inside a glass case.",
@@ -299,6 +281,24 @@ window.portfolioContent = {
           "alt": "Event photograph by Moritz Scholz.",
           "caption": "",
           "eventGroup": "by Aylin König x Vitra. Dinner"
+        },
+        {
+          "src": "assets/events/107e4XPPd2rPCfc4NZ7ZtT-sWQvWM2Yim.webp",
+          "thumb": "assets/events/107e4XPPd2rPCfc4NZ7ZtT-sWQvWM2Yim-thumb.webp",
+          "alt": "Perfume bottles displayed in bright light.",
+          "caption": "ROJA Berlin",
+          "width": 1336,
+          "height": 2000,
+          "eventGroup": "ROJA Elysium Event Berlin"
+        },
+        {
+          "src": "assets/events/19ZhZmHhJfMEX_-z4dfyc3w0Gxrc3d8KH.webp",
+          "thumb": "assets/events/19ZhZmHhJfMEX_-z4dfyc3w0Gxrc3d8KH-thumb.webp",
+          "alt": "Guest holding a bottle against a blue backdrop.",
+          "caption": "ROJA Berlin",
+          "width": 1333,
+          "height": 2000,
+          "eventGroup": "ROJA Elysium Event Berlin"
         }
       ],
       "coverPosition": "50% 44%",
