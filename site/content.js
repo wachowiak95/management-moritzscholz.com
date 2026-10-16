@@ -175,18 +175,18 @@ window.portfolioContent = {
           "eventGroup": "CeraVe x NBA Event Berlin"
         },
         {
-          "src": "assets/events/18kehM_7O-pZjXJUKCNGWu1dNmSSu_sC8.webp",
-          "thumb": "assets/events/18kehM_7O-pZjXJUKCNGWu1dNmSSu_sC8-thumb.webp",
-          "width": 1725,
+          "src": "assets/events/1qwe0Oc9sdJJ3s9dWDUljB_ZafYDfWHMp.webp",
+          "thumb": "assets/events/1qwe0Oc9sdJJ3s9dWDUljB_ZafYDfWHMp-thumb.webp",
+          "width": 1600,
           "height": 2400,
           "alt": "Event photograph by Moritz Scholz.",
           "caption": "",
           "eventGroup": "AMOUAGE Dinner Hamburg"
         },
         {
-          "src": "assets/events/1qwe0Oc9sdJJ3s9dWDUljB_ZafYDfWHMp.webp",
-          "thumb": "assets/events/1qwe0Oc9sdJJ3s9dWDUljB_ZafYDfWHMp-thumb.webp",
-          "width": 1600,
+          "src": "assets/events/18kehM_7O-pZjXJUKCNGWu1dNmSSu_sC8.webp",
+          "thumb": "assets/events/18kehM_7O-pZjXJUKCNGWu1dNmSSu_sC8-thumb.webp",
+          "width": 1725,
           "height": 2400,
           "alt": "Event photograph by Moritz Scholz.",
           "caption": "",
