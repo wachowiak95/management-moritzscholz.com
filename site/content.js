@@ -76,15 +76,6 @@ window.portfolioContent = {
           "eventGroup": "Guerlain l'heure bleue Event Düsseldorf"
         },
         {
-          "src": "assets/events/1k1Ed_kHWhd8vbchaI3iSHttLoz1vFitm.webp",
-          "thumb": "assets/events/1k1Ed_kHWhd8vbchaI3iSHttLoz1vFitm-thumb.webp",
-          "alt": "Watch display inside a glass case.",
-          "caption": "Wempe x Antwerpen",
-          "width": 1336,
-          "height": 2000,
-          "eventGroup": "WEMPE Dinner Nürnberg"
-        },
-        {
           "src": "assets/events/1afERE8SJUdKwJglYITHWRNFmA_EQCf85.webp",
           "thumb": "assets/events/1afERE8SJUdKwJglYITHWRNFmA_EQCf85-thumb.webp",
           "width": 1336,
