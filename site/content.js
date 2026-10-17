@@ -1107,7 +1107,7 @@ window.portfolioContent = {
           "title": "Cleopatra zu Oettingen-Spielberg for PRADA",
           "alt": "Cleopatra zu Oettingen-Spielberg reclining on a bed with a Prada handbag.",
           "caption": "",
-          "instagram": "",
+          "instagram": "https://www.instagram.com/p/Dela_I1iP6k/?img_index=4&cplk=MWV3azdhcjhhNmdkZw==",
           "layoutRow": "portraitVideos"
         },
         {
