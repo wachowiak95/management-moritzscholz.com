@@ -437,3 +437,5 @@ body[data-page="events"] .event-group .image-tile {
 @media(min-width:701px) {
  .recent-video-row { --recent-height:calc((100cqw - 36px)/3.5); }
 }
+
+.brand-track { will-change:transform; backface-visibility:hidden; }

@@ -28,15 +28,15 @@ const brandWindow=root.querySelector('.brand-window');
 if(brandWindow){
  const track=brandWindow.querySelector('.brand-track'),list=track.querySelector('.brand-list');
  const motion=matchMedia('(prefers-reduced-motion: reduce)');
- const duration=480000;
- let animation,span=0,drag=null,keyboardHeld=false;
+ const pixelsPerSecond=20;
+ let duration=0,animation,span=0,drag=null,keyboardHeld=false;
  const wrap=(value,size)=>((value%size)+size)%size;
  const sync=()=>{if(!animation)return;if(drag||keyboardHeld||motion.matches||document.hidden)animation.pause();else animation.play();};
  const rebuild=()=>{
   const next=list.getBoundingClientRect().width;if(!next||next===span)return;
   const offset=animation?Number(animation.currentTime||0)/duration*span:0;
-  animation?.cancel();span=next;
-  animation=track.animate([{transform:'translateX(0)'},{transform:`translateX(${-span}px)`}],{duration,iterations:Infinity,easing:'linear'});
+  animation?.cancel();span=next;duration=span/pixelsPerSecond*1000;
+  animation=track.animate([{transform:'translate3d(0,0,0)'},{transform:`translate3d(${-span}px,0,0)`}],{duration,iterations:Infinity,easing:'linear'});
   animation.currentTime=wrap(offset,span)/span*duration;sync();
  };
  rebuild();new ResizeObserver(rebuild).observe(list);
