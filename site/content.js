@@ -148,6 +148,15 @@ window.portfolioContent = {
           "eventGroup": "WEMPE Dinner Nürnberg"
         },
         {
+          "src": "assets/events/1C6SQeO_fH7OAC5I8Ujng21Fa5rUO5pP1.webp",
+          "thumb": "assets/events/1C6SQeO_fH7OAC5I8Ujng21Fa5rUO5pP1-thumb.webp",
+          "width": 1603,
+          "height": 2400,
+          "alt": "Jewellery displayed on a large white rose at the WEMPE dinner.",
+          "caption": "",
+          "eventGroup": "WEMPE Dinner Nürnberg"
+        },
+        {
           "src": "assets/events/1Vsqv2hTzHjgeQGZJKSpOPazAj8ggRo7G.webp",
           "thumb": "assets/events/1Vsqv2hTzHjgeQGZJKSpOPazAj8ggRo7G-thumb.webp",
           "width": 1603,
