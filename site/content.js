@@ -130,6 +130,24 @@ window.portfolioContent = {
           "eventGroup": "WEMPE Dinner Nürnberg"
         },
         {
+          "src": "assets/events/1PFqcJHrSX1-9FnIQyA7H3FOaRzO4ixcP.webp",
+          "thumb": "assets/events/1PFqcJHrSX1-9FnIQyA7H3FOaRzO4ixcP-thumb.webp",
+          "width": 2400,
+          "height": 1603,
+          "alt": "Two wrists displaying watches at the WEMPE dinner.",
+          "caption": "",
+          "eventGroup": "WEMPE Dinner Nürnberg"
+        },
+        {
+          "src": "assets/events/1lN_-kn-rRXlVzLJgFfBIw2znU-7iB0i1.webp",
+          "thumb": "assets/events/1lN_-kn-rRXlVzLJgFfBIw2znU-7iB0i1-thumb.webp",
+          "width": 1603,
+          "height": 2400,
+          "alt": "Guest raising a glass at the WEMPE dinner in Nürnberg.",
+          "caption": "",
+          "eventGroup": "WEMPE Dinner Nürnberg"
+        },
+        {
           "src": "assets/events/1Vsqv2hTzHjgeQGZJKSpOPazAj8ggRo7G.webp",
           "thumb": "assets/events/1Vsqv2hTzHjgeQGZJKSpOPazAj8ggRo7G-thumb.webp",
           "width": 1603,
@@ -153,6 +171,15 @@ window.portfolioContent = {
           "width": 1603,
           "height": 2400,
           "alt": "Event photograph by Moritz Scholz.",
+          "caption": "",
+          "eventGroup": "CeraVe x NBA Event Berlin"
+        },
+        {
+          "src": "assets/events/10wuVnoTFlnlADHVDWTt9OFJ8gMlYeAtT.webp",
+          "thumb": "assets/events/10wuVnoTFlnlADHVDWTt9OFJ8gMlYeAtT-thumb.webp",
+          "width": 1603,
+          "height": 2400,
+          "alt": "Guest holding a CeraVe basketball at the NBA event in Berlin.",
           "caption": "",
           "eventGroup": "CeraVe x NBA Event Berlin"
         },
