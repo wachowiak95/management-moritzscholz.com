@@ -184,6 +184,15 @@ window.portfolioContent = {
           "eventGroup": "AMOUAGE Dinner Hamburg"
         },
         {
+          "src": "assets/events/1mJx08oCYttKJZvMbDaJRutaRaMt6EaVx.webp",
+          "thumb": "assets/events/1mJx08oCYttKJZvMbDaJRutaRaMt6EaVx-thumb.webp",
+          "width": 1600,
+          "height": 2400,
+          "alt": "Hand holding an AMOUAGE Guidance perfume bottle.",
+          "caption": "",
+          "eventGroup": "AMOUAGE Dinner Hamburg"
+        },
+        {
           "src": "assets/events/1c2AtHX33u1b74v-8qebhKUW-3Pz-arw4.webp",
           "thumb": "assets/events/1c2AtHX33u1b74v-8qebhKUW-3Pz-arw4-thumb.webp",
           "width": 1600,
@@ -207,6 +216,15 @@ window.portfolioContent = {
           "width": 1600,
           "height": 2400,
           "alt": "Event photograph by Moritz Scholz.",
+          "caption": "",
+          "eventGroup": "Max Mara Store Opening Event Munich"
+        },
+        {
+          "src": "assets/events/1SDFfGdO31_aAQajwj01kPN5TuTyWzJBz.webp",
+          "thumb": "assets/events/1SDFfGdO31_aAQajwj01kPN5TuTyWzJBz-thumb.webp",
+          "width": 1600,
+          "height": 2400,
+          "alt": "Guest wearing a white blouse and brown skirt with a handbag at the Max Mara opening in Munich.",
           "caption": "",
           "eventGroup": "Max Mara Store Opening Event Munich"
         },
