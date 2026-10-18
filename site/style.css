@@ -439,3 +439,14 @@ body[data-page="events"] .event-group .image-tile {
 }
 
 .brand-track { will-change:transform; backface-visibility:hidden; }
+
+/* Final Recent Work row: three portraits followed by the full landscape film. */
+@media(min-width:701px) {
+ .recent-feature-row { --recent-height:calc((100cqw - 36px)/(2 + 1080/608)); }
+ body[data-page="recent-work"] .recent-feature-row > .video-card:not(.landscape) { flex:1; }
+ body[data-page="recent-work"] .recent-feature-row > .video-card:not(.landscape) .video-stage { aspect-ratio:2 / 3; }
+}
+@media(max-width:700px) {
+ body[data-page="recent-work"] .recent-feature-row > .video-card:not(.landscape) { grid-column:auto; }
+ body[data-page="recent-work"] .recent-feature-row > .video-card:not(.landscape) .video-stage { aspect-ratio:2 / 3; height:auto; }
+}

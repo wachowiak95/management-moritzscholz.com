@@ -1166,6 +1166,28 @@ window.portfolioContent = {
           "instagram": "https://www.instagram.com/p/Dd0mtWrigeC/"
         },
         {
+          "type": "video",
+          "title": "Ann-Kathrin Götze for MiuMiu",
+          "src": "assets/videos/1oqrG_Ub7tgtcI7DHRJQ2n6Lxi2pWGGVn.mp4",
+          "poster": "assets/videos/1oqrG_Ub7tgtcI7DHRJQ2n6Lxi2pWGGVn.webp",
+          "width": 1080,
+          "height": 1920,
+          "duration": 13.433333,
+          "instagram": "https://www.instagram.com/reel/DeE7fBpound/?psln=cmRkemsxNTV0Mnl6",
+          "layoutRow": "feature"
+        },
+        {
+          "type": "video",
+          "title": "TingTing Lai for Armani",
+          "src": "assets/videos/1dDjNktoirFY-g6ys1PJ_ppHQ_sENPz2Y.mp4",
+          "poster": "assets/videos/1dDjNktoirFY-g6ys1PJ_ppHQ_sENPz2Y.webp",
+          "width": 1080,
+          "height": 1920,
+          "duration": 24.466667,
+          "instagram": "https://www.instagram.com/reel/DPGiss3DJiO/?rpxt=MWV1ZXRzMDBsc241NQ==",
+          "layoutRow": "feature"
+        },
+        {
           "src": "assets/videos/film-1.mp4?v=silent-1202dfa",
           "poster": "assets/videos/film-1.webp",
           "title": "Demi Yenekan for MM6 Maison Margiela",
