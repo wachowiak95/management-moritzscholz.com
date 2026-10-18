@@ -1156,25 +1156,14 @@ window.portfolioContent = {
           "layoutRow": "portraitVideos"
         },
         {
-          "src": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd.webp",
-          "thumb": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd-thumb.webp",
-          "width": 1600,
-          "height": 2400,
-          "alt": "Portrait beside a yellow street pole, with a white handbag.",
-          "caption": "",
-          "title": "Marlies Pia Pfeifhofer for Tods",
-          "instagram": "https://www.instagram.com/p/Dd0mtWrigeC/"
-        },
-        {
-          "type": "video",
-          "title": "Ann-Kathrin Götze for MiuMiu",
-          "src": "assets/videos/1oqrG_Ub7tgtcI7DHRJQ2n6Lxi2pWGGVn.mp4",
-          "poster": "assets/videos/1oqrG_Ub7tgtcI7DHRJQ2n6Lxi2pWGGVn.webp",
+          "src": "assets/videos/film-1.mp4?v=silent-1202dfa",
+          "poster": "assets/videos/film-1.webp",
+          "title": "Demi Yenekan for MM6 Maison Margiela",
+          "duration": 7.24,
           "width": 1080,
-          "height": 1920,
-          "duration": 13.433333,
-          "instagram": "https://www.instagram.com/reel/DeE7fBpound/?psln=cmRkemsxNTV0Mnl6",
-          "layoutRow": "feature"
+          "height": 608,
+          "instagram": "https://www.instagram.com/p/Ddows2eCPog/",
+          "type": "video"
         },
         {
           "type": "video",
@@ -1188,14 +1177,25 @@ window.portfolioContent = {
           "layoutRow": "feature"
         },
         {
-          "src": "assets/videos/film-1.mp4?v=silent-1202dfa",
-          "poster": "assets/videos/film-1.webp",
-          "title": "Demi Yenekan for MM6 Maison Margiela",
-          "duration": 7.24,
+          "type": "video",
+          "title": "Ann-Kathrin Götze for MiuMiu",
+          "src": "assets/videos/1oqrG_Ub7tgtcI7DHRJQ2n6Lxi2pWGGVn.mp4",
+          "poster": "assets/videos/1oqrG_Ub7tgtcI7DHRJQ2n6Lxi2pWGGVn.webp",
           "width": 1080,
-          "height": 608,
-          "instagram": "https://www.instagram.com/p/Ddows2eCPog/",
-          "type": "video"
+          "height": 1920,
+          "duration": 13.433333,
+          "instagram": "https://www.instagram.com/reel/DeE7fBpound/?psln=cmRkemsxNTV0Mnl6",
+          "layoutRow": "feature"
+        },
+        {
+          "src": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd.webp",
+          "thumb": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd-thumb.webp",
+          "width": 1600,
+          "height": 2400,
+          "alt": "Portrait beside a yellow street pole, with a white handbag.",
+          "caption": "",
+          "title": "Marlies Pia Pfeifhofer for Tods",
+          "instagram": "https://www.instagram.com/p/Dd0mtWrigeC/"
         }
       ],
       "cover": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd.webp",

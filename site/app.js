@@ -108,7 +108,8 @@ if(page==='home'){
   const featureVideos=photoBlocks.filter((block,i)=>cat.media[i].layoutRow==='feature');
   const portraitVideos=photoBlocks.filter((block,i)=>cat.media[i].layoutRow==='portraitVideos'||(!cat.media[i].layoutRow&&cat.media[i].type==='video'&&cat.media[i].width<=cat.media[i].height));
   const photos=photoBlocks.filter((block,i)=>cat.media[i].layoutRow==='photos'||(!cat.media[i].layoutRow&&cat.media[i].type!=='video'));
-  grid.innerHTML=videos.length&&photos.length>1?`<div class="recent-row recent-photo-row">${photos.slice(0,-1).join('')}</div>${portraitVideos.length?`<div class="recent-row recent-video-row">${portraitVideos.join('')}</div>`:''}<div class="recent-row recent-feature-row">${photos.slice(-1).join('')}${featureVideos.join('')}${videos.join('')}</div>`:photoBlocks.join('');
+  const featureBlocks=photoBlocks.filter(block=>featureVideos.includes(block)||videos.includes(block)||block===photos.at(-1));
+  grid.innerHTML=videos.length&&photos.length>1?`<div class="recent-row recent-photo-row">${photos.slice(0,-1).join('')}</div>${portraitVideos.length?`<div class="recent-row recent-video-row">${portraitVideos.join('')}</div>`:''}<div class="recent-row recent-feature-row">${featureBlocks.join('')}</div>`:photoBlocks.join('');
  }else if(cat.slug==='events'&&cat.media.some(photo=>photo.eventGroup)){
   grid.classList.add('event-groups');
   const groups=new Map();

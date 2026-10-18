@@ -80,20 +80,12 @@
     "src": "assets/recent-work/cleopatra-prada-bed.webp"
   },
   {
-    "bild": "05",
-    "titel": "Marlies Pia Pfeifhofer for Tods",
-    "beschreibung": "",
-    "typ": "foto",
-    "link": "https://www.instagram.com/p/Dd0mtWrigeC/",
-    "src": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd.webp"
-  },
-  {
-    "bild": "13",
-    "titel": "Ann-Kathrin Götze for MiuMiu",
+    "bild": "04",
+    "titel": "Demi Yenekan for MM6 Maison Margiela",
     "beschreibung": "",
     "typ": "video",
-    "link": "https://www.instagram.com/reel/DeE7fBpound/?psln=cmRkemsxNTV0Mnl6",
-    "src": "assets/videos/1oqrG_Ub7tgtcI7DHRJQ2n6Lxi2pWGGVn.mp4"
+    "link": "https://www.instagram.com/p/Ddows2eCPog/",
+    "src": "assets/videos/film-1.mp4?v=silent-1202dfa"
   },
   {
     "bild": "14",
@@ -104,11 +96,19 @@
     "src": "assets/videos/1dDjNktoirFY-g6ys1PJ_ppHQ_sENPz2Y.mp4"
   },
   {
-    "bild": "04",
-    "titel": "Demi Yenekan for MM6 Maison Margiela",
+    "bild": "13",
+    "titel": "Ann-Kathrin Götze for MiuMiu",
     "beschreibung": "",
     "typ": "video",
-    "link": "https://www.instagram.com/p/Ddows2eCPog/",
-    "src": "assets/videos/film-1.mp4?v=silent-1202dfa"
+    "link": "https://www.instagram.com/reel/DeE7fBpound/?psln=cmRkemsxNTV0Mnl6",
+    "src": "assets/videos/1oqrG_Ub7tgtcI7DHRJQ2n6Lxi2pWGGVn.mp4"
+  },
+  {
+    "bild": "05",
+    "titel": "Marlies Pia Pfeifhofer for Tods",
+    "beschreibung": "",
+    "typ": "foto",
+    "link": "https://www.instagram.com/p/Dd0mtWrigeC/",
+    "src": "assets/people/1-ip1IQCExg0A5hR2gM6gTL37lmu8irXd.webp"
   }
 ]
