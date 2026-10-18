@@ -440,10 +440,9 @@ body[data-page="events"] .event-group .image-tile {
 
 .brand-track { will-change:transform; backface-visibility:hidden; }
 
-/* Match the final Recent Work columns to the Prada row above. */
+/* Final Recent Work row: three portraits followed by the full landscape film. */
 @media(min-width:701px) {
- .recent-feature-row { --recent-height:calc((100cqw - 36px)/3.5); }
- body[data-page="recent-work"] .recent-feature-row > .video-card.landscape { flex:2.25; }
+ .recent-feature-row { --recent-height:calc((100cqw - 36px)/(2 + 1080/608)); }
  body[data-page="recent-work"] .recent-feature-row > .video-card:not(.landscape) { flex:1; }
  body[data-page="recent-work"] .recent-feature-row > .video-card:not(.landscape) .video-stage { aspect-ratio:2 / 3; }
 }
